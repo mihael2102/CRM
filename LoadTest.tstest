@@ -134,8 +134,8 @@
         "__value": {
           "MinimumUsers": 1,
           "StartUserCount": 1,
-          "MaxUserCount": 7,
-          "UserRampTimeInMinutes": 0.0,
+          "MaxUserCount": 100,
+          "UserRampTimeInMinutes": 10.0,
           "Name": null,
           "UserScenarios": [
             {
@@ -191,7 +191,7 @@
     "ControlAndLoadFromThisComputer": false,
     "LastView": 4,
     "ReportingSampleInterval": "00:00:05",
-    "Duration": "00:03:00",
+    "Duration": "00:12:00",
     "Preferences": {
       "ForceNewConnection": true,
       "DelayGC": false

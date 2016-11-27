@@ -29,7 +29,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "1.resx",
+    "ResourceFilePath": "WebTest.resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -59,13 +59,13 @@
     "QcTestVersionStamp": 0,
     "TestLinks": [],
     "Description": "",
-    "Name": "1",
+    "Name": "WebTest",
     "Owner": "",
-    "Path": "1.tstest",
+    "Path": "WebTest.tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "62f2fc58-b6da-4990-9ce7-602887f0c111",
-    "Id": "62f2fc58-b6da-4990-9ce7-602887f0c111",
+    "UniqueId": "19f8d9ee-ef13-4bf4-9876-436f60e1e61c",
+    "Id": "19f8d9ee-ef13-4bf4-9876-436f60e1e61c",
     "ProjectId": "f64a64db-19cf-4629-aecf-fb7a07075dcb",
     "Version": 200
   }
