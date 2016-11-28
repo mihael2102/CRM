@@ -1,10 +1,10 @@
 {
   "__type": "ArtOfTest.WebAii.Design.Execution.TestList",
   "__value": {
-    "TestListId": "64221918-a36f-4d21-b746-b96ddb058138",
-    "Id": "64221918-a36f-4d21-b746-b96ddb058138",
-    "TestListName": "1",
-    "CreationDate": "2016-11-24T08:51:09",
+    "TestListId": "9919cb21-fb69-4ce7-836e-9c6ebf835c0c",
+    "Id": "9919cb21-fb69-4ce7-836e-9c6ebf835c0c",
+    "TestListName": "Web Site BO",
+    "CreationDate": "2016-11-28T17:21:45",
     "OwnerName": null,
     "Settings": {
       "__type": "ArtOfTest.WebAii.Core.Settings",
@@ -22,7 +22,7 @@
             "WebAppPhysicalPath": "",
             "DefaultBrowser": 1,
             "EnableScriptLogging": false,
-            "BaseUrl": "http://mtxplus.ptscrm.com",
+            "BaseUrl": "https://ultrafinance.com/",
             "KillBrowserProcessOnClose": false,
             "UseHttpProxy": false,
             "EnableSilverlight": false,
@@ -58,16 +58,24 @@
       {
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
-          "Id": "9195f477-bf2b-4929-b97b-e5dffcdf222d",
-          "Path": "WebTest(1).tstest",
+          "Id": "3fb12680-71ad-4a9b-8327-6ef8ec207010",
+          "Path": "Web Site\\Buttons 'Login' and 'SignUp' are present(BO).tstest",
           "PathType": 0
         }
       },
       {
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
-          "Id": "19f8d9ee-ef13-4bf4-9876-436f60e1e61c",
-          "Path": "WebTest.tstest",
+          "Id": "a233b3c8-4627-4b68-a75f-4f263250fb92",
+          "Path": "Web Site\\Option to start trading is present.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "3af69db0-c261-48e8-b17f-7d126c3de49d",
+          "Path": "Web Site\\Verify that menu is present.tstest",
           "PathType": 0
         }
       }
