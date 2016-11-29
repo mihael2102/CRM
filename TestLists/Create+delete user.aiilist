@@ -59,7 +59,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "fe364906-debf-43fd-b258-22b3a8861af0",
-          "Path": "Sanity\\Create 'New User' (Negative tests).tstest",
+          "Path": "CRM\\Create 'New User' (Negative tests).tstest",
           "PathType": 0
         }
       },
@@ -67,7 +67,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "83c117da-e726-49c5-a06f-33ebea102f4c",
-          "Path": "Sanity\\Create 'New User' (Positive test).tstest",
+          "Path": "CRM\\Create 'New User' (Positive test).tstest",
           "PathType": 0
         }
       },
@@ -75,7 +75,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "a74049b7-3f50-46e3-9647-a7cc0e3c31bb",
-          "Path": "Sanity\\Delete user.tstest",
+          "Path": "CRM\\Delete user.tstest",
           "PathType": 0
         }
       }

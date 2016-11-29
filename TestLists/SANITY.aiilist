@@ -59,7 +59,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "46c8d064-4286-4d68-abf6-654fc62b1c3a",
-          "Path": "Sanity\\Login+Sign_Out.tstest",
+          "Path": "CRM\\Login+Sign_Out.tstest",
           "PathType": 0
         }
       },
@@ -67,7 +67,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "a9ecba66-7d75-4fa1-8fe3-16eed1b0a599",
-          "Path": "Sanity\\Mass Assign_Edit.tstest",
+          "Path": "CRM\\Mass Assign_Edit.tstest",
           "PathType": 0
         }
       },
@@ -75,7 +75,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "b3593a9a-a409-413e-abcf-101229a1651b",
-          "Path": "Sanity\\'My Preferences' is opened.tstest",
+          "Path": "CRM\\'My Preferences' is opened.tstest",
           "PathType": 0
         }
       },
@@ -83,7 +83,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "a340921f-63d0-448b-8529-dee23c16e3d2",
-          "Path": "Sanity\\page 'User Management' is opened.tstest",
+          "Path": "CRM\\page 'User Management' is opened.tstest",
           "PathType": 0
         }
       },
@@ -91,7 +91,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "cc1cb4b3-1ad6-4a40-85c9-f20ee0e8b9e8",
-          "Path": "Sanity\\Panda Main Panel_BO.tstest",
+          "Path": "CRM\\Panda Main Panel_BO.tstest",
           "PathType": 0
         }
       },
@@ -99,7 +99,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "4fe26816-e236-42ae-844b-65473be2b22e",
-          "Path": "Sanity\\Panda Main Panel_FX_SW.tstest",
+          "Path": "CRM\\Panda Main Panel_FX_SW.tstest",
           "PathType": 0
         }
       },
@@ -107,7 +107,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "d483820b-72d3-419f-abc8-6a8094055c08",
-          "Path": "Sanity\\'Roles Hierarchy' opening.tstest",
+          "Path": "CRM\\'Roles Hierarchy' opening.tstest",
           "PathType": 0
         }
       },
@@ -115,7 +115,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "683a468b-39c4-429e-a239-e91492e84564",
-          "Path": "Sanity\\Search by all CRM.tstest",
+          "Path": "CRM\\Search by all CRM.tstest",
           "PathType": 0
         }
       },
@@ -123,7 +123,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "1a858e99-b376-47b6-a8e3-80a5a3a6ed21",
-          "Path": "Sanity\\Search by email(binaryCRM).tstest",
+          "Path": "CRM\\Search by email(binaryCRM).tstest",
           "PathType": 0
         }
       },
@@ -131,7 +131,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "83c117da-e726-49c5-a06f-33ebea102f4c",
-          "Path": "Sanity\\Create 'New User' (Positive test).tstest",
+          "Path": "CRM\\Create 'New User' (Positive test).tstest",
           "PathType": 0
         }
       },
@@ -139,7 +139,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "a74049b7-3f50-46e3-9647-a7cc0e3c31bb",
-          "Path": "Sanity\\Delete user.tstest",
+          "Path": "CRM\\Delete user.tstest",
           "PathType": 0
         }
       }

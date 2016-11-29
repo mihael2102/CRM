@@ -59,7 +59,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "a9ecba66-7d75-4fa1-8fe3-16eed1b0a599",
-          "Path": "Sanity\\Mass Assign_Edit.tstest",
+          "Path": "CRM\\Mass Assign_Edit.tstest",
           "PathType": 0
         }
       },
@@ -67,7 +67,7 @@
         "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
         "__value": {
           "Id": "1a858e99-b376-47b6-a8e3-80a5a3a6ed21",
-          "Path": "Sanity\\Search by email(binaryCRM).tstest",
+          "Path": "CRM\\Search by email(binaryCRM).tstest",
           "PathType": 0
         }
       }
