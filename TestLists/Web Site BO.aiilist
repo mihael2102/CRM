@@ -78,6 +78,14 @@
           "Path": "Web Site\\Verify that menu is present.tstest",
           "PathType": 0
         }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "ddf9c354-e8c7-4b7c-81dc-a97bf39641a5",
+          "Path": "Web Site\\Login with valid credentials.tstest",
+          "PathType": 0
+        }
       }
     ],
     "Filter": {
