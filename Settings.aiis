@@ -150,7 +150,7 @@
       }
     },
     "UnitTypeTypeGeneration": 1,
-    "RecorderBaseUrl": "https://ultrafinance.com",
+    "RecorderBaseUrl": "http://binaryqa.ptscrm.com",
     "IsStoryBoardCapturingEnabled": true,
     "SimulateRealClickByDefault": false,
     "SimulateRealTypingByDefault": false,

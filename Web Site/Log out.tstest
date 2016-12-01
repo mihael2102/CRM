@@ -1515,7 +1515,7 @@
             "Order": 3,
             "Id": "",
             "StepState": 0,
-            "ContinueOnFailure": false,
+            "ContinueOnFailure": true,
             "StepImageKey": "Log outifegbehb.m21",
             "QcId": 0,
             "QcVersionStamp": 0,
