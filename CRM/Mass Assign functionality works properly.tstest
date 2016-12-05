@@ -27,7 +27,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "c3f60c17-4d80-4fb3-98f2-2e8b171388af",
+            "Runtime ID": "8f802b9a-850a-4e40-a6b0-a08f88a4ea1e",
             "Description": "Clear Browser Cache",
             "CustomDescription": null,
             "Step": {
@@ -63,7 +63,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "WebTestx045jjws.3bw",
+            "StepImageKey": "Mass Assign functionality works properlyzabkiwrz.aex",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -72,7 +72,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "665f5c79-db93-4c48-8fb5-c86fba9d1b45",
+            "Runtime ID": "b5dc2e68-2405-4591-815f-9c387bd12859",
             "Description": "Navigate to : '/sprint/index.php?action=index&module=Accounts'",
             "CustomDescription": null,
             "Step": {
@@ -108,7 +108,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "WebTestcfotagp1.cyr",
+            "StepImageKey": "Mass Assign functionality works properlyxr40c0ne.flg",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -117,7 +117,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "5df7e4f7-4d94-4e05-a235-6ca9694450a0",
+            "Runtime ID": "88b1473a-2a9e-4d48-8f91-1a9ba3ca71a8",
             "Description": "Enter text 'pandaqa' in 'UserNameText'",
             "CustomDescription": null,
             "Step": {
@@ -226,7 +226,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "WebTest1nuusbfa.3fr",
+            "StepImageKey": "Mass Assign functionality works properlyldiif5gn.v40",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -235,7 +235,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "512b27ee-1be4-4e71-b984-9c6eb43238d5",
+            "Runtime ID": "efe5294d-a635-4bfe-9be6-1450b0640c11",
             "Description": "Enter text 'Pan2016' in 'UserPasswordPassword'",
             "CustomDescription": null,
             "Step": {
@@ -344,7 +344,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "WebTest3nqvjli2.340",
+            "StepImageKey": "Mass Assign functionality works properlychlx1dtb.3cx",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -353,7 +353,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "ad137fda-372f-47dd-878b-1155d242efed",
+            "Runtime ID": "d1942b86-cba3-43df-9ff5-b5458680c5ea",
             "Description": "Desktop command: LeftClick on SubmitButtonSubmit",
             "CustomDescription": null,
             "Step": {
@@ -458,7 +458,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "WebTesthqpcnpmp.3nm",
+            "StepImageKey": "Mass Assign functionality works properlygdolt4mz.gq0",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -467,7 +467,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "3414543b-6fbb-43e7-90c5-8116a8b4f6f0",
+            "Runtime ID": "be34067a-af02-4836-912b-3166017f77ee",
             "Description": "Verify element 'ClientsLink' 'is' visible.",
             "CustomDescription": null,
             "Step": {
@@ -588,7 +588,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "WebTestwncznnpu.y1a",
+            "StepImageKey": "Mass Assign functionality works properlyvficlgzv.o5d",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -597,7 +597,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "c3de15f5-6b5c-4e09-a834-686a6be720ee",
+            "Runtime ID": "881b7153-0b60-4db8-a6c0-b83d4b8885b6",
             "Description": "Desktop command: LeftClick on ClientsLink",
             "CustomDescription": null,
             "Step": {
@@ -722,7 +722,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "WebTestvi2h11yu.hld",
+            "StepImageKey": "Mass Assign functionality works properlyrgszwgp0.kua",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -731,7 +731,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "7be4bda6-112a-491b-8f1b-fc15fb8faf75",
+            "Runtime ID": "9a9eca7b-33dd-4deb-be26-d5376b8533e8",
             "Description": "IF (Verify 'TextContent' 'Exact' 'aaaa' on 'PqaPqaTableCell1')",
             "CustomDescription": null,
             "Step": {
@@ -844,7 +844,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "2a8513e7-b293-4fdd-a569-dd8243cdc3c5",
+                              "Runtime ID": "fff7edb9-e8c2-4dad-afe2-26ee13fb7a41",
                               "Description": "Check 'SelectCurrentPageRecCheckBox' to be 'True'",
                               "CustomDescription": null,
                               "Step": {
@@ -955,7 +955,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "8dcc1d09-3f3c-44fe-a70a-1e6aadb7ced4",
+                              "Runtime ID": "f15e3d8a-f932-430c-aeaf-91123e02465b",
                               "Description": "Click 'Button'",
                               "CustomDescription": null,
                               "Step": {
@@ -988,13 +988,13 @@
                                           "__value": {
                                             "Path": "/sprint/index.php",
                                             "Query": "?module=Accounts&action=index",
-                                            "BaseUrl": "https://binaryqa.ptscrm.com",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
                                             "EquivalentUrls": [],
                                             "Fragment": "",
                                             "Title": "New Binary QA - Clients - Binary Options CRM",
                                             "CompareMode": 2,
                                             "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "NewBinaryQAClients1"
+                                            "FriendlyName": "NewBinaryQAClients3"
                                           }
                                         },
                                         "Frame": null,
@@ -1002,7 +1002,7 @@
                                         "FindExpression": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "vyK+YtmHWXegEbMnltZ+23+vmpI=",
+                                            "uniqueKey": "nJDXWuJV66lJSA7V4Al/f9RrskA=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
                                             "Name": "Button",
@@ -1022,7 +1022,7 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "value=Mass Edit"
+                                                          "Clause": "value=Mass Assign"
                                                         }
                                                       }
                                                     ],
@@ -1055,7 +1055,7 @@
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
-                              "StepImageKey": "Mass Edit functionality works properly0ax5kqe2.zhh",
+                              "StepImageKey": "Mass Assign functionality works properlyuebwepgl.qi4",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -1064,8 +1064,120 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "99758509-1904-47f9-883b-170005058a44",
-                              "Description": "Click 'Span'",
+                              "Runtime ID": "d7ee7199-338e-47e8-8143-54ce54020c82",
+                              "Description": "Verify 'TextContent' 'Contains' 'Please choose a department in order to display the list of relevant users' on 'PleaseChooseSpan'",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ContentVerificationDescriptor",
+                                "__value": {
+                                  "CompareType": 2,
+                                  "SegmentType": 3,
+                                  "ExpectedString": "Please choose a department in order to display the list of relevant users",
+                                  "UseBackupSearch": true,
+                                  "DataBindVariableName": null,
+                                  "Timeout": 30000,
+                                  "CheckInterval": 500,
+                                  "EnsureStateIsCurrent": false,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {}
+                                    }
+                                  },
+                                  "Elements": {
+                                    "textTarget": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "textTarget",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "/sprint/index.php",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "NewBinaryQAClients3"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "YQ+LFMDi/OR12nXz7Bz20/cA44o=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "PleaseChooseSpan",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=^Please choose a"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=span"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[26]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[1]/span[2]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 2,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 3,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": false,
+                              "StepImageKey": "Mass Assign functionality works properly2uf55o5e.cvx",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "c5478f77-9a70-46d5-bd2f-82f34e091899",
+                              "Description": "Click 'OtherDiv'",
                               "CustomDescription": null,
                               "Step": {
                                 "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
@@ -1096,25 +1208,25 @@
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                                           "__value": {
                                             "Path": "/sprint/index.php",
-                                            "Query": "?action=index&module=Accounts",
-                                            "BaseUrl": "https://binaryqa.ptscrm.com",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
                                             "EquivalentUrls": [],
                                             "Fragment": "",
                                             "Title": "New Binary QA - Clients - Binary Options CRM",
                                             "CompareMode": 2,
                                             "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "NewBinaryQAClients2"
+                                            "FriendlyName": "NewBinaryQAClients3"
                                           }
                                         },
                                         "Frame": null,
                                         "FindInfo": null,
                                         "FindExpression": {
-                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "Y/gn2rZRSJstENh3P+XKLCCgkfs=",
+                                            "uniqueKey": "MP6EKeprMmhROP8s9TU7RVmTInI=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
-                                            "Name": "Span",
+                                            "Name": "OtherDiv",
                                             "FindExpressions": [
                                               {
                                                 "Key": 1,
@@ -1125,128 +1237,13 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "id=assigned_user_id_mass_edit_check"
+                                                          "Clause": "tagname=div"
                                                         }
                                                       },
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "TagIndex=span:0"
-                                                        }
-                                                      }
-                                                    ],
-                                                    "Constraints": [],
-                                                    "ChainStops": [
-                                                      1
-                                                    ]
-                                                  }
-                                                }
-                                              }
-                                            ],
-                                            "BackupSearchClause": null,
-                                            "DataBindingExpressions": {}
-                                          }
-                                        },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
-                                        "IsIndependent": false,
-                                        "DomStateKey": "",
-                                        "TechnologyType": 1,
-                                        "Version": 200
-                                      }
-                                    }
-                                  },
-                                  "StepType": 4,
-                                  "LogMessageOnFailure": "",
-                                  "EditorType": "",
-                                  "DataBindingExpressions": {}
-                                }
-                              },
-                              "Enabled": true,
-                              "Order": 3,
-                              "Id": "",
-                              "StepState": 0,
-                              "ContinueOnFailure": false,
-                              "StepImageKey": "WebTestc3qj34ko.pob",
-                              "QcId": 0,
-                              "QcVersionStamp": 0,
-                              "Version": 200
-                            }
-                          },
-                          {
-                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-                            "__value": {
-                              "Runtime ID": "6a3b6a6e-bc5b-432e-8a60-a3a87308b928",
-                              "Description": "Select 'ByText' option 'pandaqa pandaqa' on 'AssignedUserIdValSelect'",
-                              "CustomDescription": null,
-                              "Step": {
-                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SelectDropDownActionDescriptor",
-                                "__value": {
-                                  "SelectType": 2,
-                                  "SelectionText": "pandaqa pandaqa",
-                                  "SelectionValue": "96",
-                                  "SelectionIndex": 2,
-                                  "InvokeSelectionChanged": true,
-                                  "UsejQuery": false,
-                                  "UseBackupSearch": true,
-                                  "ClosesBrowser": false,
-                                  "AjaxTimeout": 0,
-                                  "Pause": 0,
-                                  "WaitOnElementsTimeout": 30000,
-                                  "UseStepWaitOnElementsTimout": false,
-                                  "WaitOnElements": true,
-                                  "RunsAgainstVersion": "",
-                                  "Constraints": {
-                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                                    "__value": {
-                                      "ConstraintValues": {}
-                                    }
-                                  },
-                                  "Elements": {
-                                    "dropDown": {
-                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                                      "__value": {
-                                        "Name": "dropDown",
-                                        "Region": null,
-                                        "Page": {
-                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                                          "__value": {
-                                            "Path": "/sprint/index.php",
-                                            "Query": "?action=index&module=Accounts",
-                                            "BaseUrl": "https://binaryqa.ptscrm.com",
-                                            "EquivalentUrls": [],
-                                            "Fragment": "",
-                                            "Title": "New Binary QA - Clients - Binary Options CRM",
-                                            "CompareMode": 2,
-                                            "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "NewBinaryQAClients2"
-                                          }
-                                        },
-                                        "Frame": null,
-                                        "FindInfo": null,
-                                        "FindExpression": {
-                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                                          "__value": {
-                                            "uniqueKey": "RHC1Yg0jJ+PW53VyHj+6EHwzFN4=",
-                                            "NodeKind": 4,
-                                            "TechnologyType": 1,
-                                            "Name": "AssignedUserIdValSelect",
-                                            "FindExpressions": [
-                                              {
-                                                "Key": 1,
-                                                "Value": {
-                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                                  "__value": {
-                                                    "Clauses": [
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "tagname=select"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "id=assigned_user_id_val"
+                                                          "Clause": "TextContent=Other"
                                                         }
                                                       }
                                                     ],
@@ -1256,11 +1253,11 @@
                                                 }
                                               }
                                             ],
-                                            "BackupSearchClause": null,
+                                            "BackupSearchClause": "/html[1]/body[1]/div[26]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[2]",
                                             "DataBindingExpressions": {}
                                           }
                                         },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSelect",
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
                                         "IsIndependent": false,
                                         "DomStateKey": "",
                                         "TechnologyType": 1,
@@ -1279,7 +1276,7 @@
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
-                              "StepImageKey": "WebTestm4mzet2k.3ol",
+                              "StepImageKey": "Mass Assign functionality works properlykd110nt5.1nw",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -1288,7 +1285,496 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "f0e2e8b7-c0f5-4c1a-b32a-9fb6f25776d4",
+                              "Runtime ID": "f7c515aa-fadc-48ef-8b93-016f8c1922ed",
+                              "Description": "Click 'Span1'",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+                                "__value": {
+                                  "SimulateRealClick": false,
+                                  "UsejQuery": false,
+                                  "UseBackupSearch": true,
+                                  "ClosesBrowser": false,
+                                  "AjaxTimeout": 0,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {}
+                                    }
+                                  },
+                                  "Elements": {
+                                    "target": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "target",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "/sprint/index.php",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "NewBinaryQAClients3"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "OUWr5Xynxxgeq8vlcZNJtszd5YU=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "Span1",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "class=user_list jqx-tree-dropdown-root"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "username=pandaqa pandaqa (Other)"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": [
+                                                      1
+                                                    ]
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[26]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[30]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 4,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": false,
+                              "Order": 5,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": false,
+                              "StepImageKey": "Mass Assign functionality works properlyvbp1u24i.m14",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "1481237f-c758-465a-8439-fe4704163a96",
+                              "Description": "Desktop command: LeftClick on PandaqaDiv",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopActionDescriptor",
+                                "__value": {
+                                  "Focus": true,
+                                  "DesktopActionType": 0,
+                                  "OffSet": {
+                                    "__type": "ArtOfTest.Common.Design.ActionPoint",
+                                    "__value": "0, 0, Percentage, AbsoluteCenter"
+                                  },
+                                  "UsejQuery": false,
+                                  "UseBackupSearch": true,
+                                  "ClosesBrowser": false,
+                                  "AjaxTimeout": 0,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {}
+                                    }
+                                  },
+                                  "Elements": {
+                                    "target": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "target",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "/sprint/index.php",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "NewBinaryQAClients3"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "kXaoWgIKX9mE7SrGQ4DjajsluM4=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "PandaqaDiv",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=div"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=^pandaqa pandaqa"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=pandaqa pandaqa (Other)"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "InnerText=pandaqa pandaqa (Other)"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[26]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[30]/div[2]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 4,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 6,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": true,
+                              "StepImageKey": "Mass Assign functionality works properlyst1bvnpm.4i2",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "c598e2a5-4c29-4b69-a906-82f6e629363c",
+                              "Description": "Desktop command: LeftClick on PandaqaDiv",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopActionDescriptor",
+                                "__value": {
+                                  "Focus": true,
+                                  "DesktopActionType": 0,
+                                  "OffSet": {
+                                    "__type": "ArtOfTest.Common.Design.ActionPoint",
+                                    "__value": "0, 0, Percentage, AbsoluteCenter"
+                                  },
+                                  "UsejQuery": false,
+                                  "UseBackupSearch": true,
+                                  "ClosesBrowser": false,
+                                  "AjaxTimeout": 0,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {}
+                                    }
+                                  },
+                                  "Elements": {
+                                    "target": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "target",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "/sprint/index.php",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "NewBinaryQAClients3"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "kXaoWgIKX9mE7SrGQ4DjajsluM4=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "PandaqaDiv",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=div"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=^pandaqa pandaqa"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=pandaqa pandaqa (Other)"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "InnerText=pandaqa pandaqa (Other)"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[26]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[30]/div[2]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 4,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 7,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": true,
+                              "StepImageKey": "Mass Assign functionality works properlyvkdylqaj.bn5",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "d645fd45-fc0e-4f18-aa07-c60d99a7813b",
+                              "Description": "Desktop command: LeftClick on PandaqaDiv",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopActionDescriptor",
+                                "__value": {
+                                  "Focus": true,
+                                  "DesktopActionType": 0,
+                                  "OffSet": {
+                                    "__type": "ArtOfTest.Common.Design.ActionPoint",
+                                    "__value": "0, 0, Percentage, AbsoluteCenter"
+                                  },
+                                  "UsejQuery": false,
+                                  "UseBackupSearch": true,
+                                  "ClosesBrowser": false,
+                                  "AjaxTimeout": 0,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {}
+                                    }
+                                  },
+                                  "Elements": {
+                                    "target": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "target",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "/sprint/index.php",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "NewBinaryQAClients3"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "kXaoWgIKX9mE7SrGQ4DjajsluM4=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "PandaqaDiv",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=div"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=^pandaqa pandaqa"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=pandaqa pandaqa (Other)"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "InnerText=pandaqa pandaqa (Other)"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[26]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[30]/div[2]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 4,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 8,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": true,
+                              "StepImageKey": "Mass Assign functionality works properlyewqztojg.wze",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "0d312b0e-22d2-4477-961c-a38368c3cda8",
                               "Description": "Click 'MassassignformActionButtonBUTTONTag'",
                               "CustomDescription": null,
                               "Step": {
@@ -1320,14 +1806,14 @@
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                                           "__value": {
                                             "Path": "/sprint/index.php",
-                                            "Query": "?action=index&module=Accounts",
-                                            "BaseUrl": "https://binaryqa.ptscrm.com",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
                                             "EquivalentUrls": [],
                                             "Fragment": "",
                                             "Title": "New Binary QA - Clients - Binary Options CRM",
                                             "CompareMode": 2,
                                             "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "NewBinaryQAClients2"
+                                            "FriendlyName": "NewBinaryQAClients3"
                                           }
                                         },
                                         "Frame": null,
@@ -1384,11 +1870,11 @@
                                 }
                               },
                               "Enabled": true,
-                              "Order": 5,
+                              "Order": 9,
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
-                              "StepImageKey": "WebTestrd0jojit.b2d",
+                              "StepImageKey": "Mass Assign functionality works properly51lnhscy.2iu",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -1397,8 +1883,120 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "9397679f-7d5f-4cb5-9b19-e2b888ecdd61",
-                              "Description": "Desktop command: LeftClick on ClientsLink",
+                              "Runtime ID": "49d627f2-c9f6-4491-9bd7-bc45ca839971",
+                              "Description": "Verify 'TextContent' 'Contains' '20 accounts assigned to aaaa' on 'x20AccountsDiv'",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ContentVerificationDescriptor",
+                                "__value": {
+                                  "CompareType": 2,
+                                  "SegmentType": 3,
+                                  "ExpectedString": "20 accounts assigned to aaaa",
+                                  "UseBackupSearch": true,
+                                  "DataBindVariableName": null,
+                                  "Timeout": 30000,
+                                  "CheckInterval": 500,
+                                  "EnsureStateIsCurrent": false,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {}
+                                    }
+                                  },
+                                  "Elements": {
+                                    "textTarget": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "textTarget",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "/sprint/index.php",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "NewBinaryQAClients3"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "0C9dQ+obMkMIbxDLo6k+hStuHXg=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "x20AccountsDiv",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=^20 accounts ass"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=div"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[28]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 2,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 10,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": false,
+                              "StepImageKey": "Mass Assign functionality works properlyjgcnrc4o.adm",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "02cfea5c-9172-4778-9e7d-cf422fc2774c",
+                              "Description": "Desktop command: LeftClick on OK",
                               "CustomDescription": null,
                               "Step": {
                                 "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopActionDescriptor",
@@ -1433,26 +2031,26 @@
                                         "Page": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                                           "__value": {
-                                            "Path": "https://99binary.ptscrm.com/index.php",
-                                            "Query": "?action=index&module=Accounts",
-                                            "BaseUrl": "",
+                                            "Path": "/sprint/index.php",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
                                             "EquivalentUrls": [],
                                             "Fragment": "",
-                                            "Title": "99Binary - Clients - Binary Options CRM",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
                                             "CompareMode": 2,
                                             "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "x99BinaryClientsBinary"
+                                            "FriendlyName": "NewBinaryQAClients3"
                                           }
                                         },
                                         "Frame": null,
                                         "FindInfo": null,
                                         "FindExpression": {
-                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "BB9LJL7sh1+CnM1sVkFRLtoJeG8=",
+                                            "uniqueKey": "yVw+XScb5oLeDXJzuULhaX/s6Nw=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
-                                            "Name": "ClientsLink",
+                                            "Name": "OK",
                                             "FindExpressions": [
                                               {
                                                 "Key": 1,
@@ -1463,47 +2061,39 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "TagIndex=table:1"
+                                                          "Clause": "tagname=button"
                                                         }
                                                       },
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "class=header_menu_table"
+                                                          "Clause": "TextContent=OK"
                                                         }
                                                       },
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "tagname=a"
+                                                          "Clause": "InnerMarkup=OK"
                                                         }
                                                       },
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "InnerText=Clients"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "TextContent=Clients"
+                                                          "Clause": "InnerText=OK"
                                                         }
                                                       }
                                                     ],
                                                     "Constraints": [],
-                                                    "ChainStops": [
-                                                      2
-                                                    ]
+                                                    "ChainStops": []
                                                   }
                                                 }
                                               }
                                             ],
-                                            "BackupSearchClause": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[1]/td[6]/a[1]",
+                                            "BackupSearchClause": "/html[1]/body[1]/div[28]/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]",
                                             "DataBindingExpressions": {}
                                           }
                                         },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlButton",
                                         "IsIndependent": false,
                                         "DomStateKey": "",
                                         "TechnologyType": 1,
@@ -1518,11 +2108,11 @@
                                 }
                               },
                               "Enabled": true,
-                              "Order": 6,
+                              "Order": 11,
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
-                              "StepImageKey": "WebTestdnyzx0l1.4wy",
+                              "StepImageKey": "Mass Assign functionality works properlyjw4xbhcf.il4",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -1531,7 +2121,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "4ed9e595-515d-4391-8a4b-b7b0182c0ab5",
+                              "Runtime ID": "4a26eef5-645f-4b14-8e81-a09a9cc13b29",
                               "Description": "Verify 'TextContent' 'Same' 'pandaqa pandaqa' on 'PqaPqaTableCell'",
                               "CustomDescription": null,
                               "Step": {
@@ -1638,7 +2228,7 @@
                                 }
                               },
                               "Enabled": true,
-                              "Order": 7,
+                              "Order": 12,
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
@@ -1651,7 +2241,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "615ec2f9-52cc-48e0-b401-06e2f0c4f0cf",
+                              "Runtime ID": "f6b650d3-e1d5-4324-a68c-1fa48190291c",
                               "Description": "Verify 'TextContent' 'Exact' 'pandaqa pandaqa' on 'PandaqaPandaqaTableCell'",
                               "CustomDescription": null,
                               "Step": {
@@ -1752,7 +2342,7 @@
                                 }
                               },
                               "Enabled": false,
-                              "Order": 8,
+                              "Order": 13,
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": true,
@@ -1780,7 +2370,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "ae55ad3e-138e-44db-9750-7ede02d515b4",
+                              "Runtime ID": "3244fafe-54a5-4060-aebe-79b4c8bf8712",
                               "Description": "Check 'SelectCurrentPageRecCheckBox' to be 'True'",
                               "CustomDescription": null,
                               "Step": {
@@ -1891,7 +2481,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "8bf2b181-9089-49f1-baed-1ccb5fafc230",
+                              "Runtime ID": "af4db317-c04f-48b1-bccd-79c16f75359e",
                               "Description": "Click 'Button'",
                               "CustomDescription": null,
                               "Step": {
@@ -1923,14 +2513,14 @@
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                                           "__value": {
                                             "Path": "/sprint/index.php",
-                                            "Query": "?action=index&module=Accounts",
-                                            "BaseUrl": "https://binaryqa.ptscrm.com",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
                                             "EquivalentUrls": [],
                                             "Fragment": "",
                                             "Title": "New Binary QA - Clients - Binary Options CRM",
                                             "CompareMode": 2,
                                             "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "NewBinaryQAClients2"
+                                            "FriendlyName": "NewBinaryQAClients3"
                                           }
                                         },
                                         "Frame": null,
@@ -1938,7 +2528,7 @@
                                         "FindExpression": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "vyK+YtmHWXegEbMnltZ+23+vmpI=",
+                                            "uniqueKey": "nJDXWuJV66lJSA7V4Al/f9RrskA=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
                                             "Name": "Button",
@@ -1958,7 +2548,7 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "value=Mass Edit"
+                                                          "Clause": "value=Mass Assign"
                                                         }
                                                       }
                                                     ],
@@ -1991,7 +2581,7 @@
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
-                              "StepImageKey": "WebTestubbcj0kp.tmj",
+                              "StepImageKey": "Mass Assign functionality works properlyuynkg4tc.cyt",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -2000,7 +2590,342 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "c1d8a7ff-1544-4959-b4bb-e0d20e02d332",
+                              "Runtime ID": "d6281506-e0f0-4f1d-8bdf-1252522fcfe8",
+                              "Description": "Verify 'TextContent' 'Contains' 'Please choose a department in order to display the list of relevant users' on 'PleaseChooseSpan'",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ContentVerificationDescriptor",
+                                "__value": {
+                                  "CompareType": 2,
+                                  "SegmentType": 3,
+                                  "ExpectedString": "Please choose a department in order to display the list of relevant users",
+                                  "UseBackupSearch": true,
+                                  "DataBindVariableName": null,
+                                  "Timeout": 30000,
+                                  "CheckInterval": 500,
+                                  "EnsureStateIsCurrent": false,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {}
+                                    }
+                                  },
+                                  "Elements": {
+                                    "textTarget": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "textTarget",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "/sprint/index.php",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "NewBinaryQAClients3"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "YQ+LFMDi/OR12nXz7Bz20/cA44o=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "PleaseChooseSpan",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=^Please choose a"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=span"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[26]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[1]/span[2]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 2,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 3,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": false,
+                              "StepImageKey": "Mass Assign functionality works properlyz3fmllkx.kzy",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "e4824d34-417d-40d9-840d-c5924ed13f87",
+                              "Description": "Click 'OtherDiv'",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+                                "__value": {
+                                  "SimulateRealClick": false,
+                                  "UsejQuery": false,
+                                  "UseBackupSearch": true,
+                                  "ClosesBrowser": false,
+                                  "AjaxTimeout": 0,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {}
+                                    }
+                                  },
+                                  "Elements": {
+                                    "target": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "target",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "/sprint/index.php",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "NewBinaryQAClients3"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "MP6EKeprMmhROP8s9TU7RVmTInI=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "OtherDiv",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=div"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=Other"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[26]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[2]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 4,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 4,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": false,
+                              "StepImageKey": "Mass Assign functionality works properlyowhvxt21.055",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "6e7c3d23-a018-461d-a0df-31f935683e28",
+                              "Description": "Desktop command: LeftClick on AaaaOtherDiv",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopActionDescriptor",
+                                "__value": {
+                                  "Focus": true,
+                                  "DesktopActionType": 0,
+                                  "OffSet": {
+                                    "__type": "ArtOfTest.Common.Design.ActionPoint",
+                                    "__value": "0, 0, Percentage, AbsoluteCenter"
+                                  },
+                                  "UsejQuery": false,
+                                  "UseBackupSearch": true,
+                                  "ClosesBrowser": false,
+                                  "AjaxTimeout": 0,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {}
+                                    }
+                                  },
+                                  "Elements": {
+                                    "target": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "target",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "/sprint/index.php",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "NewBinaryQAClients3"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "E+1FQvH3TtBuwWx7kmK6l98b/wE=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "AaaaOtherDiv",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=aaaa (Other)"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=div"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[26]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[2]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 4,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 5,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": false,
+                              "StepImageKey": "Mass Assign functionality works properlyck0ev4tw.ere",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "c4fa1a70-2b1a-4f1c-bd7b-f63eaf23cdb0",
                               "Description": "Click 'Span'",
                               "CustomDescription": null,
                               "Step": {
@@ -2032,14 +2957,14 @@
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                                           "__value": {
                                             "Path": "/sprint/index.php",
-                                            "Query": "?action=index&module=Accounts",
-                                            "BaseUrl": "https://binaryqa.ptscrm.com",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
                                             "EquivalentUrls": [],
                                             "Fragment": "",
                                             "Title": "New Binary QA - Clients - Binary Options CRM",
                                             "CompareMode": 2,
                                             "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "NewBinaryQAClients2"
+                                            "FriendlyName": "NewBinaryQAClients3"
                                           }
                                         },
                                         "Frame": null,
@@ -2047,7 +2972,7 @@
                                         "FindExpression": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "Y/gn2rZRSJstENh3P+XKLCCgkfs=",
+                                            "uniqueKey": "r/tWywuYdvDAVjp2Ji7c9uPE1sc=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
                                             "Name": "Span",
@@ -2061,7 +2986,7 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "id=assigned_user_id_mass_edit_check"
+                                                          "Clause": "id=jqxWidget88aa5b22"
                                                         }
                                                       },
                                                       {
@@ -2097,12 +3022,12 @@
                                   "DataBindingExpressions": {}
                                 }
                               },
-                              "Enabled": true,
-                              "Order": 3,
+                              "Enabled": false,
+                              "Order": 6,
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
-                              "StepImageKey": "WebTesthgngleyw.p5y",
+                              "StepImageKey": "Mass Assign functionality works properlysw4eya1f.qjp",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -2111,17 +3036,13 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "2858ed4e-cc2a-4ed0-b905-6197bad4003f",
-                              "Description": "Select 'ByValue' option '96' on 'AssignedUserIdValSelect'",
+                              "Runtime ID": "8c70b516-ccd4-493e-98a3-fb7f62236042",
+                              "Description": "Click 'Span'",
                               "CustomDescription": null,
                               "Step": {
-                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SelectDropDownActionDescriptor",
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
                                 "__value": {
-                                  "SelectType": 1,
-                                  "SelectionText": "aaaa",
-                                  "SelectionValue": "96",
-                                  "SelectionIndex": 2,
-                                  "InvokeSelectionChanged": true,
+                                  "SimulateRealClick": false,
                                   "UsejQuery": false,
                                   "UseBackupSearch": true,
                                   "ClosesBrowser": false,
@@ -2138,23 +3059,23 @@
                                     }
                                   },
                                   "Elements": {
-                                    "dropDown": {
+                                    "target": {
                                       "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
                                       "__value": {
-                                        "Name": "dropDown",
+                                        "Name": "target",
                                         "Region": null,
                                         "Page": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                                           "__value": {
                                             "Path": "/sprint/index.php",
-                                            "Query": "?action=index&module=Accounts",
-                                            "BaseUrl": "https://binaryqa.ptscrm.com",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
                                             "EquivalentUrls": [],
                                             "Fragment": "",
                                             "Title": "New Binary QA - Clients - Binary Options CRM",
                                             "CompareMode": 2,
                                             "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "NewBinaryQAClients2"
+                                            "FriendlyName": "NewBinaryQAClients3"
                                           }
                                         },
                                         "Frame": null,
@@ -2162,10 +3083,10 @@
                                         "FindExpression": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "RHC1Yg0jJ+PW53VyHj+6EHwzFN4=",
+                                            "uniqueKey": "Bl68FFaiZArl1APjnjU+X3Xl9K4=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
-                                            "Name": "AssignedUserIdValSelect",
+                                            "Name": "Span0",
                                             "FindExpressions": [
                                               {
                                                 "Key": 1,
@@ -2176,18 +3097,20 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "tagname=select"
+                                                          "Clause": "id=jqxWidget9107b8bb"
                                                         }
                                                       },
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "id=assigned_user_id_val"
+                                                          "Clause": "TagIndex=span:0"
                                                         }
                                                       }
                                                     ],
                                                     "Constraints": [],
-                                                    "ChainStops": []
+                                                    "ChainStops": [
+                                                      1
+                                                    ]
                                                   }
                                                 }
                                               }
@@ -2196,7 +3119,7 @@
                                             "DataBindingExpressions": {}
                                           }
                                         },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSelect",
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
                                         "IsIndependent": false,
                                         "DomStateKey": "",
                                         "TechnologyType": 1,
@@ -2210,12 +3133,12 @@
                                   "DataBindingExpressions": {}
                                 }
                               },
-                              "Enabled": true,
-                              "Order": 4,
+                              "Enabled": false,
+                              "Order": 7,
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
-                              "StepImageKey": "WebTestlo2en4kd.ien",
+                              "StepImageKey": "Mass Assign functionality works properlyuxxhc205.zst",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -2224,7 +3147,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "f30c9c30-f5dc-41e4-9613-7473c59d5e9b",
+                              "Runtime ID": "bd54312b-0791-40ed-ad13-394011ce7425",
                               "Description": "Click 'MassassignformActionButtonBUTTONTag'",
                               "CustomDescription": null,
                               "Step": {
@@ -2256,14 +3179,14 @@
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                                           "__value": {
                                             "Path": "/sprint/index.php",
-                                            "Query": "?action=index&module=Accounts",
-                                            "BaseUrl": "https://binaryqa.ptscrm.com",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
                                             "EquivalentUrls": [],
                                             "Fragment": "",
                                             "Title": "New Binary QA - Clients - Binary Options CRM",
                                             "CompareMode": 2,
                                             "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "NewBinaryQAClients2"
+                                            "FriendlyName": "NewBinaryQAClients3"
                                           }
                                         },
                                         "Frame": null,
@@ -2320,11 +3243,11 @@
                                 }
                               },
                               "Enabled": true,
-                              "Order": 5,
+                              "Order": 8,
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
-                              "StepImageKey": "WebTestyf0oxkxc.wyf",
+                              "StepImageKey": "Mass Assign functionality works properlyvjgi3tom.jco",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -2333,8 +3256,244 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "dd43396d-403f-4dd0-b04b-6d9c95a71a78",
-                              "Description": "Desktop command: LeftClick on ClientsLink",
+                              "Runtime ID": "8bd39787-e8a7-4df9-8989-a9295759c9de",
+                              "Description": "Verify 'TextContent' 'Contains' '20 accounts assigned to aaaa' on 'x20AccountsDiv'",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ContentVerificationDescriptor",
+                                "__value": {
+                                  "CompareType": 2,
+                                  "SegmentType": 3,
+                                  "ExpectedString": "20 accounts assigned to aaaa",
+                                  "UseBackupSearch": true,
+                                  "DataBindVariableName": null,
+                                  "Timeout": 30000,
+                                  "CheckInterval": 500,
+                                  "EnsureStateIsCurrent": false,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {}
+                                    }
+                                  },
+                                  "Elements": {
+                                    "textTarget": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "textTarget",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "/sprint/index.php",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "NewBinaryQAClients3"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "0C9dQ+obMkMIbxDLo6k+hStuHXg=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "x20AccountsDiv",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=^20 accounts ass"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=div"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[28]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 2,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 9,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": false,
+                              "StepImageKey": "Mass Assign functionality works properlygsq20dud.4cu",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "9068c9f5-d3d0-4c9e-bab9-186d8d5004d6",
+                              "Description": "Verify 'InnerText' 'Exact' 'OK' on 'OK'",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ContentVerificationDescriptor",
+                                "__value": {
+                                  "CompareType": 0,
+                                  "SegmentType": 0,
+                                  "ExpectedString": "OK",
+                                  "UseBackupSearch": true,
+                                  "DataBindVariableName": null,
+                                  "Timeout": 30000,
+                                  "CheckInterval": 500,
+                                  "EnsureStateIsCurrent": false,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {}
+                                    }
+                                  },
+                                  "Elements": {
+                                    "textTarget": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "textTarget",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "/sprint/index.php",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "NewBinaryQAClients3"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "yVw+XScb5oLeDXJzuULhaX/s6Nw=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "OK",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=button"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=OK"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "InnerMarkup=OK"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "InnerText=OK"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[28]/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlButton",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 2,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 10,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": false,
+                              "StepImageKey": "Mass Assign functionality works properlypc0fx0gb.s0a",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "fec371cd-c82d-4768-a3bd-ed8d00320a0d",
+                              "Description": "Desktop command: LeftClick on OK",
                               "CustomDescription": null,
                               "Step": {
                                 "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopActionDescriptor",
@@ -2369,26 +3528,26 @@
                                         "Page": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                                           "__value": {
-                                            "Path": "https://99binary.ptscrm.com/index.php",
-                                            "Query": "?action=index&module=Accounts",
-                                            "BaseUrl": "",
+                                            "Path": "/sprint/index.php",
+                                            "Query": "?module=Accounts&action=index",
+                                            "BaseUrl": "http://binaryqa.ptscrm.com",
                                             "EquivalentUrls": [],
                                             "Fragment": "",
-                                            "Title": "99Binary - Clients - Binary Options CRM",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
                                             "CompareMode": 2,
                                             "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "x99BinaryClientsBinary"
+                                            "FriendlyName": "NewBinaryQAClients3"
                                           }
                                         },
                                         "Frame": null,
                                         "FindInfo": null,
                                         "FindExpression": {
-                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "BB9LJL7sh1+CnM1sVkFRLtoJeG8=",
+                                            "uniqueKey": "yVw+XScb5oLeDXJzuULhaX/s6Nw=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
-                                            "Name": "ClientsLink",
+                                            "Name": "OK",
                                             "FindExpressions": [
                                               {
                                                 "Key": 1,
@@ -2399,47 +3558,39 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "TagIndex=table:1"
+                                                          "Clause": "tagname=button"
                                                         }
                                                       },
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "class=header_menu_table"
+                                                          "Clause": "TextContent=OK"
                                                         }
                                                       },
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "tagname=a"
+                                                          "Clause": "InnerMarkup=OK"
                                                         }
                                                       },
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "InnerText=Clients"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "TextContent=Clients"
+                                                          "Clause": "InnerText=OK"
                                                         }
                                                       }
                                                     ],
                                                     "Constraints": [],
-                                                    "ChainStops": [
-                                                      2
-                                                    ]
+                                                    "ChainStops": []
                                                   }
                                                 }
                                               }
                                             ],
-                                            "BackupSearchClause": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[1]/td[6]/a[1]",
+                                            "BackupSearchClause": "/html[1]/body[1]/div[28]/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]",
                                             "DataBindingExpressions": {}
                                           }
                                         },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlButton",
                                         "IsIndependent": false,
                                         "DomStateKey": "",
                                         "TechnologyType": 1,
@@ -2454,11 +3605,11 @@
                                 }
                               },
                               "Enabled": true,
-                              "Order": 6,
+                              "Order": 11,
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
-                              "StepImageKey": "WebTestkb4xopsm.1v5",
+                              "StepImageKey": "Mass Assign functionality works properly2l4yparc.ylp",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -2467,7 +3618,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "67884bab-0a23-4ded-a832-893276789e91",
+                              "Runtime ID": "3076a0b0-4ed8-4dbe-81f9-2ff565ae4c5c",
                               "Description": "Verify 'TextContent' 'Same' 'aaaa' on 'PqaPqaTableCell0'",
                               "CustomDescription": null,
                               "Step": {
@@ -2574,7 +3725,7 @@
                                 }
                               },
                               "Enabled": true,
-                              "Order": 7,
+                              "Order": 12,
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
@@ -2685,7 +3836,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "WebTestcoul11nc.zkp",
+            "StepImageKey": "Mass Assign functionality works properlybzd3fgr5.nvr",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -2716,12 +3867,12 @@
           "Frame": null,
           "FindInfo": null,
           "FindExpression": {
-            "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+            "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
             "__value": {
-              "uniqueKey": "lBBa8/17ilA0/XG2TSDrLZaJ26U=",
+              "uniqueKey": "MP6EKeprMmhROP8s9TU7RVmTInI=",
               "NodeKind": 4,
               "TechnologyType": 1,
-              "Name": "PandaqaPandaqaTableCell",
+              "Name": "OtherDiv",
               "FindExpressions": [
                 {
                   "Key": 1,
@@ -2732,29 +3883,27 @@
                         {
                           "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                           "__value": {
-                            "Clause": "id=row_36324"
+                            "Clause": "tagname=div"
                           }
                         },
                         {
                           "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                           "__value": {
-                            "Clause": "tagIndex=td:12"
+                            "Clause": "TextContent=Other"
                           }
                         }
                       ],
                       "Constraints": [],
-                      "ChainStops": [
-                        1
-                      ]
+                      "ChainStops": []
                     }
                   }
                 }
               ],
-              "BackupSearchClause": "/html[1]/body[1]/table[3]/tbody[1]/tr[1]/td[2]/div[4]/form[1]/div[2]/table[1]/tbody[1]/tr[4]/td[13]",
+              "BackupSearchClause": "/html[1]/body[1]/div[26]/div[1]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[2]",
               "DataBindingExpressions": {}
             }
           },
-          "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlTableCell",
+          "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
           "IsIndependent": true,
           "DomStateKey": "",
           "TechnologyType": 1,
@@ -2775,7 +3924,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "CRM\\Mass Edit functionality works properly.resx",
+    "ResourceFilePath": "CRM\\Mass Assign functionality works properly.resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -2805,13 +3954,13 @@
     "QcTestVersionStamp": 0,
     "TestLinks": [],
     "Description": "",
-    "Name": "Mass Edit functionality works properly",
+    "Name": "Mass Assign functionality works properly",
     "Owner": "",
-    "Path": "CRM\\Mass Edit functionality works properly.tstest",
+    "Path": "CRM\\Mass Assign functionality works properly.tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "f221652b-861d-4af3-8133-8ff80bf6de6a",
-    "Id": "f221652b-861d-4af3-8133-8ff80bf6de6a",
+    "UniqueId": "831c3cdc-09ee-41d3-931e-f5cc124d4792",
+    "Id": "831c3cdc-09ee-41d3-931e-f5cc124d4792",
     "ProjectId": "f64a64db-19cf-4629-aecf-fb7a07075dcb",
     "Version": 200
   }
