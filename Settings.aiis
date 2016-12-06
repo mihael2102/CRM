@@ -150,7 +150,7 @@
       }
     },
     "UnitTypeTypeGeneration": 1,
-    "RecorderBaseUrl": "https://ttoptions.com",
+    "RecorderBaseUrl": "https://ttoptions.com/",
     "IsStoryBoardCapturingEnabled": true,
     "SimulateRealClickByDefault": false,
     "SimulateRealTypingByDefault": false,
