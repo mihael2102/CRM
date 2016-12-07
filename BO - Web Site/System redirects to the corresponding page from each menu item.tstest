@@ -5497,7 +5497,7 @@
           "FindExpression": {
             "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
             "__value": {
-              "uniqueKey": null,
+              "uniqueKey": "FOrOYkHG1zcLKZDH1rF+msi08YA=",
               "NodeKind": 4,
               "TechnologyType": 1,
               "Name": "TradingSpan",
@@ -5617,7 +5617,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "Web Site\\System redirects to the corresponding page from each menu item.resx",
+    "ResourceFilePath": "BO - Web Site\\System redirects to the corresponding page from each menu item.resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -5649,7 +5649,7 @@
     "Description": "",
     "Name": "System redirects to the corresponding page from each menu item",
     "Owner": "",
-    "Path": "Web Site\\System redirects to the corresponding page from each menu item.tstest",
+    "Path": "BO - Web Site\\System redirects to the corresponding page from each menu item.tstest",
     "Priority": 0,
     "TestType": 0,
     "UniqueId": "0e1e5dc6-07d8-49e1-b129-6ca0656b7ddf",

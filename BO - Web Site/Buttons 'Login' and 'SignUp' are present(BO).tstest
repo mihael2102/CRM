@@ -27,7 +27,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "c523f998-69be-41ff-a5c4-923d07f3355b",
+            "Runtime ID": "54bb75b2-28b2-4742-8a86-10e3813f79ce",
             "Description": "Clear Browser Cache",
             "CustomDescription": null,
             "Step": {
@@ -63,7 +63,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Live Chat existsap5z5llz.k0y",
+            "StepImageKey": "Buttons 'Login' and 'SignUp' are present(BO)eyroleh0.pfv",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -72,7 +72,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "c709c6c7-4c06-49b1-9b7d-02a2f70bccae",
+            "Runtime ID": "2b427652-ce96-4cf6-b140-452926293812",
             "Description": "Navigate to : '/'",
             "CustomDescription": null,
             "Step": {
@@ -108,7 +108,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Live Chat existszk5j5ytd.nlb",
+            "StepImageKey": "Buttons 'Login' and 'SignUp' are presentv3mqywig.eyd",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -117,134 +117,15 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "c62bb73e-06ec-480e-9b31-6390fdbf08c0",
-            "Description": "Click 'OpenLabelSpan'",
+            "Runtime ID": "55dfd441-2ac3-497a-87a5-425195f92ceb",
+            "Description": "Verify 'title' attribute 'Same' value 'Login' on 'LoginLink'",
             "CustomDescription": null,
             "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.AttributeVerificationDescriptor",
               "__value": {
-                "SimulateRealClick": true,
-                "UsejQuery": false,
-                "UseBackupSearch": true,
-                "ClosesBrowser": false,
-                "AjaxTimeout": 0,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "target": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "target",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "",
-                          "Query": "",
-                          "BaseUrl": "https://ultrafinance.com/",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Ultra Finance – Ultra Finance",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "UltraFinanceUltraFinance"
-                        }
-                      },
-                      "Frame": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
-                        "__value": {
-                          "FrameInfo": {
-                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
-                            "__value": {
-                              "_index": 0,
-                              "_name": "Frame_0",
-                              "_id": "livechat-compact-view",
-                              "TestStudioTag": "",
-                              "_baseURL": "about:blank",
-                              "_query": "",
-                              "_useQuery": false,
-                              "_usesBaseUrlHost": false
-                            }
-                          },
-                          "FriendlyName": "FrameLivechatCompactView"
-                        }
-                      },
-                      "FindInfo": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "iCpDXnHw4GkUlnpxBb4FDKadrWg=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "OpenLabelSpan",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "id=open-label"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": []
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": null,
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": true,
-            "Order": 3,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "Live Chat existskvc3ugrr.tl2",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "2f0b15e8-03ef-48ff-a377-47257c909655",
-            "Description": "Verify element 'ViewOfflineFormDiv' 'is' visible.",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.VisibleVerificationDescriptor",
-              "__value": {
-                "IsVisible": true,
+                "AttributeName": "title",
+                "AttributeValue": "Login",
+                "CompareType": 1,
                 "UseBackupSearch": true,
                 "DataBindVariableName": null,
                 "Timeout": 30000,
@@ -272,42 +153,24 @@
                         "__value": {
                           "Path": "",
                           "Query": "",
-                          "BaseUrl": "https://wynnfinance.com/",
+                          "BaseUrl": "https://www.profitxp.com/",
                           "EquivalentUrls": [],
                           "Fragment": "",
-                          "Title": "Wynn Finance | Home Page",
+                          "Title": "ProfitXP",
                           "CompareMode": 2,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "WynnFinanceHomePage"
+                          "FriendlyName": "ProfitXP"
                         }
                       },
-                      "Frame": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
-                        "__value": {
-                          "FrameInfo": {
-                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
-                            "__value": {
-                              "_index": 1,
-                              "_name": "livechat-full-view",
-                              "_id": "livechat-full-view",
-                              "TestStudioTag": "",
-                              "_baseURL": "https://secure.livechatinc.com/licence/7324281/open_chat.cgi",
-                              "_query": "groups=0&embedded=1&session_id=S1480496739.321ad8e423#https://wynnfinance.com/",
-                              "_useQuery": false,
-                              "_usesBaseUrlHost": false
-                            }
-                          },
-                          "FriendlyName": "FrameLivechatFullView"
-                        }
-                      },
+                      "Frame": null,
                       "FindInfo": null,
                       "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
                         "__value": {
-                          "uniqueKey": "LA8vrKxkSK+vAYTNlYxLISN+E5A=",
+                          "uniqueKey": "M4rejVe9jkDFq6G6dAP7hWTjc40=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
-                          "Name": "ViewOfflineFormDiv",
+                          "Name": "LoginLink",
                           "FindExpressions": [
                             {
                               "Key": 1,
@@ -318,13 +181,7 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "id=view-offline-form"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "tagname=div"
+                                        "Clause": "title=Login"
                                       }
                                     }
                                   ],
@@ -334,11 +191,11 @@
                               }
                             }
                           ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[2]/table[1]/tbody[1]/tr[3]/td[1]/div[1]/div[2]/div[10]",
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/form[1]/input[3]",
                           "DataBindingExpressions": {}
                         }
                       },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
                       "IsIndependent": false,
                       "DomStateKey": "",
                       "TechnologyType": 1,
@@ -352,12 +209,118 @@
                 "DataBindingExpressions": {}
               }
             },
-            "Enabled": false,
+            "Enabled": true,
+            "Order": 3,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Buttons 'Login' and 'SignUp' are presentvhwfvn4r.log",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "2075ffe0-bedf-4b7d-973b-8a88b51ea86e",
+            "Description": "Verify 'title' attribute 'Same' value 'Sign Up Now!' on 'SignUpNowLink'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.AttributeVerificationDescriptor",
+              "__value": {
+                "AttributeName": "title",
+                "AttributeValue": "Sign Up Now!",
+                "CompareType": 1,
+                "UseBackupSearch": true,
+                "DataBindVariableName": null,
+                "Timeout": 30000,
+                "CheckInterval": 500,
+                "EnsureStateIsCurrent": false,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "verifyTarget": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "verifyTarget",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "",
+                          "Query": "",
+                          "BaseUrl": "https://www.profitxp.com/",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "ProfitXP",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "ProfitXP"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "q3h9JbhehS09h+2q6as0mtefGp4=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "SignUpNowLink",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "title=Sign Up Now!"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 2,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
             "Order": 4,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Live Chat existsdczzjyzu.con",
+            "StepImageKey": "Buttons 'Login' and 'SignUp' are presentqfijibb2.bri",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -365,7 +328,73 @@
         }
       ]
     },
-    "IndependentDescriptors": [],
+    "IndependentDescriptors": [
+      {
+        "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+        "__value": {
+          "Name": "$$Independent$$",
+          "Region": null,
+          "Page": {
+            "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+            "__value": {
+              "Path": "https://demo1.pandats.com/",
+              "Query": "",
+              "BaseUrl": "",
+              "EquivalentUrls": [],
+              "Fragment": "",
+              "Title": "DEMO1 | Just another WordPress site",
+              "CompareMode": 2,
+              "AlwaysUseTitleInCompare": false,
+              "FriendlyName": "DEMO1JustAnother"
+            }
+          },
+          "Frame": null,
+          "FindInfo": null,
+          "FindExpression": {
+            "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+            "__value": {
+              "uniqueKey": "y0Linh96nDZgs1eX/WHGHzheYDY=",
+              "NodeKind": 4,
+              "TechnologyType": 1,
+              "Name": "SignUpSubmitButtonTag",
+              "FindExpressions": [
+                {
+                  "Key": 1,
+                  "Value": {
+                    "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                    "__value": {
+                      "Clauses": [
+                        {
+                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                          "__value": {
+                            "Clause": "id=signUpSubmit"
+                          }
+                        },
+                        {
+                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                          "__value": {
+                            "Clause": "tagname=button"
+                          }
+                        }
+                      ],
+                      "Constraints": [],
+                      "ChainStops": []
+                    }
+                  }
+                }
+              ],
+              "BackupSearchClause": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[2]/form[1]/div[8]/button[1]",
+              "DataBindingExpressions": {}
+            }
+          },
+          "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlButton",
+          "IsIndependent": true,
+          "DomStateKey": "",
+          "TechnologyType": 1,
+          "Version": 200
+        }
+      }
+    ],
     "HtmlDescription": "",
     "SilverlightEnabled": false,
     "IsSilverlightApp": false,
@@ -379,7 +408,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "Web Site\\Live Chat exists.resx",
+    "ResourceFilePath": "BO - Web Site\\Buttons 'Login' and 'SignUp' are present(BO).resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -409,13 +438,13 @@
     "QcTestVersionStamp": 0,
     "TestLinks": [],
     "Description": "",
-    "Name": "Live Chat exists",
+    "Name": "Buttons 'Login' and 'SignUp' are present(BO)",
     "Owner": "",
-    "Path": "Web Site\\Live Chat exists.tstest",
+    "Path": "BO - Web Site\\Buttons 'Login' and 'SignUp' are present(BO).tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "f3ebaaf8-77b9-4101-b80e-93b13dc375a4",
-    "Id": "f3ebaaf8-77b9-4101-b80e-93b13dc375a4",
+    "UniqueId": "3fb12680-71ad-4a9b-8327-6ef8ec207010",
+    "Id": "3fb12680-71ad-4a9b-8327-6ef8ec207010",
     "ProjectId": "f64a64db-19cf-4629-aecf-fb7a07075dcb",
     "Version": 200
   }

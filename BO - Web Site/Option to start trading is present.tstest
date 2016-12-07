@@ -1150,7 +1150,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "Web Site\\Option to start trading is present.resx",
+    "ResourceFilePath": "BO - Web Site\\Option to start trading is present.resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -1182,7 +1182,7 @@
     "Description": "",
     "Name": "Option to start trading is present",
     "Owner": "",
-    "Path": "Web Site\\Option to start trading is present.tstest",
+    "Path": "BO - Web Site\\Option to start trading is present.tstest",
     "Priority": 0,
     "TestType": 0,
     "UniqueId": "a233b3c8-4627-4b68-a75f-4f263250fb92",

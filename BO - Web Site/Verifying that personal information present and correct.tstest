@@ -27,7 +27,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "f7f1e00e-ac98-4dd9-80af-5b14ac69a6c1",
+            "Runtime ID": "9e7c1335-d2f6-4c11-a9ca-9ca683fcd466",
             "Description": "Clear Browser Cache",
             "CustomDescription": null,
             "Step": {
@@ -63,7 +63,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Log outnf1xfsy5.pjr",
+            "StepImageKey": "Verifying that personal information present and correct3f2au3rc.j0u",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -72,7 +72,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "b412279e-d6b4-4efe-96cd-6f71f83c530c",
+            "Runtime ID": "14e993e5-7b34-4727-adc6-956d8d4c91ac",
             "Description": "Navigate to : '/'",
             "CustomDescription": null,
             "Step": {
@@ -108,7 +108,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Log outs4kogzbm.cup",
+            "StepImageKey": "Verifying that personal information present and correct0puyb31x.nil",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -117,7 +117,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "2999231d-f97d-4352-9714-83de8e570d23",
+            "Runtime ID": "7d97bbe5-8a69-4b3b-a0d4-091b18922fa8",
             "Description": "IF (Wait for Exists 'LoginLink')",
             "CustomDescription": null,
             "Step": {
@@ -227,7 +227,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "07199b1e-7fe9-4f09-9a8e-74419bb1cc01",
+                              "Runtime ID": "e732c7f5-3d4b-4f22-b66f-861bbc8d84b0",
                               "Description": "Click 'LoginLink'",
                               "CustomDescription": null,
                               "Step": {
@@ -338,7 +338,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "7a74e9ca-0c9c-4121-9f89-41e4acd0df6c",
+                              "Runtime ID": "d61db7fd-8094-4f5e-af21-5f818ecbb9aa",
                               "Description": "Enter text 'MichaelQApanda+1@gmail.com' in 'PfLoginEmailEmail'",
                               "CustomDescription": null,
                               "Step": {
@@ -462,7 +462,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "ad3aad63-00b6-4027-88f0-4a4e0c202de6",
+                              "Runtime ID": "0d8a370c-1b39-4922-95b4-1bbb26500245",
                               "Description": "Enter text 'q1w2e3' in 'PfLoginPassPassword'",
                               "CustomDescription": null,
                               "Step": {
@@ -586,7 +586,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "a6ba84e5-ac5e-4155-80b5-c05cb0c65918",
+                              "Runtime ID": "fad2e9cd-f10d-484b-9957-4d76d8bf842b",
                               "Description": "Click 'LoginSubmitSubmit'",
                               "CustomDescription": null,
                               "Step": {
@@ -710,7 +710,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "6ca1adc8-61d9-45bb-a5c8-12d8a0b6cc5f",
+                              "Runtime ID": "34c64aba-0d94-43a7-9cb1-0b00ba5478ff",
                               "Description": "Enter text 'MichaelQApanda+1@gmail.com' in 'UsernameText'",
                               "CustomDescription": null,
                               "Step": {
@@ -830,7 +830,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "e26b3cbf-a760-404d-a868-e046a7c25bcb",
+                              "Runtime ID": "58ad4ace-c941-45c2-ba94-14cf5ab01434",
                               "Description": "Enter text 'q1w2e3' in 'UserpassPassword'",
                               "CustomDescription": null,
                               "Step": {
@@ -950,7 +950,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "4467fd5a-22f2-4889-962a-fa699e978148",
+                              "Runtime ID": "9e8edd1f-962a-464b-95a4-f72128d7641b",
                               "Description": "Click 'SendSubmit'",
                               "CustomDescription": null,
                               "Step": {
@@ -1061,7 +1061,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "3f3533e9-5bad-47f4-9d15-91cdc7605196",
+                              "Runtime ID": "ffd9837b-547d-4e41-a374-1c5b8f94782e",
                               "Description": "Enter text 'MichaelQApanda+1@gmail.com' in 'PfLoginEmailEmail'",
                               "CustomDescription": null,
                               "Step": {
@@ -1185,7 +1185,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "bf0e5f81-122f-46d2-87b9-17a705b1c7a1",
+                              "Runtime ID": "08e0cb22-6b1b-425a-815b-082bef9cab77",
                               "Description": "Enter text 'q1w2e3' in 'PfLoginPassPassword'",
                               "CustomDescription": null,
                               "Step": {
@@ -1309,7 +1309,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "93d8a9d7-3692-432f-b356-167c0dbd7306",
+                              "Runtime ID": "4960c53f-90c5-4cfa-a6e6-a30a3211660b",
                               "Description": "Click 'LoginSubmitSubmit'",
                               "CustomDescription": null,
                               "Step": {
@@ -1515,8 +1515,8 @@
             "Order": 3,
             "Id": "",
             "StepState": 0,
-            "ContinueOnFailure": true,
-            "StepImageKey": "Log outifegbehb.m21",
+            "ContinueOnFailure": false,
+            "StepImageKey": "Verifying that personal information present and correctntuk2qzh.a2h",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -1525,7 +1525,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "c3d7548c-1db4-41e2-b836-387a63f1577d",
+            "Runtime ID": "1b789d54-1391-4710-9034-7b168f295de6",
             "Description": "Verify element 'LogoutLink' 'is' visible.",
             "CustomDescription": null,
             "Step": {
@@ -1632,7 +1632,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Log out0x4p310l.vcp",
+            "StepImageKey": "Verifying that personal information present and correctihiiioau.nxr",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -1641,8 +1641,120 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "13d4317d-0d1c-47b2-b39a-3effb66b056f",
-            "Description": "Click 'LogoutLink'",
+            "Runtime ID": "31ea5ce8-42a6-478f-b90a-38ceada5caf6",
+            "Description": "Verify 'TextContent' 'Contains' 'Michael Michael' on 'MichaelMichaelSpan'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ContentVerificationDescriptor",
+              "__value": {
+                "CompareType": 2,
+                "SegmentType": 3,
+                "ExpectedString": "Michael Michael",
+                "UseBackupSearch": true,
+                "DataBindVariableName": null,
+                "Timeout": 30000,
+                "CheckInterval": 500,
+                "EnsureStateIsCurrent": false,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "textTarget": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "textTarget",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "",
+                          "Query": "",
+                          "BaseUrl": "https://www.profitxp.com/",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "ProfitXP",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "ProfitXP"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "dQwZ/3uIStV2Yj7u87ds2J4RKTo=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "MichaelMichaelSpan",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "TextContent=Michael Michael"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=span"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/div[1]/div[1]/a[1]/span[2]",
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 2,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 5,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Verifying that personal information present and correctkx2wz3sb.edk",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "cadda417-35db-4cd5-bebb-606169726f3a",
+            "Description": "Click 'MyAccountSpan'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
@@ -1674,24 +1786,24 @@
                         "__value": {
                           "Path": "",
                           "Query": "",
-                          "BaseUrl": "https://ultrafinance.com/",
+                          "BaseUrl": "https://www.profitxp.com/",
                           "EquivalentUrls": [],
                           "Fragment": "",
-                          "Title": "Ultra Finance – Ultra Finance",
+                          "Title": "ProfitXP",
                           "CompareMode": 2,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "UltraFinanceUltraFinance"
+                          "FriendlyName": "ProfitXP"
                         }
                       },
                       "Frame": null,
                       "FindInfo": null,
                       "FindExpression": {
-                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "YCyYowY1X4Gs9nHNDG7DTHRuqbQ=",
+                          "uniqueKey": "4GhmYh66/Df8QyFG4U/MH4s0nN0=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
-                          "Name": "LogoutLink",
+                          "Name": "MyAccountSpan",
                           "FindExpressions": [
                             {
                               "Key": 1,
@@ -1702,19 +1814,13 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "tagname=a"
+                                        "Clause": "tagname=span"
                                       }
                                     },
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "TextContent=Logout"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "title=Logout"
+                                        "Clause": "TextContent=My Account"
                                       }
                                     }
                                   ],
@@ -1724,11 +1830,11 @@
                               }
                             }
                           ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/div[1]/div[1]/a[2]",
+                          "BackupSearchClause": null,
                           "DataBindingExpressions": {}
                         }
                       },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
                       "IsIndependent": false,
                       "DomStateKey": "",
                       "TechnologyType": 1,
@@ -1743,11 +1849,11 @@
               }
             },
             "Enabled": true,
-            "Order": 5,
+            "Order": 6,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Log outdjlnu234.tfj",
+            "StepImageKey": "Verifying that personal information present and correctzoowgdsz.cpr",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -1756,15 +1862,14 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "deeeb5fd-2eb5-41dd-8955-4ff1963be48c",
-            "Description": "Verify 'title' attribute 'Same' value 'Sign Up Now!' on 'SignUpNowLink'",
+            "Runtime ID": "a67f55bd-2550-4d35-81bf-21efdd9a0870",
+            "Description": "Verify input 'FirstNameText' value 'Exact' 'Michael'.",
             "CustomDescription": null,
             "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.AttributeVerificationDescriptor",
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.InputValueVerificationDescriptor",
               "__value": {
-                "AttributeName": "title",
-                "AttributeValue": "Sign Up Now!",
-                "CompareType": 1,
+                "ExpectedValue": "Michael",
+                "CompareType": 0,
                 "UseBackupSearch": true,
                 "DataBindVariableName": null,
                 "Timeout": 30000,
@@ -1782,34 +1887,34 @@
                   }
                 },
                 "Elements": {
-                  "verifyTarget": {
+                  "TargetKey1": {
                     "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
                     "__value": {
-                      "Name": "verifyTarget",
+                      "Name": "TargetKey1",
                       "Region": null,
                       "Page": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                         "__value": {
-                          "Path": "",
+                          "Path": "my-account/personal-information/",
                           "Query": "",
                           "BaseUrl": "https://www.profitxp.com/",
                           "EquivalentUrls": [],
                           "Fragment": "",
-                          "Title": "ProfitXP",
+                          "Title": "Personal Information – ProfitXP",
                           "CompareMode": 2,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "ProfitXP"
+                          "FriendlyName": "PersonalInformation"
                         }
                       },
                       "Frame": null,
                       "FindInfo": null,
                       "FindExpression": {
-                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "q3h9JbhehS09h+2q6as0mtefGp4=",
+                          "uniqueKey": "5kPF6SnuuGFgPmZBUM1wunuc0Uo=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
-                          "Name": "SignUpNowLink",
+                          "Name": "FirstNameText",
                           "FindExpressions": [
                             {
                               "Key": 1,
@@ -1820,7 +1925,13 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "title=Sign Up Now!"
+                                        "Clause": "id=FirstName"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
                                       }
                                     }
                                   ],
@@ -1830,11 +1941,11 @@
                               }
                             }
                           ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/p[1]/input[1]",
                           "DataBindingExpressions": {}
                         }
                       },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
                       "IsIndependent": false,
                       "DomStateKey": "",
                       "TechnologyType": 1,
@@ -1849,11 +1960,347 @@
               }
             },
             "Enabled": true,
-            "Order": 6,
+            "Order": 7,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Log outjgb4vvru.wkn",
+            "StepImageKey": "Verifying that personal information present and correctzu35myjh.fv2",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "4e4c1886-2281-4cd1-8b5e-f3231641ce21",
+            "Description": "Verify input 'LastNameText' value 'Exact' 'Michael'.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.InputValueVerificationDescriptor",
+              "__value": {
+                "ExpectedValue": "Michael",
+                "CompareType": 0,
+                "UseBackupSearch": true,
+                "DataBindVariableName": null,
+                "Timeout": 30000,
+                "CheckInterval": 500,
+                "EnsureStateIsCurrent": false,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "TargetKey1": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "TargetKey1",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "my-account/personal-information/",
+                          "Query": "",
+                          "BaseUrl": "https://www.profitxp.com/",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Personal Information – ProfitXP",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "PersonalInformation"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "w+NsH5KGOg8o+v0hXkVM09PMfCs=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "LastNameText",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=LastName"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/p[2]/input[1]",
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 2,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 8,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Verifying that personal information present and correctpl1ixkel.lnd",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "45561430-0b6f-4309-8e7a-021ff61d4440",
+            "Description": "Verify selection 'ByText' is 'IRELAND' on 'CountryIDSelect'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SelectVerificationDescriptor",
+              "__value": {
+                "IndexCompareType": 0,
+                "StringCompareType": 2,
+                "SelectionType": 2,
+                "SelectionIndex": 0,
+                "SelectionValue": "IRELAND",
+                "UseBackupSearch": true,
+                "DataBindVariableName": null,
+                "Timeout": 30000,
+                "CheckInterval": 500,
+                "EnsureStateIsCurrent": false,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "selectElement": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "selectElement",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "my-account/personal-information/",
+                          "Query": "",
+                          "BaseUrl": "https://www.profitxp.com/",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Personal Information – ProfitXP",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "PersonalInformation"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "/AooyKbv8edk44xEjQOfT8EGvSU=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "CountryIDSelect",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=CountryID"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=select"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/p[5]/select[1]",
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSelect",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 2,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 9,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Verifying that personal information present and correcth05cmrlb.tle",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "a6e8ad90-7e78-4f04-a32c-b0b5ccac7df5",
+            "Description": "Verify input 'EmailEmail' value 'Exact' 'MichaelQApanda+1@gmail.com'.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.InputValueVerificationDescriptor",
+              "__value": {
+                "ExpectedValue": "MichaelQApanda+1@gmail.com",
+                "CompareType": 0,
+                "UseBackupSearch": true,
+                "DataBindVariableName": null,
+                "Timeout": 30000,
+                "CheckInterval": 500,
+                "EnsureStateIsCurrent": false,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "TargetKey1": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "TargetKey1",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "my-account/personal-information/",
+                          "Query": "",
+                          "BaseUrl": "https://www.profitxp.com/",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Personal Information – ProfitXP",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "PersonalInformation"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "U7TeT/g5XYWvLaCFpKNUeP1xliY=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "EmailEmail",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=Email"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/p[8]/input[1]",
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputEmail",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 2,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 10,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Verifying that personal information present and correctqhea2y41.3sz",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -1875,7 +2322,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "Web Site\\Log out.resx",
+    "ResourceFilePath": "BO - Web Site\\Verifying that personal information present and correct.resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -1905,13 +2352,13 @@
     "QcTestVersionStamp": 0,
     "TestLinks": [],
     "Description": "",
-    "Name": "Log out",
+    "Name": "Verifying that personal information present and correct",
     "Owner": "",
-    "Path": "Web Site\\Log out.tstest",
+    "Path": "BO - Web Site\\Verifying that personal information present and correct.tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "fe5ab934-593d-46c9-85b0-bdffe6c3c19e",
-    "Id": "fe5ab934-593d-46c9-85b0-bdffe6c3c19e",
+    "UniqueId": "65eea67f-6d4e-4513-9a6b-f9155ad6e39e",
+    "Id": "65eea67f-6d4e-4513-9a6b-f9155ad6e39e",
     "ProjectId": "f64a64db-19cf-4629-aecf-fb7a07075dcb",
     "Version": 200
   }

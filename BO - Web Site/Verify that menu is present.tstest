@@ -27,7 +27,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "1b9f47fc-b02a-4d72-8d8b-64188bf4e52b",
+            "Runtime ID": "1cc249e0-9400-4cde-afc6-52b282b2e2b0",
             "Description": "Clear Browser Cache",
             "CustomDescription": null,
             "Step": {
@@ -63,7 +63,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Buttons 'Login' and 'SignUp' are present(FX)b2gbetk2.wjy",
+            "StepImageKey": "Verify that menu is presentrth5sh5m.ywo",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -72,7 +72,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "45ac6710-3f47-4186-a4b0-5f7f0125b60e",
+            "Runtime ID": "8bfe7d67-3aec-4f4b-810b-90e86060f3d0",
             "Description": "Navigate to : '/'",
             "CustomDescription": null,
             "Step": {
@@ -108,7 +108,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Buttons 'Login' and 'SignUp' are present(FX)q3p4hsk2.toc",
+            "StepImageKey": "Items in the footer are openingvd1puj5g.bxl",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -117,15 +117,15 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "cfbb9e85-2aa4-4742-80f1-45a55aa652dd",
-            "Description": "Verify 'title' attribute 'Same' value 'Login' on 'LoginLink0'",
+            "Runtime ID": "40cd491b-266c-481f-97e8-b0c219909f1d",
+            "Description": "Verify 'InnerText' 'Contains' 'Education' on 'Link'",
             "CustomDescription": null,
             "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.AttributeVerificationDescriptor",
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ContentVerificationDescriptor",
               "__value": {
-                "AttributeName": "title",
-                "AttributeValue": "Login",
-                "CompareType": 1,
+                "CompareType": 2,
+                "SegmentType": 0,
+                "ExpectedString": "Education",
                 "UseBackupSearch": true,
                 "DataBindVariableName": null,
                 "Timeout": 30000,
@@ -143,23 +143,23 @@
                   }
                 },
                 "Elements": {
-                  "verifyTarget": {
+                  "textTarget": {
                     "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
                     "__value": {
-                      "Name": "verifyTarget",
+                      "Name": "textTarget",
                       "Region": null,
                       "Page": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                         "__value": {
                           "Path": "",
                           "Query": "",
-                          "BaseUrl": "https://www.profitxp.com/",
+                          "BaseUrl": "https://ultrafinance.com/",
                           "EquivalentUrls": [],
                           "Fragment": "",
-                          "Title": "ProfitXP",
+                          "Title": "Ultra Finance – Ultra Finance",
                           "CompareMode": 2,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "ProfitXP"
+                          "FriendlyName": "UltraFinanceUltraFinance"
                         }
                       },
                       "Frame": null,
@@ -167,10 +167,10 @@
                       "FindExpression": {
                         "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
                         "__value": {
-                          "uniqueKey": "3UM4iUj+eHagnPSTxDXRSz1lZA0=",
+                          "uniqueKey": "ApAjBi8+5COt12JcuFCqp1iLrxg=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
-                          "Name": "LoginLink0",
+                          "Name": "Link",
                           "FindExpressions": [
                             {
                               "Key": 1,
@@ -181,7 +181,13 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "id=dnn_ctr517_Login_Login_DNN_cmdLogin"
+                                        "Clause": "tagname=a"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "InnerText=~Education"
                                       }
                                     }
                                   ],
@@ -191,7 +197,7 @@
                               }
                             }
                           ],
-                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[3]/a[1]",
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[4]/nav[1]/ul[1]/li[2]/a[1]",
                           "DataBindingExpressions": {}
                         }
                       },
@@ -214,7 +220,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": true,
-            "StepImageKey": "Buttons 'Login' and 'SignUp' are present(FX)sm2cp401.dxs",
+            "StepImageKey": "Items in the footer are openinghlp3lzfl.lay",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -223,24 +229,21 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "0ae7873e-54be-4524-b654-482e97086740",
-            "Description": "Verify 'id' attribute 'Same' value 'dnn_ctr517_Login_Login_DNN_registerLink' on 'DnnCtr517LoginLoginDNNRegisterLinkLink'",
+            "Runtime ID": "dc5b7488-51f7-452b-809f-237cb1606d6b",
+            "Description": "Wait for Exists 'Div'",
             "CustomDescription": null,
             "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.AttributeVerificationDescriptor",
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExistsVerificationDescriptor",
               "__value": {
-                "AttributeName": "id",
-                "AttributeValue": "dnn_ctr517_Login_Login_DNN_registerLink",
-                "CompareType": 1,
-                "UseBackupSearch": true,
+                "ExistsNot": false,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
                 "DataBindVariableName": null,
                 "Timeout": 30000,
                 "CheckInterval": 500,
                 "EnsureStateIsCurrent": false,
                 "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
                 "RunsAgainstVersion": "",
                 "Constraints": {
                   "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
@@ -249,34 +252,34 @@
                   }
                 },
                 "Elements": {
-                  "verifyTarget": {
+                  "target": {
                     "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
                     "__value": {
-                      "Name": "verifyTarget",
+                      "Name": "target",
                       "Region": null,
                       "Page": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                         "__value": {
-                          "Path": "/Login/tabid/115/language/en-US/Default.aspx",
-                          "Query": "?returnurl=%2f",
-                          "BaseUrl": "https://my.fm-fx.com",
+                          "Path": "",
+                          "Query": "",
+                          "BaseUrl": "https://www.profitxp.com/",
                           "EquivalentUrls": [],
                           "Fragment": "",
-                          "Title": "FM-FX > Login",
+                          "Title": "ProfitXP",
                           "CompareMode": 2,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "FMFXLogin"
+                          "FriendlyName": "ProfitXP"
                         }
                       },
                       "Frame": null,
                       "FindInfo": null,
                       "FindExpression": {
-                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "X0O5KYX1VHih/7yRSAnGYHoyah0=",
+                          "uniqueKey": "tXInYADwEPfcr8y0R0d39YGsj8I=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
-                          "Name": "DnnCtr517LoginLoginDNNRegisterLinkLink",
+                          "Name": "Div",
                           "FindExpressions": [
                             {
                               "Key": 1,
@@ -287,21 +290,29 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "id=dnn_ctr517_Login_Login_DNN_registerLink"
+                                        "Clause": "id=Top_bar"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagIndex=div:16"
                                       }
                                     }
                                   ],
                                   "Constraints": [],
-                                  "ChainStops": []
+                                  "ChainStops": [
+                                    1
+                                  ]
                                 }
                               }
                             }
                           ],
-                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/b[1]/a[1]",
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[4]",
                           "DataBindingExpressions": {}
                         }
                       },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
                       "IsIndependent": false,
                       "DomStateKey": "",
                       "TechnologyType": 1,
@@ -309,7 +320,7 @@
                     }
                   }
                 },
-                "StepType": 2,
+                "StepType": 1,
                 "LogMessageOnFailure": "",
                 "EditorType": "",
                 "DataBindingExpressions": {}
@@ -320,7 +331,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Buttons 'Login' and 'SignUp' are present(FX)nlxqfsjb.oj4",
+            "StepImageKey": "Items in the footer are openingd5qrybmd.muc",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -328,7 +339,75 @@
         }
       ]
     },
-    "IndependentDescriptors": [],
+    "IndependentDescriptors": [
+      {
+        "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+        "__value": {
+          "Name": "$$Independent$$",
+          "Region": null,
+          "Page": {
+            "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+            "__value": {
+              "Path": "",
+              "Query": "",
+              "BaseUrl": "https://www.profitxp.com/",
+              "EquivalentUrls": [],
+              "Fragment": "",
+              "Title": "ProfitXP",
+              "CompareMode": 2,
+              "AlwaysUseTitleInCompare": false,
+              "FriendlyName": "ProfitXP"
+            }
+          },
+          "Frame": null,
+          "FindInfo": null,
+          "FindExpression": {
+            "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+            "__value": {
+              "uniqueKey": "tXInYADwEPfcr8y0R0d39YGsj8I=",
+              "NodeKind": 4,
+              "TechnologyType": 1,
+              "Name": "Div",
+              "FindExpressions": [
+                {
+                  "Key": 1,
+                  "Value": {
+                    "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                    "__value": {
+                      "Clauses": [
+                        {
+                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                          "__value": {
+                            "Clause": "id=Top_bar"
+                          }
+                        },
+                        {
+                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                          "__value": {
+                            "Clause": "tagIndex=div:16"
+                          }
+                        }
+                      ],
+                      "Constraints": [],
+                      "ChainStops": [
+                        1
+                      ]
+                    }
+                  }
+                }
+              ],
+              "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[4]",
+              "DataBindingExpressions": {}
+            }
+          },
+          "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
+          "IsIndependent": true,
+          "DomStateKey": "",
+          "TechnologyType": 1,
+          "Version": 200
+        }
+      }
+    ],
     "HtmlDescription": "",
     "SilverlightEnabled": false,
     "IsSilverlightApp": false,
@@ -342,7 +421,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "Web Site\\Buttons 'Login' and 'SignUp' are present(FX).resx",
+    "ResourceFilePath": "BO - Web Site\\Verify that menu is present.resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -372,13 +451,13 @@
     "QcTestVersionStamp": 0,
     "TestLinks": [],
     "Description": "",
-    "Name": "Buttons 'Login' and 'SignUp' are present(FX)",
+    "Name": "Verify that menu is present",
     "Owner": "",
-    "Path": "Web Site\\Buttons 'Login' and 'SignUp' are present(FX).tstest",
+    "Path": "BO - Web Site\\Verify that menu is present.tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "5282ef0b-5ef7-4fca-9a97-f82f62cc1ec1",
-    "Id": "5282ef0b-5ef7-4fca-9a97-f82f62cc1ec1",
+    "UniqueId": "3af69db0-c261-48e8-b17f-7d126c3de49d",
+    "Id": "3af69db0-c261-48e8-b17f-7d126c3de49d",
     "ProjectId": "f64a64db-19cf-4629-aecf-fb7a07075dcb",
     "Version": 200
   }
