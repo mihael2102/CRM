@@ -107,7 +107,7 @@
                 }
               }
             },
-            "Enabled": true,
+            "Enabled": false,
             "Order": 2,
             "Id": "",
             "StepState": 0,
@@ -122,13 +122,13 @@
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
             "Runtime ID": "57e7dad0-ebf5-4603-95c4-5f0a0975c4d8",
-            "Description": "Navigate to : '/test'",
+            "Description": "Navigate to : '/sprint'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.NavigateToActionDescriptor",
               "__value": {
                 "UseDecodedUrl": true,
-                "NavigateURL": "/test",
+                "NavigateURL": "/sprint",
                 "BaseUrl": "",
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,
@@ -152,7 +152,7 @@
                 "DataBindingExpressions": {}
               }
             },
-            "Enabled": false,
+            "Enabled": true,
             "Order": 3,
             "Id": "",
             "StepState": 0,
@@ -968,7 +968,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "9741b70b-6c30-426b-a100-354fc4a22dc1",
+            "Runtime ID": "9c7a22dc-9053-4e93-90b4-9b0753310c90",
             "Description": "IF (Wait for Exists 'MainSettingsPNGImage')",
             "CustomDescription": null,
             "Step": {
@@ -2668,28 +2668,370 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "150bdabf-5876-4cc1-bdf1-975d946df720",
-                              "Description": "Click 'SaveButtonTag'",
+                              "Runtime ID": "930d1844-fc0e-4109-9e5d-4b1dddbfc299",
+                              "Description": "IF (Wait for Exists 'SaveButtonTag')",
                               "CustomDescription": null,
                               "Step": {
-                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.IfThenElseLogicalDescriptor",
                                 "__value": {
-                                  "SimulateRealClick": true,
-                                  "UsejQuery": true,
-                                  "UseBackupSearch": true,
-                                  "ClosesBrowser": false,
-                                  "AjaxTimeout": 0,
-                                  "Pause": 0,
-                                  "WaitOnElementsTimeout": 30000,
+                                  "Verification": {
+                                    "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExistsVerificationDescriptor",
+                                    "__value": {
+                                      "ExistsNot": false,
+                                      "WaitOnElements": true,
+                                      "WaitOnElementsTimeout": 30000,
+                                      "UseStepWaitOnElementsTimout": false,
+                                      "DataBindVariableName": null,
+                                      "Timeout": 30000,
+                                      "CheckInterval": 500,
+                                      "EnsureStateIsCurrent": false,
+                                      "Pause": 0,
+                                      "RunsAgainstVersion": "",
+                                      "Constraints": {
+                                        "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                        "__value": {
+                                          "ConstraintValues": {}
+                                        }
+                                      },
+                                      "Elements": {
+                                        "target": {
+                                          "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                          "__value": {
+                                            "Name": "target",
+                                            "Region": null,
+                                            "Page": {
+                                              "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                              "__value": {
+                                                "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                                                "Query": "?module=Administration&action=UserManagement&parenttab=Settings",
+                                                "BaseUrl": "",
+                                                "EquivalentUrls": [],
+                                                "Fragment": "",
+                                                "Title": "New Binary QA - Administration - Binary Options CRM",
+                                                "CompareMode": 2,
+                                                "AlwaysUseTitleInCompare": false,
+                                                "FriendlyName": "NewBinaryQA0"
+                                              }
+                                            },
+                                            "Frame": null,
+                                            "FindInfo": null,
+                                            "FindExpression": {
+                                              "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                              "__value": {
+                                                "uniqueKey": "9BPEg1WAv42cJr47Xb0B/TUpzts=",
+                                                "NodeKind": 4,
+                                                "TechnologyType": 1,
+                                                "Name": "SaveButtonTag",
+                                                "FindExpressions": [
+                                                  {
+                                                    "Key": 1,
+                                                    "Value": {
+                                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                      "__value": {
+                                                        "Clauses": [
+                                                          {
+                                                            "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                            "__value": {
+                                                              "Clause": "TextContent=Save"
+                                                            }
+                                                          },
+                                                          {
+                                                            "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                            "__value": {
+                                                              "Clause": "tagname=button"
+                                                            }
+                                                          }
+                                                        ],
+                                                        "Constraints": [],
+                                                        "ChainStops": []
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "BackupSearchClause": "/html[1]/body[1]/div[15]/div[1]/form[1]/div[1]/div[7]/div[2]/button[1]",
+                                                "DataBindingExpressions": {}
+                                              }
+                                            },
+                                            "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlButton",
+                                            "IsIndependent": false,
+                                            "DomStateKey": "",
+                                            "TechnologyType": 1,
+                                            "Version": 200
+                                          }
+                                        }
+                                      },
+                                      "StepType": 1,
+                                      "LogMessageOnFailure": "",
+                                      "EditorType": "",
+                                      "DataBindingExpressions": {}
+                                    }
+                                  },
+                                  "Branches": {
+                                    "1": {
+                                      "__type": "ArtOfTest.Common.Design.ProjectModel.LogicalBranchData",
+                                      "__value": {
+                                        "StepList": {
+                                          "__type": "ArtOfTest.Common.Design.ProjectModel.AutomationStepList",
+                                          "__value": [
+                                            {
+                                              "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                                              "__value": {
+                                                "Runtime ID": "7390c23b-44a2-47da-bfaa-1cdcb7cdc49c",
+                                                "Description": "Click 'SaveButtonTag'",
+                                                "CustomDescription": null,
+                                                "Step": {
+                                                  "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+                                                  "__value": {
+                                                    "SimulateRealClick": true,
+                                                    "UsejQuery": true,
+                                                    "UseBackupSearch": true,
+                                                    "ClosesBrowser": false,
+                                                    "AjaxTimeout": 0,
+                                                    "Pause": 0,
+                                                    "WaitOnElementsTimeout": 30000,
+                                                    "UseStepWaitOnElementsTimout": false,
+                                                    "WaitOnElements": true,
+                                                    "RunsAgainstVersion": "",
+                                                    "Constraints": {
+                                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                                      "__value": {
+                                                        "ConstraintValues": {
+                                                          "RunsAgainstVersion": ""
+                                                        }
+                                                      }
+                                                    },
+                                                    "Elements": {
+                                                      "target": {
+                                                        "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                                        "__value": {
+                                                          "Name": "target",
+                                                          "Region": null,
+                                                          "Page": {
+                                                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                                            "__value": {
+                                                              "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                                                              "Query": "?module=Administration&action=UserManagement&parenttab=Settings",
+                                                              "BaseUrl": "",
+                                                              "EquivalentUrls": [],
+                                                              "Fragment": "",
+                                                              "Title": "New Binary QA - Administration - Binary Options CRM",
+                                                              "CompareMode": 2,
+                                                              "AlwaysUseTitleInCompare": false,
+                                                              "FriendlyName": "NewBinaryQA0"
+                                                            }
+                                                          },
+                                                          "Frame": null,
+                                                          "FindInfo": null,
+                                                          "FindExpression": {
+                                                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                                            "__value": {
+                                                              "uniqueKey": "9BPEg1WAv42cJr47Xb0B/TUpzts=",
+                                                              "NodeKind": 4,
+                                                              "TechnologyType": 1,
+                                                              "Name": "SaveButtonTag",
+                                                              "FindExpressions": [
+                                                                {
+                                                                  "Key": 1,
+                                                                  "Value": {
+                                                                    "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                                    "__value": {
+                                                                      "Clauses": [
+                                                                        {
+                                                                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                                          "__value": {
+                                                                            "Clause": "TextContent=Save"
+                                                                          }
+                                                                        },
+                                                                        {
+                                                                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                                          "__value": {
+                                                                            "Clause": "tagname=button"
+                                                                          }
+                                                                        }
+                                                                      ],
+                                                                      "Constraints": [],
+                                                                      "ChainStops": []
+                                                                    }
+                                                                  }
+                                                                }
+                                                              ],
+                                                              "BackupSearchClause": "/html[1]/body[1]/div[15]/div[1]/form[1]/div[1]/div[7]/div[2]/button[1]",
+                                                              "DataBindingExpressions": {}
+                                                            }
+                                                          },
+                                                          "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlButton",
+                                                          "IsIndependent": false,
+                                                          "DomStateKey": "",
+                                                          "TechnologyType": 1,
+                                                          "Version": 200
+                                                        }
+                                                      }
+                                                    },
+                                                    "StepType": 4,
+                                                    "LogMessageOnFailure": "",
+                                                    "EditorType": "",
+                                                    "DataBindingExpressions": {}
+                                                  }
+                                                },
+                                                "Enabled": true,
+                                                "Order": 1,
+                                                "Id": "",
+                                                "StepState": 0,
+                                                "ContinueOnFailure": false,
+                                                "StepImageKey": "Create 'New User' (Negative tests)q2zopgwo.ajy",
+                                                "QcId": 0,
+                                                "QcVersionStamp": 0,
+                                                "Version": 200
+                                              }
+                                            }
+                                          ]
+                                        },
+                                        "Description": "IF ({0})",
+                                        "CustomDescription": null,
+                                        "Order": 0,
+                                        "Branch": 1,
+                                        "Visible": true
+                                      }
+                                    },
+                                    "0": {
+                                      "__type": "ArtOfTest.Common.Design.ProjectModel.LogicalBranchData",
+                                      "__value": {
+                                        "StepList": {
+                                          "__type": "ArtOfTest.Common.Design.ProjectModel.AutomationStepList",
+                                          "__value": [
+                                            {
+                                              "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                                              "__value": {
+                                                "Runtime ID": "47a3fa3f-a07f-46d8-a474-4271853f671f",
+                                                "Description": "Desktop command: LeftClick on SubmitButtonTag",
+                                                "CustomDescription": null,
+                                                "Step": {
+                                                  "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopActionDescriptor",
+                                                  "__value": {
+                                                    "Focus": false,
+                                                    "DesktopActionType": 0,
+                                                    "OffSet": {
+                                                      "__type": "ArtOfTest.Common.Design.ActionPoint",
+                                                      "__value": "0, 0, Percentage, AbsoluteCenter"
+                                                    },
+                                                    "UsejQuery": false,
+                                                    "UseBackupSearch": true,
+                                                    "ClosesBrowser": false,
+                                                    "AjaxTimeout": 0,
+                                                    "Pause": 0,
+                                                    "WaitOnElementsTimeout": 30000,
+                                                    "UseStepWaitOnElementsTimout": false,
+                                                    "WaitOnElements": true,
+                                                    "RunsAgainstVersion": "",
+                                                    "Constraints": {
+                                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                                      "__value": {
+                                                        "ConstraintValues": {}
+                                                      }
+                                                    },
+                                                    "Elements": {
+                                                      "target": {
+                                                        "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                                        "__value": {
+                                                          "Name": "target",
+                                                          "Region": null,
+                                                          "Page": {
+                                                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                                            "__value": {
+                                                              "Path": "/sprint/index.php",
+                                                              "Query": "?module=Administration&action=UserManagement&parenttab=Settings",
+                                                              "BaseUrl": "http://binaryqa.ptscrm.com",
+                                                              "EquivalentUrls": [],
+                                                              "Fragment": "",
+                                                              "Title": "New Binary QA - Administration - Binary Options CRM",
+                                                              "CompareMode": 2,
+                                                              "AlwaysUseTitleInCompare": false,
+                                                              "FriendlyName": "NewBinaryQA1"
+                                                            }
+                                                          },
+                                                          "Frame": null,
+                                                          "FindInfo": null,
+                                                          "FindExpression": {
+                                                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                                            "__value": {
+                                                              "uniqueKey": "g4EAsdpUrrFbuagD+qeDi3cynyQ=",
+                                                              "NodeKind": 4,
+                                                              "TechnologyType": 1,
+                                                              "Name": "SubmitButtonTag",
+                                                              "FindExpressions": [
+                                                                {
+                                                                  "Key": 1,
+                                                                  "Value": {
+                                                                    "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                                    "__value": {
+                                                                      "Clauses": [
+                                                                        {
+                                                                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                                          "__value": {
+                                                                            "Clause": "TextContent=Submit"
+                                                                          }
+                                                                        },
+                                                                        {
+                                                                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                                          "__value": {
+                                                                            "Clause": "tagname=button"
+                                                                          }
+                                                                        }
+                                                                      ],
+                                                                      "Constraints": [],
+                                                                      "ChainStops": []
+                                                                    }
+                                                                  }
+                                                                }
+                                                              ],
+                                                              "BackupSearchClause": "/html[1]/body[1]/div[15]/div[1]/div[1]/div[3]/button[2]",
+                                                              "DataBindingExpressions": {}
+                                                            }
+                                                          },
+                                                          "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlButton",
+                                                          "IsIndependent": false,
+                                                          "DomStateKey": "",
+                                                          "TechnologyType": 1,
+                                                          "Version": 200
+                                                        }
+                                                      }
+                                                    },
+                                                    "StepType": 4,
+                                                    "LogMessageOnFailure": "",
+                                                    "EditorType": "",
+                                                    "DataBindingExpressions": {}
+                                                  }
+                                                },
+                                                "Enabled": true,
+                                                "Order": 1,
+                                                "Id": "",
+                                                "StepState": 0,
+                                                "ContinueOnFailure": false,
+                                                "StepImageKey": "Create 'New User' (Negative tests)skyrgich.jpt",
+                                                "QcId": 0,
+                                                "QcVersionStamp": 0,
+                                                "Version": 200
+                                              }
+                                            }
+                                          ]
+                                        },
+                                        "Description": "ELSE",
+                                        "CustomDescription": null,
+                                        "Order": 1,
+                                        "Branch": 0,
+                                        "Visible": true
+                                      }
+                                    }
+                                  },
                                   "UseStepWaitOnElementsTimout": false,
-                                  "WaitOnElements": true,
+                                  "WaitOnElementsTimeout": 0,
+                                  "WaitOnElements": false,
+                                  "Pause": 0,
                                   "RunsAgainstVersion": "",
                                   "Constraints": {
                                     "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
                                     "__value": {
-                                      "ConstraintValues": {
-                                        "RunsAgainstVersion": ""
-                                      }
+                                      "ConstraintValues": {}
                                     }
                                   },
                                   "Elements": {
@@ -2759,7 +3101,7 @@
                                       }
                                     }
                                   },
-                                  "StepType": 4,
+                                  "StepType": 8,
                                   "LogMessageOnFailure": "",
                                   "EditorType": "",
                                   "DataBindingExpressions": {}
@@ -2770,7 +3112,7 @@
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
-                              "StepImageKey": "Create 'New User' (Negative tests)gatij0aw.n2p",
+                              "StepImageKey": "Create 'New User' (Negative tests)1s5jd4zn.bdq",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -3886,7 +4228,73 @@
         }
       ]
     },
-    "IndependentDescriptors": [],
+    "IndependentDescriptors": [
+      {
+        "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+        "__value": {
+          "Name": "$$Independent$$",
+          "Region": null,
+          "Page": {
+            "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+            "__value": {
+              "Path": "/sprint/index.php",
+              "Query": "?module=Administration&action=UserManagement&parenttab=Settings",
+              "BaseUrl": "http://binaryqa.ptscrm.com",
+              "EquivalentUrls": [],
+              "Fragment": "",
+              "Title": "New Binary QA - Administration - Binary Options CRM",
+              "CompareMode": 2,
+              "AlwaysUseTitleInCompare": false,
+              "FriendlyName": "NewBinaryQA1"
+            }
+          },
+          "Frame": null,
+          "FindInfo": null,
+          "FindExpression": {
+            "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+            "__value": {
+              "uniqueKey": "g4EAsdpUrrFbuagD+qeDi3cynyQ=",
+              "NodeKind": 4,
+              "TechnologyType": 1,
+              "Name": "SubmitButtonTag",
+              "FindExpressions": [
+                {
+                  "Key": 1,
+                  "Value": {
+                    "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                    "__value": {
+                      "Clauses": [
+                        {
+                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                          "__value": {
+                            "Clause": "TextContent=Submit"
+                          }
+                        },
+                        {
+                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                          "__value": {
+                            "Clause": "tagname=button"
+                          }
+                        }
+                      ],
+                      "Constraints": [],
+                      "ChainStops": []
+                    }
+                  }
+                }
+              ],
+              "BackupSearchClause": "/html[1]/body[1]/div[15]/div[1]/div[1]/div[3]/button[2]",
+              "DataBindingExpressions": {}
+            }
+          },
+          "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlButton",
+          "IsIndependent": true,
+          "DomStateKey": "",
+          "TechnologyType": 1,
+          "Version": 200
+        }
+      }
+    ],
     "HtmlDescription": "",
     "SilverlightEnabled": false,
     "IsSilverlightApp": false,

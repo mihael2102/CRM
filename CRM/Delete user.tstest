@@ -73,13 +73,13 @@
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
             "Runtime ID": "8d773c17-963f-4e35-8b23-9ade51e409f1",
-            "Description": "Navigate to : '/test'",
+            "Description": "Navigate to : '/sprint'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.NavigateToActionDescriptor",
               "__value": {
                 "UseDecodedUrl": true,
-                "NavigateURL": "/test",
+                "NavigateURL": "/sprint",
                 "BaseUrl": "",
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,
@@ -1408,7 +1408,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "685751bf-aca8-41fa-915f-e2afa8cad801",
+            "Runtime ID": "cfeefc14-f3ed-4a35-a571-0a1afd607632",
             "Description": "IF (Verify 'InnerText' 'Exact' 'qa3' on 'Div0')",
             "CustomDescription": null,
             "Step": {

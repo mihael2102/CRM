@@ -1,0 +1,182 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.Execution.TestList",
+  "__value": {
+    "TestListId": "4103d0d5-10e6-4d66-8f0d-3283df091c28",
+    "Id": "4103d0d5-10e6-4d66-8f0d-3283df091c28",
+    "TestListName": "CRM-Sprint-47",
+    "CreationDate": "2016-12-08T13:10:32",
+    "OwnerName": null,
+    "Settings": {
+      "__type": "ArtOfTest.WebAii.Core.Settings",
+      "__value": {
+        "Web": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WebSettings",
+          "__value": {
+            "IsProfilingExecution": false,
+            "ExecutingBrowsers": [],
+            "UseMultiBrowserExecution": false,
+            "RecycleBrowser": false,
+            "AspNetDevServerPort": -1,
+            "LocalWebServer": 0,
+            "EnableUILessRequestViewing": false,
+            "WebAppPhysicalPath": "",
+            "DefaultBrowser": 7,
+            "EnableScriptLogging": false,
+            "BaseUrl": "http://binaryqa.ptscrm.com",
+            "KillBrowserProcessOnClose": false,
+            "UseHttpProxy": false,
+            "EnableSilverlight": false,
+            "VerboseHttpProxy": false,
+            "SilverlightConnectTimeout": 60000,
+            "SilverlightApplicationPath": null
+          }
+        },
+        "Wpf": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WpfSettings",
+          "__value": {
+            "DefaultApplicationPath": null
+          }
+        },
+        "CreateLogFile": true,
+        "LogLocation": "C:\\WebAiiLog\\",
+        "QueryEventLogErrorsOnExit": false,
+        "LogAnnotations": false,
+        "SimulatedMouseMoveSpeed": 0.3,
+        "WaitCheckInterval": 500,
+        "ElementWaitTimeout": 15000,
+        "ExecuteCommandTimeout": 20000,
+        "ExecutionDelay": 0,
+        "UnexpectedDialogAction": 2,
+        "AnnotateExecution": false,
+        "AnnotationMode": 0,
+        "XMultiMgr": true,
+        "ClientReadyTimeout": 60000,
+        "DisableDialogMonitoring": false
+      }
+    },
+    "Tests": [
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "fe364906-debf-43fd-b258-22b3a8861af0",
+          "Path": "CRM\\Create 'New User' (Negative tests).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "83c117da-e726-49c5-a06f-33ebea102f4c",
+          "Path": "CRM\\Create 'New User' (Positive test).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "a74049b7-3f50-46e3-9647-a7cc0e3c31bb",
+          "Path": "CRM\\Delete user.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "46c8d064-4286-4d68-abf6-654fc62b1c3a",
+          "Path": "CRM\\Login+Sign_Out.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "831c3cdc-09ee-41d3-931e-f5cc124d4792",
+          "Path": "CRM\\Mass Assign functionality works properly.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "a9ecba66-7d75-4fa1-8fe3-16eed1b0a599",
+          "Path": "CRM\\Mass Assign_Edit are opened.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "f221652b-861d-4af3-8133-8ff80bf6de6a",
+          "Path": "CRM\\Mass Edit functionality works properly.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "b3593a9a-a409-413e-abcf-101229a1651b",
+          "Path": "CRM\\'My Preferences' is opened.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "a340921f-63d0-448b-8529-dee23c16e3d2",
+          "Path": "CRM\\page 'User Management' is opened.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "cc1cb4b3-1ad6-4a40-85c9-f20ee0e8b9e8",
+          "Path": "CRM\\Panda Main Panel_BO.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "4fe26816-e236-42ae-844b-65473be2b22e",
+          "Path": "CRM\\Panda Main Panel_FX_SW.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "d483820b-72d3-419f-abc8-6a8094055c08",
+          "Path": "CRM\\'Roles Hierarchy' opening.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "683a468b-39c4-429e-a239-e91492e84564",
+          "Path": "CRM\\Search by all CRM.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "1a858e99-b376-47b6-a8e3-80a5a3a6ed21",
+          "Path": "CRM\\Search by email(binaryCRM).tstest",
+          "PathType": 0
+        }
+      }
+    ],
+    "Filter": {
+      "__type": "ArtOfTest.WebAii.Design.Execution.Filter",
+      "__value": {
+        "Keys": [],
+        "Comparisons": [],
+        "Values": []
+      }
+    },
+    "ListType": 0,
+    "ProjectId": "f64a64db-19cf-4629-aecf-fb7a07075dcb"
+  }
+}

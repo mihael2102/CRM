@@ -73,13 +73,13 @@
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
             "Runtime ID": "5f622dfa-bf08-4622-b662-d6bf8a00d307",
-            "Description": "Navigate to : '/test' - DataDriven: [$(link)][$(link)][$(link)]",
+            "Description": "Navigate to : '/sprint' - DataDriven: [$(link)][$(link)][$(link)]",
             "CustomDescription": "Navigate to ",
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.NavigateToActionDescriptor",
               "__value": {
                 "UseDecodedUrl": true,
-                "NavigateURL": "/test",
+                "NavigateURL": "/sprint",
                 "BaseUrl": "",
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,

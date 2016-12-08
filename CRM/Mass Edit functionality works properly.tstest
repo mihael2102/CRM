@@ -73,13 +73,13 @@
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
             "Runtime ID": "665f5c79-db93-4c48-8fb5-c86fba9d1b45",
-            "Description": "Navigate to : '/sprint/index.php?action=index&module=Accounts'",
+            "Description": "Navigate to : '/sprint'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.NavigateToActionDescriptor",
               "__value": {
                 "UseDecodedUrl": true,
-                "NavigateURL": "/sprint/index.php?action=index&module=Accounts",
+                "NavigateURL": "/sprint",
                 "BaseUrl": "",
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,
@@ -731,7 +731,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "7be4bda6-112a-491b-8f1b-fc15fb8faf75",
+            "Runtime ID": "99327a11-a822-42e5-be87-3224aafb2512",
             "Description": "IF (Verify 'TextContent' 'Exact' 'aaaa' on 'PqaPqaTableCell1')",
             "CustomDescription": null,
             "Step": {
