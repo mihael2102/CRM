@@ -1758,7 +1758,7 @@
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
                               "Runtime ID": "0129a453-3f6a-478a-adfe-5219f0f236cc",
-                              "Description": "Click 'TradingSpan'",
+                              "Description": "Click 'TradingSpan0'",
                               "CustomDescription": null,
                               "Step": {
                                 "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
@@ -1804,7 +1804,7 @@
                                         "FindExpression": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "FOrOYkHG1zcLKZDH1rF+msi08YA=",
+                                            "uniqueKey": "rTbEFBXAr4Au3kyCt7JJJjJZ67s=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
                                             "Name": "TradingSpan0",
@@ -1824,7 +1824,7 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "TextContent=Trading"
+                                                          "Clause": "TextContent=^Trad"
                                                         }
                                                       }
                                                     ],
@@ -1834,7 +1834,7 @@
                                                 }
                                               }
                                             ],
-                                            "BackupSearchClause": null,
+                                            "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]/span[1]",
                                             "DataBindingExpressions": {}
                                           }
                                         },

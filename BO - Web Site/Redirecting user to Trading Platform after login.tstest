@@ -117,7 +117,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "7f0ad808-5063-4c7b-8803-b6f585f5c7a7",
+            "Runtime ID": "992acc01-6679-4b16-b08e-5a8438134566",
             "Description": "IF (Wait for Exists 'LoginLink')",
             "CustomDescription": null,
             "Step": {
@@ -1641,7 +1641,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "bf272170-a794-46f5-87b3-b35715dbaefb",
+            "Runtime ID": "ed9e9854-12b2-46f7-a754-de6fa8e18171",
             "Description": "IF (Wait for Exists 'TradingSpan0')",
             "CustomDescription": null,
             "Step": {
@@ -1691,7 +1691,7 @@
                           "FindExpression": {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                             "__value": {
-                              "uniqueKey": "FOrOYkHG1zcLKZDH1rF+msi08YA=",
+                              "uniqueKey": "rTbEFBXAr4Au3kyCt7JJJjJZ67s=",
                               "NodeKind": 4,
                               "TechnologyType": 1,
                               "Name": "TradingSpan0",
@@ -1711,7 +1711,7 @@
                                         {
                                           "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                           "__value": {
-                                            "Clause": "TextContent=Trading"
+                                            "Clause": "TextContent=^Trad"
                                           }
                                         }
                                       ],
@@ -1721,7 +1721,7 @@
                                   }
                                 }
                               ],
-                              "BackupSearchClause": null,
+                              "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]/span[1]",
                               "DataBindingExpressions": {}
                             }
                           },
@@ -1750,7 +1750,7 @@
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
                               "Runtime ID": "793df729-f24c-4fd0-aa2f-efae56df85bd",
-                              "Description": "Click 'TradingSpan'",
+                              "Description": "Click 'TradingSpan0'",
                               "CustomDescription": null,
                               "Step": {
                                 "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
@@ -1796,7 +1796,7 @@
                                         "FindExpression": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "FOrOYkHG1zcLKZDH1rF+msi08YA=",
+                                            "uniqueKey": "rTbEFBXAr4Au3kyCt7JJJjJZ67s=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
                                             "Name": "TradingSpan0",
@@ -1816,7 +1816,7 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "TextContent=Trading"
+                                                          "Clause": "TextContent=^Trad"
                                                         }
                                                       }
                                                     ],
@@ -1826,7 +1826,7 @@
                                                 }
                                               }
                                             ],
-                                            "BackupSearchClause": null,
+                                            "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]/span[1]",
                                             "DataBindingExpressions": {}
                                           }
                                         },
@@ -1915,7 +1915,7 @@
                       "FindExpression": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "FOrOYkHG1zcLKZDH1rF+msi08YA=",
+                          "uniqueKey": "rTbEFBXAr4Au3kyCt7JJJjJZ67s=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
                           "Name": "TradingSpan0",
@@ -1935,7 +1935,7 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "TextContent=Trading"
+                                        "Clause": "TextContent=^Trad"
                                       }
                                     }
                                   ],
@@ -1945,7 +1945,7 @@
                               }
                             }
                           ],
-                          "BackupSearchClause": null,
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]/span[1]",
                           "DataBindingExpressions": {}
                         }
                       },

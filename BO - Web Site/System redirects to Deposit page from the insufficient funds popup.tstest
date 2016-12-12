@@ -117,7 +117,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "23421f84-18ad-46fe-975d-07c5269c2f6d",
+            "Runtime ID": "5acfa0a1-f239-49d7-b0fb-6f60b1adfb9f",
             "Description": "IF (Wait for Exists 'LoginLink')",
             "CustomDescription": null,
             "Step": {
@@ -1641,7 +1641,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "bdb3af58-0c33-4741-9fa0-4def8e47d40b",
+            "Runtime ID": "e661ac23-6492-4794-bd04-425deb559f8f",
             "Description": "IF (Wait for Exists 'HighSpan')",
             "CustomDescription": null,
             "Step": {
@@ -1982,12 +1982,121 @@
                                   "DataBindingExpressions": {}
                                 }
                               },
-                              "Enabled": true,
+                              "Enabled": false,
                               "Order": 2,
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
                               "StepImageKey": "Option to start trading is presentl0mk0owf.gax",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "b577343e-b0ec-43d6-adcd-b97810d52bca",
+                              "Description": "Click 'TradingSpan0'",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+                                "__value": {
+                                  "SimulateRealClick": false,
+                                  "UsejQuery": false,
+                                  "UseBackupSearch": true,
+                                  "ClosesBrowser": false,
+                                  "AjaxTimeout": 0,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {}
+                                    }
+                                  },
+                                  "Elements": {
+                                    "target": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "target",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "",
+                                            "Query": "",
+                                            "BaseUrl": "https://ultrafinance.com/",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "Ultra Finance – Ultra Finance",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "UltraFinanceUltraFinance"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "rTbEFBXAr4Au3kyCt7JJJjJZ67s=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "TradingSpan0",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=span"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=^Trad"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]/span[1]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 4,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 3,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": false,
+                              "StepImageKey": "System redirects to Deposit page from the insufficient funds popupcirpw3jh.znz",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -2095,10 +2204,10 @@
                                 }
                               },
                               "Enabled": false,
-                              "Order": 3,
+                              "Order": 4,
                               "Id": "",
                               "StepState": 0,
-                              "ContinueOnFailure": true,
+                              "ContinueOnFailure": false,
                               "StepImageKey": "Option to start trading is presentvcujvwlh.zaq",
                               "QcId": 0,
                               "QcVersionStamp": 0,
@@ -2209,7 +2318,7 @@
                                 }
                               },
                               "Enabled": false,
-                              "Order": 4,
+                              "Order": 5,
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
@@ -2658,7 +2767,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "fbcf549e-f707-4151-a75c-5eed921c670b",
+            "Runtime ID": "6732de04-1ca7-4cf5-885b-1b9a010ad01d",
             "Description": "IF (Wait for Exists 'SelectYourH1Tag0')",
             "CustomDescription": null,
             "Step": {

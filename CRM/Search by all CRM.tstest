@@ -79,7 +79,7 @@
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.NavigateToActionDescriptor",
               "__value": {
                 "UseDecodedUrl": true,
-                "NavigateURL": "/sprint",
+                "NavigateURL": "/",
                 "BaseUrl": "http://mtxplus.ptscrm.com",
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,

@@ -117,7 +117,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "355a7d13-c5b8-42c8-be44-a4b52bd31930",
+            "Runtime ID": "af32c34c-f40a-483f-9e50-6adeed410213",
             "Description": "IF (Verify element 'HomeSpan' 'is' visible.)",
             "CustomDescription": null,
             "Step": {
@@ -459,7 +459,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "7955c938-e879-42cc-82d1-5f43f7b9bb58",
+            "Runtime ID": "7709c471-5162-4e95-8d90-8e80045fa128",
             "Description": "IF (Wait for Exists 'OpenAccountSpan')",
             "CustomDescription": null,
             "Step": {
@@ -910,7 +910,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "16930f70-9630-4769-8d69-cc40ef776fb6",
+            "Runtime ID": "9f94a93c-16dc-4010-8fae-c3c087a43766",
             "Description": "IF (Verify element 'FAQSpan' 'is' visible.)",
             "CustomDescription": null,
             "Step": {
@@ -1252,7 +1252,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "e1e66839-0712-4aa2-b4ad-c2cd408b606f",
+            "Runtime ID": "af25290f-7661-4ace-bee5-611656a37ad7",
             "Description": "IF (Verify element 'BankingSpan' 'is' visible.)",
             "CustomDescription": null,
             "Step": {
@@ -1594,7 +1594,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "7dbb57f3-ec50-4a76-b64d-9e3f85579fe1",
+            "Runtime ID": "547864d9-55ca-45fa-bc2b-1ff88ddd9cbe",
             "Description": "IF (Verify element 'AccountTypesSpan' 'is' visible.)",
             "CustomDescription": null,
             "Step": {
@@ -2050,7 +2050,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "6ed71c8f-6e5b-4380-b9f5-0171e63232db",
+            "Runtime ID": "edf025b2-72df-4548-a409-04eec3f83285",
             "Description": "IF (Wait for Exists 'EducationSpan')",
             "CustomDescription": null,
             "Step": {
@@ -2391,7 +2391,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "a9c5bc6b-995c-4d03-a843-77ef616ffbac",
+            "Runtime ID": "c1965354-cc0d-4ba4-877c-821fceb0e9e9",
             "Description": "IF (Verify element 'AssetIndexSpan' 'is' visible.)",
             "CustomDescription": null,
             "Step": {
@@ -2847,7 +2847,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "ccdda569-cd55-4d50-a585-18a0da9050e3",
+            "Runtime ID": "ecc13932-a44b-413c-af6f-df1521567d54",
             "Description": "IF (Verify element 'GlossarySpan' 'is' visible.)",
             "CustomDescription": null,
             "Step": {
@@ -3303,7 +3303,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "81c16746-215b-4eb6-8dc9-660fa3abb5ea",
+            "Runtime ID": "f2812918-2366-43f1-9eef-ef4bf1443150",
             "Description": "IF (Verify element 'AboutUsSpan' 'is' visible.)",
             "CustomDescription": null,
             "Step": {
@@ -3759,7 +3759,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "dd257bd1-5764-4262-bcb6-577b2c8669d4",
+            "Runtime ID": "ec1453dc-f1ed-40f6-9ee9-0b22863ea94e",
             "Description": "IF (Verify element 'TradingSpan' 'is' visible.)",
             "CustomDescription": null,
             "Step": {
@@ -3810,7 +3810,7 @@
                           "FindExpression": {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                             "__value": {
-                              "uniqueKey": "FOrOYkHG1zcLKZDH1rF+msi08YA=",
+                              "uniqueKey": "rTbEFBXAr4Au3kyCt7JJJjJZ67s=",
                               "NodeKind": 4,
                               "TechnologyType": 1,
                               "Name": "TradingSpan",
@@ -3824,13 +3824,13 @@
                                         {
                                           "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                           "__value": {
-                                            "Clause": "TextContent=Trading"
+                                            "Clause": "tagname=span"
                                           }
                                         },
                                         {
                                           "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                           "__value": {
-                                            "Clause": "tagname=span"
+                                            "Clause": "TextContent=^Trad"
                                           }
                                         }
                                       ],
@@ -3840,7 +3840,7 @@
                                   }
                                 }
                               ],
-                              "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[4]/nav[1]/ul[1]/li[1]/a[1]/span[1]",
+                              "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]/span[1]",
                               "DataBindingExpressions": {}
                             }
                           },
@@ -3920,7 +3920,7 @@
                                         "FindExpression": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "FOrOYkHG1zcLKZDH1rF+msi08YA=",
+                                            "uniqueKey": "rTbEFBXAr4Au3kyCt7JJJjJZ67s=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
                                             "Name": "TradingSpan",
@@ -3934,13 +3934,13 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "TextContent=Trading"
+                                                          "Clause": "tagname=span"
                                                         }
                                                       },
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "tagname=span"
+                                                          "Clause": "TextContent=^Trad"
                                                         }
                                                       }
                                                     ],
@@ -3950,7 +3950,7 @@
                                                 }
                                               }
                                             ],
-                                            "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[4]/nav[1]/ul[1]/li[1]/a[1]/span[1]",
+                                            "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]/span[1]",
                                             "DataBindingExpressions": {}
                                           }
                                         },
@@ -4039,7 +4039,7 @@
                       "FindExpression": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "FOrOYkHG1zcLKZDH1rF+msi08YA=",
+                          "uniqueKey": "rTbEFBXAr4Au3kyCt7JJJjJZ67s=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
                           "Name": "TradingSpan",
@@ -4053,13 +4053,13 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "TextContent=Trading"
+                                        "Clause": "tagname=span"
                                       }
                                     },
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "tagname=span"
+                                        "Clause": "TextContent=^Trad"
                                       }
                                     }
                                   ],
@@ -4069,7 +4069,7 @@
                               }
                             }
                           ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[4]/nav[1]/ul[1]/li[1]/a[1]/span[1]",
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]/span[1]",
                           "DataBindingExpressions": {}
                         }
                       },
@@ -4101,7 +4101,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "25b814c4-7080-4b04-8041-d3398afb07b9",
+            "Runtime ID": "15ac29c2-7fd7-49fe-ba63-3feb623204ac",
             "Description": "IF (Verify element 'PackagesSpan' 'is' visible.)",
             "CustomDescription": null,
             "Step": {
@@ -5497,7 +5497,7 @@
           "FindExpression": {
             "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
             "__value": {
-              "uniqueKey": "FOrOYkHG1zcLKZDH1rF+msi08YA=",
+              "uniqueKey": "rTbEFBXAr4Au3kyCt7JJJjJZ67s=",
               "NodeKind": 4,
               "TechnologyType": 1,
               "Name": "TradingSpan",
@@ -5511,13 +5511,13 @@
                         {
                           "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                           "__value": {
-                            "Clause": "TextContent=Trading"
+                            "Clause": "tagname=span"
                           }
                         },
                         {
                           "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                           "__value": {
-                            "Clause": "tagname=span"
+                            "Clause": "TextContent=^Trad"
                           }
                         }
                       ],
@@ -5527,7 +5527,7 @@
                   }
                 }
               ],
-              "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[4]/nav[1]/ul[1]/li[1]/a[1]/span[1]",
+              "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]/span[1]",
               "DataBindingExpressions": {}
             }
           },

@@ -73,13 +73,13 @@
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
             "Runtime ID": "665f5c79-db93-4c48-8fb5-c86fba9d1b45",
-            "Description": "Navigate to : '/sprint'",
+            "Description": "Navigate to : '/'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.NavigateToActionDescriptor",
               "__value": {
                 "UseDecodedUrl": true,
-                "NavigateURL": "/sprint",
+                "NavigateURL": "/",
                 "BaseUrl": "",
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,
@@ -731,7 +731,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "99327a11-a822-42e5-be87-3224aafb2512",
+            "Runtime ID": "96b5fb3a-364b-4db8-affe-3f2e0665b407",
             "Description": "IF (Verify 'TextContent' 'Exact' 'aaaa' on 'PqaPqaTableCell1')",
             "CustomDescription": null,
             "Step": {

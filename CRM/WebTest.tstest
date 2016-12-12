@@ -10,24 +10,14 @@
     "ProfilerBenchmarkResultsId": "00000000-0000-0000-0000-000000000000",
     "ProfilerConfigurationId": "00000000-0000-0000-0000-000000000000",
     "ProfilerConfigurations": {},
-    "CurrentReferences": [
-      "System",
-      "System.Core",
-      "ArtOfTest.WebAii, Version=2016.3.928.0, Culture=neutral, PublicKeyToken=4fd5f65be123776c",
-      "ArtOfTest.WebAii.Design, Version=2016.3.928.0, Culture=neutral, PublicKeyToken=4fc62bbc3827ab1d",
-      "Telerik.WebAii.Controls.Html, Version=2016.3.928.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
-      "Telerik.WebAii.Controls.Xaml, Version=2016.3.928.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
-      "Telerik.WebAii.Controls.Xaml.Wpf, Version=2016.3.928.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
-      "Telerik.TestingFramework.Controls.KendoUI, Version=2016.3.928.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
-      "System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
-    ],
+    "CurrentReferences": [],
     "Steps": {
       "__type": "ArtOfTest.Common.Design.ProjectModel.AutomationStepList",
       "__value": [
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "9e7c1335-d2f6-4c11-a9ca-9ca683fcd466",
+            "Runtime ID": "89b4a2e9-931d-480f-a4c3-32cd2642d627",
             "Description": "Clear Browser Cache",
             "CustomDescription": null,
             "Step": {
@@ -63,7 +53,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Verifying that personal information present and correct3f2au3rc.j0u",
+            "StepImageKey": "WebTestbibvwv2t.ozg",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -72,7 +62,56 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "14e993e5-7b34-4727-adc6-956d8d4c91ac",
+            "Runtime ID": "d8045a9b-4eb1-4120-b7bc-2584da7154b2",
+            "Description": "Navigate to : '/test' - DataDriven: [$(link)][$(link)][$(link)]",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.NavigateToActionDescriptor",
+              "__value": {
+                "UseDecodedUrl": true,
+                "NavigateURL": "/test",
+                "BaseUrl": "",
+                "WaitOnElementsTimeout": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": false,
+                "UsejQuery": false,
+                "UseBackupSearch": true,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {
+                  "UseDecodedUrl": "$(link)",
+                  "NavigateUrl": "$(link)",
+                  "BaseUrl": "$(link)"
+                }
+              }
+            },
+            "Enabled": false,
+            "Order": 2,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "WebTestw3v3p3ye.lur",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "5378bc1d-1388-4b11-8036-c3b80c79aa1f",
             "Description": "Navigate to : '/'",
             "CustomDescription": null,
             "Step": {
@@ -80,7 +119,7 @@
               "__value": {
                 "UseDecodedUrl": true,
                 "NavigateURL": "/",
-                "BaseUrl": "",
+                "BaseUrl": "https://itraderfx.ptscrm.com",
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,
                 "WaitOnElements": false,
@@ -104,11 +143,11 @@
               }
             },
             "Enabled": true,
-            "Order": 2,
+            "Order": 3,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Verifying that personal information present and correct0puyb31x.nil",
+            "StepImageKey": "WebTestgg132rs4.cwd",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -117,8 +156,580 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "200615f8-2675-49cf-a26f-3d7ab77b2754",
-            "Description": "IF (Wait for Exists 'LoginLink')",
+            "Runtime ID": "69e969d5-a0a6-456a-a571-a7f0f2142bfc",
+            "Description": "Enter text 'pandaqa' in 'UserNameText'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
+              "__value": {
+                "RawText": "pandaqa",
+                "SimulateRealTyping": false,
+                "TypingSpeed": 50,
+                "KeyHoldTime": 100,
+                "IsPassword": false,
+                "TypingInfo": null,
+                "Encrypt": false,
+                "SupportUnicode": true,
+                "UsejQuery": false,
+                "UseBackupSearch": true,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "textTarget": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "textTarget",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "http://binaryqa.ptscrm.com/test/",
+                          "Query": "",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "New Binary QA - Binary Options CRM",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "NewBinaryQABinary"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "v1CVcVhPYH0YKD9g5ukx6GVScuk=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "UserNameText",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=user_name"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[1]/form[1]/div[1]/div[2]/div[2]/input[1]",
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {},
+                "_canEncrypt": false,
+                "_cipher": null
+              }
+            },
+            "Enabled": true,
+            "Order": 4,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "WebTestqaeuchi5.2wt",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "4e4b7e4e-d181-4990-8b3c-f5967b9275a2",
+            "Description": "Enter text 'Pan2016' in 'UserPasswordPassword'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
+              "__value": {
+                "RawText": "Pan2016",
+                "SimulateRealTyping": false,
+                "TypingSpeed": 50,
+                "KeyHoldTime": 100,
+                "IsPassword": false,
+                "TypingInfo": null,
+                "Encrypt": false,
+                "SupportUnicode": true,
+                "UsejQuery": false,
+                "UseBackupSearch": true,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "textTarget": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "textTarget",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "http://binaryqa.ptscrm.com/test/",
+                          "Query": "",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "New Binary QA - Binary Options CRM",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "NewBinaryQABinary"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "kxEi07MmJb1YI3ryR7gQIVmj9uI=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "UserPasswordPassword",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=user_password"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[1]/form[1]/div[1]/div[2]/div[4]/input[1]",
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputPassword",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {},
+                "_canEncrypt": false,
+                "_cipher": null
+              }
+            },
+            "Enabled": true,
+            "Order": 5,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "WebTest4bafnyb1.toi",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "f93ead07-e28b-42a2-914d-8618007a6c05",
+            "Description": "Desktop command: LeftClick on SubmitButtonSubmit",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopActionDescriptor",
+              "__value": {
+                "Focus": false,
+                "DesktopActionType": 0,
+                "OffSet": {
+                  "__type": "ArtOfTest.Common.Design.ActionPoint",
+                  "__value": "0, 0, Percentage, AbsoluteCenter"
+                },
+                "UsejQuery": false,
+                "UseBackupSearch": true,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "http://binaryqa.ptscrm.com/test/",
+                          "Query": "",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "New Binary QA - Binary Options CRM",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "NewBinaryQABinary"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "ht010NF6gqNmCIOCXmjz93uNqqw=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "SubmitButtonSubmit",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=submitButton"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[1]/form[1]/div[1]/div[2]/div[6]/input[1]",
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputSubmit",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 6,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "WebTestkkprrvmk.5ve",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "c4df8be0-bbc4-4460-ba14-730380f9a2ee",
+            "Description": "Verify element 'HomePNGImage' 'is' visible.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.VisibleVerificationDescriptor",
+              "__value": {
+                "IsVisible": true,
+                "UseBackupSearch": true,
+                "DataBindVariableName": null,
+                "Timeout": 30000,
+                "CheckInterval": 500,
+                "EnsureStateIsCurrent": false,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": true,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "verifyTarget": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "verifyTarget",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                          "Query": "?action=index&module=Accounts",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "New Binary QA - Clients - Binary Options CRM",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "NewBinaryQAClients"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "iSuKGiUz3RCfsmDtqnlnvTyHO+M=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "HomePNGImage",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "src=themes/panda/images/Home.PNG"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=img"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[1]/a[1]/img[1]",
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlImage",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 2,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 7,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "WebTestliavalni.aor",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "3df65282-157e-4355-98cd-c6c5cba44706",
+            "Description": "Verify element 'UserPNGImage' 'is' visible.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.VisibleVerificationDescriptor",
+              "__value": {
+                "IsVisible": true,
+                "UseBackupSearch": true,
+                "DataBindVariableName": null,
+                "Timeout": 30000,
+                "CheckInterval": 500,
+                "EnsureStateIsCurrent": false,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {
+                      "RunsAgainstVersion": ""
+                    }
+                  }
+                },
+                "Elements": {
+                  "verifyTarget": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "verifyTarget",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                          "Query": "?action=index&module=Accounts",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "New Binary QA - Clients - Binary Options CRM",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "NewBinaryQAClients"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "pYQbjuUcfpNDY4Lm6YzeKRDXFa0=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "UserPNGImage",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "src=themes/panda/images/user.PNG"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=img"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[3]/table[1]/tbody[1]/tr[1]/td[1]/img[1]",
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlImage",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 2,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 8,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "WebTest0sxzsrnv.bau",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "a765c344-2119-46e2-b3d1-b77ae19fd38b",
+            "Description": "IF (Wait for Exists 'MainSettingsPNGImage')",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.IfThenElseLogicalDescriptor",
@@ -151,15 +762,15 @@
                           "Page": {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                             "__value": {
-                              "Path": "",
-                              "Query": "",
-                              "BaseUrl": "https://ultrafinance.com/",
+                              "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                              "Query": "?action=index&module=Accounts",
+                              "BaseUrl": "",
                               "EquivalentUrls": [],
                               "Fragment": "",
-                              "Title": "Ultra Finance – Ultra Finance",
+                              "Title": "New Binary QA - Clients - Binary Options CRM",
                               "CompareMode": 2,
                               "AlwaysUseTitleInCompare": false,
-                              "FriendlyName": "UltraFinanceUltraFinance"
+                              "FriendlyName": "NewBinaryQAClients"
                             }
                           },
                           "Frame": null,
@@ -167,10 +778,10 @@
                           "FindExpression": {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                             "__value": {
-                              "uniqueKey": "OETVHqxTh964Gi0L6IX82udf6/g=",
+                              "uniqueKey": "Ub8VpWxsR0Kr9fwF93yGCOWKXO0=",
                               "NodeKind": 4,
                               "TechnologyType": 1,
-                              "Name": "LoginLink",
+                              "Name": "MainSettingsPNGImage",
                               "FindExpressions": [
                                 {
                                   "Key": 1,
@@ -181,29 +792,27 @@
                                         {
                                           "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                           "__value": {
-                                            "Clause": "id=Top_bar"
+                                            "Clause": "src=themes/panda/images/mainSettings.PNG"
                                           }
                                         },
                                         {
                                           "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                           "__value": {
-                                            "Clause": "TagIndex=a:2"
+                                            "Clause": "tagname=img"
                                           }
                                         }
                                       ],
                                       "Constraints": [],
-                                      "ChainStops": [
-                                        1
-                                      ]
+                                      "ChainStops": []
                                     }
                                   }
                                 }
                               ],
-                              "BackupSearchClause": null,
+                              "BackupSearchClause": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[3]/table[1]/tbody[1]/tr[1]/td[2]/img[1]",
                               "DataBindingExpressions": {}
                             }
                           },
-                          "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                          "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlImage",
                           "IsIndependent": false,
                           "DomStateKey": "",
                           "TechnologyType": 1,
@@ -227,13 +836,18 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "e732c7f5-3d4b-4f22-b66f-861bbc8d84b0",
-                              "Description": "Click 'LoginLink'",
+                              "Runtime ID": "0e85dcbf-61a1-4951-ac4a-d681eb66c9ed",
+                              "Description": "Desktop command: LeftClick on MainSettingsPNGImage",
                               "CustomDescription": null,
                               "Step": {
-                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopActionDescriptor",
                                 "__value": {
-                                  "SimulateRealClick": false,
+                                  "Focus": true,
+                                  "DesktopActionType": 0,
+                                  "OffSet": {
+                                    "__type": "ArtOfTest.Common.Design.ActionPoint",
+                                    "__value": "0, 0, Percentage, AbsoluteCenter"
+                                  },
                                   "UsejQuery": false,
                                   "UseBackupSearch": true,
                                   "ClosesBrowser": false,
@@ -258,15 +872,15 @@
                                         "Page": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                                           "__value": {
-                                            "Path": "",
-                                            "Query": "",
-                                            "BaseUrl": "https://ultrafinance.com/",
+                                            "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                                            "Query": "?action=index&module=Accounts",
+                                            "BaseUrl": "",
                                             "EquivalentUrls": [],
                                             "Fragment": "",
-                                            "Title": "Ultra Finance – Ultra Finance",
+                                            "Title": "New Binary QA - Clients - Binary Options CRM",
                                             "CompareMode": 2,
                                             "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "UltraFinanceUltraFinance"
+                                            "FriendlyName": "NewBinaryQAClients"
                                           }
                                         },
                                         "Frame": null,
@@ -274,10 +888,10 @@
                                         "FindExpression": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "OETVHqxTh964Gi0L6IX82udf6/g=",
+                                            "uniqueKey": "Ub8VpWxsR0Kr9fwF93yGCOWKXO0=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
-                                            "Name": "LoginLink",
+                                            "Name": "MainSettingsPNGImage",
                                             "FindExpressions": [
                                               {
                                                 "Key": 1,
@@ -288,29 +902,27 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "id=Top_bar"
+                                                          "Clause": "src=themes/panda/images/mainSettings.PNG"
                                                         }
                                                       },
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "TagIndex=a:2"
+                                                          "Clause": "tagname=img"
                                                         }
                                                       }
                                                     ],
                                                     "Constraints": [],
-                                                    "ChainStops": [
-                                                      1
-                                                    ]
+                                                    "ChainStops": []
                                                   }
                                                 }
                                               }
                                             ],
-                                            "BackupSearchClause": null,
+                                            "BackupSearchClause": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[3]/table[1]/tbody[1]/tr[1]/td[2]/img[1]",
                                             "DataBindingExpressions": {}
                                           }
                                         },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlImage",
                                         "IsIndependent": false,
                                         "DomStateKey": "",
                                         "TechnologyType": 1,
@@ -329,7 +941,7 @@
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
-                              "StepImageKey": "Email about depositha4ojp4k.edp",
+                              "StepImageKey": "Create 'New User' (Negative tests)dxlialhp.elg",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -338,262 +950,14 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "d61db7fd-8094-4f5e-af21-5f818ecbb9aa",
-                              "Description": "Enter text 'MichaelQApanda+1@gmail.com' in 'PfLoginEmailEmail'",
-                              "CustomDescription": null,
-                              "Step": {
-                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
-                                "__value": {
-                                  "RawText": "MichaelQApanda+1@gmail.com",
-                                  "SimulateRealTyping": false,
-                                  "TypingSpeed": 50,
-                                  "KeyHoldTime": 100,
-                                  "IsPassword": false,
-                                  "TypingInfo": null,
-                                  "Encrypt": false,
-                                  "SupportUnicode": true,
-                                  "UsejQuery": false,
-                                  "UseBackupSearch": true,
-                                  "ClosesBrowser": false,
-                                  "AjaxTimeout": 0,
-                                  "Pause": 0,
-                                  "WaitOnElementsTimeout": 30000,
-                                  "UseStepWaitOnElementsTimout": false,
-                                  "WaitOnElements": true,
-                                  "RunsAgainstVersion": "",
-                                  "Constraints": {
-                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                                    "__value": {
-                                      "ConstraintValues": {}
-                                    }
-                                  },
-                                  "Elements": {
-                                    "textTarget": {
-                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                                      "__value": {
-                                        "Name": "textTarget",
-                                        "Region": null,
-                                        "Page": {
-                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                                          "__value": {
-                                            "Path": "",
-                                            "Query": "",
-                                            "BaseUrl": "https://ultrafinance.com/",
-                                            "EquivalentUrls": [],
-                                            "Fragment": "",
-                                            "Title": "Ultra Finance – Ultra Finance",
-                                            "CompareMode": 2,
-                                            "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "UltraFinanceUltraFinance"
-                                          }
-                                        },
-                                        "Frame": null,
-                                        "FindInfo": null,
-                                        "FindExpression": {
-                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
-                                          "__value": {
-                                            "uniqueKey": "qrnsMRj9e1vaPKL2KSWi+uV/gIM=",
-                                            "NodeKind": 4,
-                                            "TechnologyType": 1,
-                                            "Name": "PfLoginEmailEmail",
-                                            "FindExpressions": [
-                                              {
-                                                "Key": 1,
-                                                "Value": {
-                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                                  "__value": {
-                                                    "Clauses": [
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "tagname=input"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "id=pf-login-email"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "type=email"
-                                                        }
-                                                      }
-                                                    ],
-                                                    "Constraints": [],
-                                                    "ChainStops": []
-                                                  }
-                                                }
-                                              }
-                                            ],
-                                            "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/div[1]/div[1]/form[1]/input[1]",
-                                            "DataBindingExpressions": {}
-                                          }
-                                        },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
-                                        "IsIndependent": false,
-                                        "DomStateKey": "",
-                                        "TechnologyType": 1,
-                                        "Version": 200
-                                      }
-                                    }
-                                  },
-                                  "StepType": 4,
-                                  "LogMessageOnFailure": "",
-                                  "EditorType": "",
-                                  "DataBindingExpressions": {},
-                                  "_canEncrypt": false,
-                                  "_cipher": null
-                                }
-                              },
-                              "Enabled": true,
-                              "Order": 2,
-                              "Id": "",
-                              "StepState": 0,
-                              "ContinueOnFailure": false,
-                              "StepImageKey": "Email about depositunsnxxl0.mpr",
-                              "QcId": 0,
-                              "QcVersionStamp": 0,
-                              "Version": 200
-                            }
-                          },
-                          {
-                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-                            "__value": {
-                              "Runtime ID": "0d8a370c-1b39-4922-95b4-1bbb26500245",
-                              "Description": "Enter text 'q1w2e3' in 'PfLoginPassPassword'",
-                              "CustomDescription": null,
-                              "Step": {
-                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
-                                "__value": {
-                                  "RawText": "q1w2e3",
-                                  "SimulateRealTyping": false,
-                                  "TypingSpeed": 50,
-                                  "KeyHoldTime": 100,
-                                  "IsPassword": false,
-                                  "TypingInfo": null,
-                                  "Encrypt": false,
-                                  "SupportUnicode": true,
-                                  "UsejQuery": false,
-                                  "UseBackupSearch": true,
-                                  "ClosesBrowser": false,
-                                  "AjaxTimeout": 0,
-                                  "Pause": 0,
-                                  "WaitOnElementsTimeout": 30000,
-                                  "UseStepWaitOnElementsTimout": false,
-                                  "WaitOnElements": true,
-                                  "RunsAgainstVersion": "",
-                                  "Constraints": {
-                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                                    "__value": {
-                                      "ConstraintValues": {}
-                                    }
-                                  },
-                                  "Elements": {
-                                    "textTarget": {
-                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                                      "__value": {
-                                        "Name": "textTarget",
-                                        "Region": null,
-                                        "Page": {
-                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                                          "__value": {
-                                            "Path": "",
-                                            "Query": "",
-                                            "BaseUrl": "https://ultrafinance.com/",
-                                            "EquivalentUrls": [],
-                                            "Fragment": "",
-                                            "Title": "Ultra Finance – Ultra Finance",
-                                            "CompareMode": 2,
-                                            "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "UltraFinanceUltraFinance"
-                                          }
-                                        },
-                                        "Frame": null,
-                                        "FindInfo": null,
-                                        "FindExpression": {
-                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
-                                          "__value": {
-                                            "uniqueKey": "M4O/5YlTAEphP5/Dif+HpPtrge8=",
-                                            "NodeKind": 4,
-                                            "TechnologyType": 1,
-                                            "Name": "PfLoginPassPassword",
-                                            "FindExpressions": [
-                                              {
-                                                "Key": 1,
-                                                "Value": {
-                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                                  "__value": {
-                                                    "Clauses": [
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "tagname=input"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "id=pf-login-pass"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "type=password"
-                                                        }
-                                                      }
-                                                    ],
-                                                    "Constraints": [],
-                                                    "ChainStops": []
-                                                  }
-                                                }
-                                              }
-                                            ],
-                                            "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/div[1]/div[1]/form[1]/input[2]",
-                                            "DataBindingExpressions": {}
-                                          }
-                                        },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputPassword",
-                                        "IsIndependent": false,
-                                        "DomStateKey": "",
-                                        "TechnologyType": 1,
-                                        "Version": 200
-                                      }
-                                    }
-                                  },
-                                  "StepType": 4,
-                                  "LogMessageOnFailure": "",
-                                  "EditorType": "",
-                                  "DataBindingExpressions": {},
-                                  "_canEncrypt": false,
-                                  "_cipher": null
-                                }
-                              },
-                              "Enabled": true,
-                              "Order": 3,
-                              "Id": "",
-                              "StepState": 0,
-                              "ContinueOnFailure": false,
-                              "StepImageKey": "Email about depositmx43l5i1.uad",
-                              "QcId": 0,
-                              "QcVersionStamp": 0,
-                              "Version": 200
-                            }
-                          },
-                          {
-                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-                            "__value": {
-                              "Runtime ID": "fad2e9cd-f10d-484b-9957-4d76d8bf842b",
-                              "Description": "Click 'LoginSubmitSubmit'",
+                              "Runtime ID": "1bd80860-27d8-4b82-95d9-35369d53daf1",
+                              "Description": "Click 'UserManagementLink'",
                               "CustomDescription": null,
                               "Step": {
                                 "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
                                 "__value": {
                                   "SimulateRealClick": false,
-                                  "UsejQuery": false,
+                                  "UsejQuery": true,
                                   "UseBackupSearch": true,
                                   "ClosesBrowser": false,
                                   "AjaxTimeout": 0,
@@ -605,7 +969,9 @@
                                   "Constraints": {
                                     "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
                                     "__value": {
-                                      "ConstraintValues": {}
+                                      "ConstraintValues": {
+                                        "RunsAgainstVersion": ""
+                                      }
                                     }
                                   },
                                   "Elements": {
@@ -617,15 +983,15 @@
                                         "Page": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                                           "__value": {
-                                            "Path": "",
-                                            "Query": "",
-                                            "BaseUrl": "https://ultrafinance.com/",
+                                            "Path": "index.php",
+                                            "Query": "?action=index&module=Accounts",
+                                            "BaseUrl": "https://porterbinary.ptscrm.com/",
                                             "EquivalentUrls": [],
                                             "Fragment": "",
-                                            "Title": "Ultra Finance – Ultra Finance",
+                                            "Title": "Porter Finance - Clients - Binary Options CRM",
                                             "CompareMode": 2,
                                             "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "UltraFinanceUltraFinance"
+                                            "FriendlyName": "PorterFinanceClients"
                                           }
                                         },
                                         "Frame": null,
@@ -633,10 +999,10 @@
                                         "FindExpression": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "L62jo2a+gukI9Qt6OWGn3+6DDvE=",
+                                            "uniqueKey": "luK3ncP3nDhr0KD4G2TliOpkJ0g=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
-                                            "Name": "LoginSubmitSubmit",
+                                            "Name": "UserManagementLink",
                                             "FindExpressions": [
                                               {
                                                 "Key": 1,
@@ -647,13 +1013,13 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "tagname=input"
+                                                          "Clause": "href=index.php?module=Administration&amp;action=UserManagement&amp;parenttab=Settings"
                                                         }
                                                       },
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "id=login_submit"
+                                                          "Clause": "tagname=a"
                                                         }
                                                       }
                                                     ],
@@ -663,11 +1029,11 @@
                                                 }
                                               }
                                             ],
-                                            "BackupSearchClause": null,
+                                            "BackupSearchClause": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[3]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[1]/a[1]",
                                             "DataBindingExpressions": {}
                                           }
                                         },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputSubmit",
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
                                         "IsIndependent": false,
                                         "DomStateKey": "",
                                         "TechnologyType": 1,
@@ -682,11 +1048,122 @@
                                 }
                               },
                               "Enabled": true,
-                              "Order": 4,
+                              "Order": 2,
                               "Id": "",
                               "StepState": 0,
                               "ContinueOnFailure": false,
-                              "StepImageKey": "Email about depositvzd14s2r.tf1",
+                              "StepImageKey": "Create 'New User' (Negative tests)y0g35o40.2zc",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "bdcfc3a4-c285-43bd-8aa4-6bbc903f9bc2",
+                              "Description": "Click 'NewUserButtonTag'",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+                                "__value": {
+                                  "SimulateRealClick": false,
+                                  "UsejQuery": true,
+                                  "UseBackupSearch": true,
+                                  "ClosesBrowser": false,
+                                  "AjaxTimeout": 0,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {
+                                        "RunsAgainstVersion": ""
+                                      }
+                                    }
+                                  },
+                                  "Elements": {
+                                    "target": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "target",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                                            "Query": "?module=Administration&action=UserManagement&parenttab=Settings",
+                                            "BaseUrl": "",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "New Binary QA - Administration - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "NewBinaryQA0"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "tje00HUxorhTrbCt5mjyW+iHIsA=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "NewUserButtonTag",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=New User"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=button"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[11]/div[4]/button[1]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlButton",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 4,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 3,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": false,
+                              "StepImageKey": "Create 'New User' (Negative tests)qiszcwrl.qfe",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -710,20 +1187,18 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "34c64aba-0d94-43a7-9cb1-0b00ba5478ff",
-                              "Description": "Enter text 'MichaelQApanda+1@gmail.com' in 'UsernameText'",
+                              "Runtime ID": "8862ea1d-8e49-4cad-8775-2948f971ea28",
+                              "Description": "Desktop command: LeftClick on MainSettingsPNGImage0",
                               "CustomDescription": null,
                               "Step": {
-                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopActionDescriptor",
                                 "__value": {
-                                  "RawText": "MichaelQApanda+1@gmail.com",
-                                  "SimulateRealTyping": false,
-                                  "TypingSpeed": 50,
-                                  "KeyHoldTime": 100,
-                                  "IsPassword": false,
-                                  "TypingInfo": null,
-                                  "Encrypt": false,
-                                  "SupportUnicode": true,
+                                  "Focus": true,
+                                  "DesktopActionType": 0,
+                                  "OffSet": {
+                                    "__type": "ArtOfTest.Common.Design.ActionPoint",
+                                    "__value": "0, 0, Percentage, AbsoluteCenter"
+                                  },
                                   "UsejQuery": false,
                                   "UseBackupSearch": true,
                                   "ClosesBrowser": false,
@@ -736,240 +1211,9 @@
                                   "Constraints": {
                                     "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
                                     "__value": {
-                                      "ConstraintValues": {}
-                                    }
-                                  },
-                                  "Elements": {
-                                    "textTarget": {
-                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                                      "__value": {
-                                        "Name": "textTarget",
-                                        "Region": null,
-                                        "Page": {
-                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                                          "__value": {
-                                            "Path": "",
-                                            "Query": "",
-                                            "BaseUrl": "https://tradorax.com/",
-                                            "EquivalentUrls": [],
-                                            "Fragment": "",
-                                            "Title": "tradorax - Your Binary Option Broker",
-                                            "CompareMode": 2,
-                                            "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "TradoraxYourBinary"
-                                          }
-                                        },
-                                        "Frame": null,
-                                        "FindInfo": null,
-                                        "FindExpression": {
-                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
-                                          "__value": {
-                                            "uniqueKey": "s2qA38dvAG5u5bfoI/4S7JlOM/U=",
-                                            "NodeKind": 4,
-                                            "TechnologyType": 1,
-                                            "Name": "UsernameText",
-                                            "FindExpressions": [
-                                              {
-                                                "Key": 1,
-                                                "Value": {
-                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                                  "__value": {
-                                                    "Clauses": [
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "id=TopPanel"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "name=username"
-                                                        }
-                                                      }
-                                                    ],
-                                                    "Constraints": [],
-                                                    "ChainStops": [
-                                                      1
-                                                    ]
-                                                  }
-                                                }
-                                              }
-                                            ],
-                                            "BackupSearchClause": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[3]/form[1]/div[1]/input[1]",
-                                            "DataBindingExpressions": {}
-                                          }
-                                        },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
-                                        "IsIndependent": false,
-                                        "DomStateKey": "",
-                                        "TechnologyType": 1,
-                                        "Version": 200
+                                      "ConstraintValues": {
+                                        "RunsAgainstVersion": ""
                                       }
-                                    }
-                                  },
-                                  "StepType": 4,
-                                  "LogMessageOnFailure": "",
-                                  "EditorType": "",
-                                  "DataBindingExpressions": {},
-                                  "_canEncrypt": false,
-                                  "_cipher": null
-                                }
-                              },
-                              "Enabled": true,
-                              "Order": 1,
-                              "Id": "",
-                              "StepState": 0,
-                              "ContinueOnFailure": true,
-                              "StepImageKey": "Login with valid credentialshogkvzqc.h5n",
-                              "QcId": 0,
-                              "QcVersionStamp": 0,
-                              "Version": 200
-                            }
-                          },
-                          {
-                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-                            "__value": {
-                              "Runtime ID": "58ad4ace-c941-45c2-ba94-14cf5ab01434",
-                              "Description": "Enter text 'q1w2e3' in 'UserpassPassword'",
-                              "CustomDescription": null,
-                              "Step": {
-                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
-                                "__value": {
-                                  "RawText": "q1w2e3",
-                                  "SimulateRealTyping": false,
-                                  "TypingSpeed": 50,
-                                  "KeyHoldTime": 100,
-                                  "IsPassword": false,
-                                  "TypingInfo": null,
-                                  "Encrypt": false,
-                                  "SupportUnicode": true,
-                                  "UsejQuery": false,
-                                  "UseBackupSearch": true,
-                                  "ClosesBrowser": false,
-                                  "AjaxTimeout": 0,
-                                  "Pause": 0,
-                                  "WaitOnElementsTimeout": 30000,
-                                  "UseStepWaitOnElementsTimout": false,
-                                  "WaitOnElements": true,
-                                  "RunsAgainstVersion": "",
-                                  "Constraints": {
-                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                                    "__value": {
-                                      "ConstraintValues": {}
-                                    }
-                                  },
-                                  "Elements": {
-                                    "textTarget": {
-                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                                      "__value": {
-                                        "Name": "textTarget",
-                                        "Region": null,
-                                        "Page": {
-                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                                          "__value": {
-                                            "Path": "",
-                                            "Query": "",
-                                            "BaseUrl": "https://tradorax.com/",
-                                            "EquivalentUrls": [],
-                                            "Fragment": "",
-                                            "Title": "tradorax - Your Binary Option Broker",
-                                            "CompareMode": 2,
-                                            "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "TradoraxYourBinary"
-                                          }
-                                        },
-                                        "Frame": null,
-                                        "FindInfo": null,
-                                        "FindExpression": {
-                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
-                                          "__value": {
-                                            "uniqueKey": "QbcNz+q1VpxHqgw1pXEqAG1iHB4=",
-                                            "NodeKind": 4,
-                                            "TechnologyType": 1,
-                                            "Name": "UserpassPassword",
-                                            "FindExpressions": [
-                                              {
-                                                "Key": 1,
-                                                "Value": {
-                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                                  "__value": {
-                                                    "Clauses": [
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "id=TopPanel"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "name=userpass"
-                                                        }
-                                                      }
-                                                    ],
-                                                    "Constraints": [],
-                                                    "ChainStops": [
-                                                      1
-                                                    ]
-                                                  }
-                                                }
-                                              }
-                                            ],
-                                            "BackupSearchClause": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[3]/form[1]/div[2]/input[1]",
-                                            "DataBindingExpressions": {}
-                                          }
-                                        },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputPassword",
-                                        "IsIndependent": false,
-                                        "DomStateKey": "",
-                                        "TechnologyType": 1,
-                                        "Version": 200
-                                      }
-                                    }
-                                  },
-                                  "StepType": 4,
-                                  "LogMessageOnFailure": "",
-                                  "EditorType": "",
-                                  "DataBindingExpressions": {},
-                                  "_canEncrypt": false,
-                                  "_cipher": null
-                                }
-                              },
-                              "Enabled": true,
-                              "Order": 2,
-                              "Id": "",
-                              "StepState": 0,
-                              "ContinueOnFailure": true,
-                              "StepImageKey": "Login with valid credentialsdakptjqv.m0k",
-                              "QcId": 0,
-                              "QcVersionStamp": 0,
-                              "Version": 200
-                            }
-                          },
-                          {
-                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-                            "__value": {
-                              "Runtime ID": "9e8edd1f-962a-464b-95a4-f72128d7641b",
-                              "Description": "Click 'SendSubmit'",
-                              "CustomDescription": null,
-                              "Step": {
-                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
-                                "__value": {
-                                  "SimulateRealClick": false,
-                                  "UsejQuery": false,
-                                  "UseBackupSearch": true,
-                                  "ClosesBrowser": false,
-                                  "AjaxTimeout": 0,
-                                  "Pause": 0,
-                                  "WaitOnElementsTimeout": 30000,
-                                  "UseStepWaitOnElementsTimout": false,
-                                  "WaitOnElements": true,
-                                  "RunsAgainstVersion": "",
-                                  "Constraints": {
-                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                                    "__value": {
-                                      "ConstraintValues": {}
                                     }
                                   },
                                   "Elements": {
@@ -981,26 +1225,26 @@
                                         "Page": {
                                           "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                                           "__value": {
-                                            "Path": "",
-                                            "Query": "",
-                                            "BaseUrl": "https://tradorax.com/",
+                                            "Path": "index.php",
+                                            "Query": "?action=index&module=Accounts",
+                                            "BaseUrl": "https://porterbinary.ptscrm.com/",
                                             "EquivalentUrls": [],
                                             "Fragment": "",
-                                            "Title": "tradorax - Your Binary Option Broker",
+                                            "Title": "Porter Finance - Clients - Binary Options CRM",
                                             "CompareMode": 2,
                                             "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "TradoraxYourBinary"
+                                            "FriendlyName": "PorterFinanceClients"
                                           }
                                         },
                                         "Frame": null,
                                         "FindInfo": null,
                                         "FindExpression": {
-                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                                           "__value": {
-                                            "uniqueKey": "DDxODDjtzZAPiOJ+RR11bE6jKG8=",
+                                            "uniqueKey": "VMLhCvPICLMjzlniecQRvlbp1KI=",
                                             "NodeKind": 4,
                                             "TechnologyType": 1,
-                                            "Name": "SendSubmit",
+                                            "Name": "MainSettingsPNGImage0",
                                             "FindExpressions": [
                                               {
                                                 "Key": 1,
@@ -1011,13 +1255,19 @@
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "id=TopPanel"
+                                                          "Clause": "class=user_settings"
                                                         }
                                                       },
                                                       {
                                                         "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                                         "__value": {
-                                                          "Clause": "value=LOGIN"
+                                                          "Clause": "tagname=img"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "src=themes/panda/images/mainSettings_white.png"
                                                         }
                                                       }
                                                     ],
@@ -1029,11 +1279,233 @@
                                                 }
                                               }
                                             ],
-                                            "BackupSearchClause": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[3]/form[1]/input[1]",
+                                            "BackupSearchClause": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[3]/table[1]/tbody[1]/tr[1]/td[3]/img[1]",
                                             "DataBindingExpressions": {}
                                           }
                                         },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputSubmit",
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlImage",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 4,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 1,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": false,
+                              "StepImageKey": "Create 'New User' (Negative tests)sjldb4p0.mv2",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "02fd37d1-00dc-4691-8f03-2a7d0d8c5059",
+                              "Description": "Click 'UserManagementLink'",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+                                "__value": {
+                                  "SimulateRealClick": false,
+                                  "UsejQuery": true,
+                                  "UseBackupSearch": true,
+                                  "ClosesBrowser": false,
+                                  "AjaxTimeout": 0,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {
+                                        "RunsAgainstVersion": ""
+                                      }
+                                    }
+                                  },
+                                  "Elements": {
+                                    "target": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "target",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "index.php",
+                                            "Query": "?action=index&module=Accounts",
+                                            "BaseUrl": "https://porterbinary.ptscrm.com/",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "Porter Finance - Clients - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "PorterFinanceClients"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "luK3ncP3nDhr0KD4G2TliOpkJ0g=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "UserManagementLink",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "href=index.php?module=Administration&amp;action=UserManagement&amp;parenttab=Settings"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=a"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[3]/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[1]/a[1]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                                        "IsIndependent": false,
+                                        "DomStateKey": "",
+                                        "TechnologyType": 1,
+                                        "Version": 200
+                                      }
+                                    }
+                                  },
+                                  "StepType": 4,
+                                  "LogMessageOnFailure": "",
+                                  "EditorType": "",
+                                  "DataBindingExpressions": {}
+                                }
+                              },
+                              "Enabled": true,
+                              "Order": 2,
+                              "Id": "",
+                              "StepState": 0,
+                              "ContinueOnFailure": false,
+                              "StepImageKey": "Create 'New User' (Negative tests)eessvb2l.xd4",
+                              "QcId": 0,
+                              "QcVersionStamp": 0,
+                              "Version": 200
+                            }
+                          },
+                          {
+                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+                            "__value": {
+                              "Runtime ID": "d536062e-a89c-44de-83b3-976562155822",
+                              "Description": "Click 'NewUserButtonTag'",
+                              "CustomDescription": null,
+                              "Step": {
+                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+                                "__value": {
+                                  "SimulateRealClick": false,
+                                  "UsejQuery": true,
+                                  "UseBackupSearch": true,
+                                  "ClosesBrowser": false,
+                                  "AjaxTimeout": 0,
+                                  "Pause": 0,
+                                  "WaitOnElementsTimeout": 30000,
+                                  "UseStepWaitOnElementsTimout": false,
+                                  "WaitOnElements": true,
+                                  "RunsAgainstVersion": "",
+                                  "Constraints": {
+                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                                    "__value": {
+                                      "ConstraintValues": {
+                                        "RunsAgainstVersion": ""
+                                      }
+                                    }
+                                  },
+                                  "Elements": {
+                                    "target": {
+                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                                      "__value": {
+                                        "Name": "target",
+                                        "Region": null,
+                                        "Page": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                                          "__value": {
+                                            "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                                            "Query": "?module=Administration&action=UserManagement&parenttab=Settings",
+                                            "BaseUrl": "",
+                                            "EquivalentUrls": [],
+                                            "Fragment": "",
+                                            "Title": "New Binary QA - Administration - Binary Options CRM",
+                                            "CompareMode": 2,
+                                            "AlwaysUseTitleInCompare": false,
+                                            "FriendlyName": "NewBinaryQA0"
+                                          }
+                                        },
+                                        "Frame": null,
+                                        "FindInfo": null,
+                                        "FindExpression": {
+                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                                          "__value": {
+                                            "uniqueKey": "tje00HUxorhTrbCt5mjyW+iHIsA=",
+                                            "NodeKind": 4,
+                                            "TechnologyType": 1,
+                                            "Name": "NewUserButtonTag",
+                                            "FindExpressions": [
+                                              {
+                                                "Key": 1,
+                                                "Value": {
+                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                                  "__value": {
+                                                    "Clauses": [
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "TextContent=New User"
+                                                        }
+                                                      },
+                                                      {
+                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                                        "__value": {
+                                                          "Clause": "tagname=button"
+                                                        }
+                                                      }
+                                                    ],
+                                                    "Constraints": [],
+                                                    "ChainStops": []
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "BackupSearchClause": "/html[1]/body[1]/div[11]/div[4]/button[1]",
+                                            "DataBindingExpressions": {}
+                                          }
+                                        },
+                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlButton",
                                         "IsIndependent": false,
                                         "DomStateKey": "",
                                         "TechnologyType": 1,
@@ -1051,365 +1523,8 @@
                               "Order": 3,
                               "Id": "",
                               "StepState": 0,
-                              "ContinueOnFailure": true,
-                              "StepImageKey": "Login with valid credentialstijxoety.fr4",
-                              "QcId": 0,
-                              "QcVersionStamp": 0,
-                              "Version": 200
-                            }
-                          },
-                          {
-                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-                            "__value": {
-                              "Runtime ID": "ffd9837b-547d-4e41-a374-1c5b8f94782e",
-                              "Description": "Enter text 'MichaelQApanda+1@gmail.com' in 'PfLoginEmailEmail'",
-                              "CustomDescription": null,
-                              "Step": {
-                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
-                                "__value": {
-                                  "RawText": "MichaelQApanda+1@gmail.com",
-                                  "SimulateRealTyping": false,
-                                  "TypingSpeed": 50,
-                                  "KeyHoldTime": 100,
-                                  "IsPassword": false,
-                                  "TypingInfo": null,
-                                  "Encrypt": false,
-                                  "SupportUnicode": true,
-                                  "UsejQuery": false,
-                                  "UseBackupSearch": true,
-                                  "ClosesBrowser": false,
-                                  "AjaxTimeout": 0,
-                                  "Pause": 0,
-                                  "WaitOnElementsTimeout": 30000,
-                                  "UseStepWaitOnElementsTimout": false,
-                                  "WaitOnElements": true,
-                                  "RunsAgainstVersion": "",
-                                  "Constraints": {
-                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                                    "__value": {
-                                      "ConstraintValues": {}
-                                    }
-                                  },
-                                  "Elements": {
-                                    "textTarget": {
-                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                                      "__value": {
-                                        "Name": "textTarget",
-                                        "Region": null,
-                                        "Page": {
-                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                                          "__value": {
-                                            "Path": "",
-                                            "Query": "",
-                                            "BaseUrl": "https://ultrafinance.com/",
-                                            "EquivalentUrls": [],
-                                            "Fragment": "",
-                                            "Title": "Ultra Finance – Ultra Finance",
-                                            "CompareMode": 2,
-                                            "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "UltraFinanceUltraFinance"
-                                          }
-                                        },
-                                        "Frame": null,
-                                        "FindInfo": null,
-                                        "FindExpression": {
-                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
-                                          "__value": {
-                                            "uniqueKey": "qrnsMRj9e1vaPKL2KSWi+uV/gIM=",
-                                            "NodeKind": 4,
-                                            "TechnologyType": 1,
-                                            "Name": "PfLoginEmailEmail",
-                                            "FindExpressions": [
-                                              {
-                                                "Key": 1,
-                                                "Value": {
-                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                                  "__value": {
-                                                    "Clauses": [
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "tagname=input"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "id=pf-login-email"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "type=email"
-                                                        }
-                                                      }
-                                                    ],
-                                                    "Constraints": [],
-                                                    "ChainStops": []
-                                                  }
-                                                }
-                                              }
-                                            ],
-                                            "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/div[1]/div[1]/form[1]/input[1]",
-                                            "DataBindingExpressions": {}
-                                          }
-                                        },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
-                                        "IsIndependent": false,
-                                        "DomStateKey": "",
-                                        "TechnologyType": 1,
-                                        "Version": 200
-                                      }
-                                    }
-                                  },
-                                  "StepType": 4,
-                                  "LogMessageOnFailure": "",
-                                  "EditorType": "",
-                                  "DataBindingExpressions": {},
-                                  "_canEncrypt": false,
-                                  "_cipher": null
-                                }
-                              },
-                              "Enabled": true,
-                              "Order": 4,
-                              "Id": "",
-                              "StepState": 0,
                               "ContinueOnFailure": false,
-                              "StepImageKey": "Login with valid credentialsyyhwqtv1.hvr",
-                              "QcId": 0,
-                              "QcVersionStamp": 0,
-                              "Version": 200
-                            }
-                          },
-                          {
-                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-                            "__value": {
-                              "Runtime ID": "08e0cb22-6b1b-425a-815b-082bef9cab77",
-                              "Description": "Enter text 'q1w2e3' in 'PfLoginPassPassword'",
-                              "CustomDescription": null,
-                              "Step": {
-                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
-                                "__value": {
-                                  "RawText": "q1w2e3",
-                                  "SimulateRealTyping": false,
-                                  "TypingSpeed": 50,
-                                  "KeyHoldTime": 100,
-                                  "IsPassword": false,
-                                  "TypingInfo": null,
-                                  "Encrypt": false,
-                                  "SupportUnicode": true,
-                                  "UsejQuery": false,
-                                  "UseBackupSearch": true,
-                                  "ClosesBrowser": false,
-                                  "AjaxTimeout": 0,
-                                  "Pause": 0,
-                                  "WaitOnElementsTimeout": 30000,
-                                  "UseStepWaitOnElementsTimout": false,
-                                  "WaitOnElements": true,
-                                  "RunsAgainstVersion": "",
-                                  "Constraints": {
-                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                                    "__value": {
-                                      "ConstraintValues": {}
-                                    }
-                                  },
-                                  "Elements": {
-                                    "textTarget": {
-                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                                      "__value": {
-                                        "Name": "textTarget",
-                                        "Region": null,
-                                        "Page": {
-                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                                          "__value": {
-                                            "Path": "",
-                                            "Query": "",
-                                            "BaseUrl": "https://ultrafinance.com/",
-                                            "EquivalentUrls": [],
-                                            "Fragment": "",
-                                            "Title": "Ultra Finance – Ultra Finance",
-                                            "CompareMode": 2,
-                                            "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "UltraFinanceUltraFinance"
-                                          }
-                                        },
-                                        "Frame": null,
-                                        "FindInfo": null,
-                                        "FindExpression": {
-                                          "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
-                                          "__value": {
-                                            "uniqueKey": "M4O/5YlTAEphP5/Dif+HpPtrge8=",
-                                            "NodeKind": 4,
-                                            "TechnologyType": 1,
-                                            "Name": "PfLoginPassPassword",
-                                            "FindExpressions": [
-                                              {
-                                                "Key": 1,
-                                                "Value": {
-                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                                  "__value": {
-                                                    "Clauses": [
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "tagname=input"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "id=pf-login-pass"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "type=password"
-                                                        }
-                                                      }
-                                                    ],
-                                                    "Constraints": [],
-                                                    "ChainStops": []
-                                                  }
-                                                }
-                                              }
-                                            ],
-                                            "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/div[1]/div[1]/form[1]/input[2]",
-                                            "DataBindingExpressions": {}
-                                          }
-                                        },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputPassword",
-                                        "IsIndependent": false,
-                                        "DomStateKey": "",
-                                        "TechnologyType": 1,
-                                        "Version": 200
-                                      }
-                                    }
-                                  },
-                                  "StepType": 4,
-                                  "LogMessageOnFailure": "",
-                                  "EditorType": "",
-                                  "DataBindingExpressions": {},
-                                  "_canEncrypt": false,
-                                  "_cipher": null
-                                }
-                              },
-                              "Enabled": true,
-                              "Order": 5,
-                              "Id": "",
-                              "StepState": 0,
-                              "ContinueOnFailure": false,
-                              "StepImageKey": "Login with valid credentialsfctam11i.fq0",
-                              "QcId": 0,
-                              "QcVersionStamp": 0,
-                              "Version": 200
-                            }
-                          },
-                          {
-                            "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-                            "__value": {
-                              "Runtime ID": "4960c53f-90c5-4cfa-a6e6-a30a3211660b",
-                              "Description": "Click 'LoginSubmitSubmit'",
-                              "CustomDescription": null,
-                              "Step": {
-                                "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
-                                "__value": {
-                                  "SimulateRealClick": false,
-                                  "UsejQuery": false,
-                                  "UseBackupSearch": true,
-                                  "ClosesBrowser": false,
-                                  "AjaxTimeout": 0,
-                                  "Pause": 0,
-                                  "WaitOnElementsTimeout": 30000,
-                                  "UseStepWaitOnElementsTimout": false,
-                                  "WaitOnElements": true,
-                                  "RunsAgainstVersion": "",
-                                  "Constraints": {
-                                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                                    "__value": {
-                                      "ConstraintValues": {}
-                                    }
-                                  },
-                                  "Elements": {
-                                    "target": {
-                                      "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                                      "__value": {
-                                        "Name": "target",
-                                        "Region": null,
-                                        "Page": {
-                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                                          "__value": {
-                                            "Path": "",
-                                            "Query": "",
-                                            "BaseUrl": "https://ultrafinance.com/",
-                                            "EquivalentUrls": [],
-                                            "Fragment": "",
-                                            "Title": "Ultra Finance – Ultra Finance",
-                                            "CompareMode": 2,
-                                            "AlwaysUseTitleInCompare": false,
-                                            "FriendlyName": "UltraFinanceUltraFinance"
-                                          }
-                                        },
-                                        "Frame": null,
-                                        "FindInfo": null,
-                                        "FindExpression": {
-                                          "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                                          "__value": {
-                                            "uniqueKey": "L62jo2a+gukI9Qt6OWGn3+6DDvE=",
-                                            "NodeKind": 4,
-                                            "TechnologyType": 1,
-                                            "Name": "LoginSubmitSubmit",
-                                            "FindExpressions": [
-                                              {
-                                                "Key": 1,
-                                                "Value": {
-                                                  "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                                  "__value": {
-                                                    "Clauses": [
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "tagname=input"
-                                                        }
-                                                      },
-                                                      {
-                                                        "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                                        "__value": {
-                                                          "Clause": "id=login_submit"
-                                                        }
-                                                      }
-                                                    ],
-                                                    "Constraints": [],
-                                                    "ChainStops": []
-                                                  }
-                                                }
-                                              }
-                                            ],
-                                            "BackupSearchClause": null,
-                                            "DataBindingExpressions": {}
-                                          }
-                                        },
-                                        "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputSubmit",
-                                        "IsIndependent": false,
-                                        "DomStateKey": "",
-                                        "TechnologyType": 1,
-                                        "Version": 200
-                                      }
-                                    }
-                                  },
-                                  "StepType": 4,
-                                  "LogMessageOnFailure": "",
-                                  "EditorType": "",
-                                  "DataBindingExpressions": {}
-                                }
-                              },
-                              "Enabled": true,
-                              "Order": 6,
-                              "Id": "",
-                              "StepState": 0,
-                              "ContinueOnFailure": false,
-                              "StepImageKey": "Login with valid credentialsztycz1g4.5s3",
+                              "StepImageKey": "Create 'New User' (Negative tests)4eim34ei.2cg",
                               "QcId": 0,
                               "QcVersionStamp": 0,
                               "Version": 200
@@ -1445,15 +1560,15 @@
                       "Page": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                         "__value": {
-                          "Path": "",
-                          "Query": "",
-                          "BaseUrl": "https://ultrafinance.com/",
+                          "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                          "Query": "?action=index&module=Accounts",
+                          "BaseUrl": "",
                           "EquivalentUrls": [],
                           "Fragment": "",
-                          "Title": "Ultra Finance – Ultra Finance",
+                          "Title": "New Binary QA - Clients - Binary Options CRM",
                           "CompareMode": 2,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "UltraFinanceUltraFinance"
+                          "FriendlyName": "NewBinaryQAClients"
                         }
                       },
                       "Frame": null,
@@ -1461,10 +1576,10 @@
                       "FindExpression": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "OETVHqxTh964Gi0L6IX82udf6/g=",
+                          "uniqueKey": "Ub8VpWxsR0Kr9fwF93yGCOWKXO0=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
-                          "Name": "LoginLink",
+                          "Name": "MainSettingsPNGImage",
                           "FindExpressions": [
                             {
                               "Key": 1,
@@ -1475,29 +1590,27 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "id=Top_bar"
+                                        "Clause": "src=themes/panda/images/mainSettings.PNG"
                                       }
                                     },
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "TagIndex=a:2"
+                                        "Clause": "tagname=img"
                                       }
                                     }
                                   ],
                                   "Constraints": [],
-                                  "ChainStops": [
-                                    1
-                                  ]
+                                  "ChainStops": []
                                 }
                               }
                             }
                           ],
-                          "BackupSearchClause": null,
+                          "BackupSearchClause": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[3]/table[1]/tbody[1]/tr[1]/td[2]/img[1]",
                           "DataBindingExpressions": {}
                         }
                       },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlImage",
                       "IsIndependent": false,
                       "DomStateKey": "",
                       "TechnologyType": 1,
@@ -1512,11 +1625,11 @@
               }
             },
             "Enabled": true,
-            "Order": 3,
+            "Order": 9,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Verifying that personal information present and correctntuk2qzh.a2h",
+            "StepImageKey": "WebTest3xowjd5p.mag",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -1525,18 +1638,30 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "1b789d54-1391-4710-9034-7b168f295de6",
-            "Description": "Verify element 'LogoutLink' 'is' visible.",
+            "Runtime ID": "8eea3f9a-229c-48d5-8b34-fb0cc86280f0",
+            "Description": "Enter text 'Test' in 'UserNameText'",
             "CustomDescription": null,
             "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.VisibleVerificationDescriptor",
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
               "__value": {
-                "IsVisible": true,
+                "RawText": "Test",
+                "SimulateRealTyping": false,
+                "TypingSpeed": 50,
+                "KeyHoldTime": 100,
+                "IsPassword": false,
+                "TypingInfo": {
+                  "ElementText": "Test",
+                  "TypedText": "Test",
+                  "CaretPosition": 4,
+                  "IsTextArea": false,
+                  "IsBackSpace": false
+                },
+                "Encrypt": false,
+                "SupportUnicode": true,
+                "UsejQuery": true,
                 "UseBackupSearch": true,
-                "DataBindVariableName": null,
-                "Timeout": 30000,
-                "CheckInterval": 500,
-                "EnsureStateIsCurrent": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
                 "Pause": 0,
                 "WaitOnElementsTimeout": 30000,
                 "UseStepWaitOnElementsTimout": false,
@@ -1545,125 +1670,9 @@
                 "Constraints": {
                   "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
                   "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "verifyTarget": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "verifyTarget",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "",
-                          "Query": "",
-                          "BaseUrl": "https://ultrafinance.com/",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Ultra Finance – Ultra Finance",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "UltraFinanceUltraFinance"
-                        }
-                      },
-                      "Frame": null,
-                      "FindInfo": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "YCyYowY1X4Gs9nHNDG7DTHRuqbQ=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "LogoutLink",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "tagname=a"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "TextContent=Logout"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "title=Logout"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": []
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/div[1]/div[1]/a[2]",
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
+                    "ConstraintValues": {
+                      "RunsAgainstVersion": ""
                     }
-                  }
-                },
-                "StepType": 2,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": true,
-            "Order": 4,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "Verifying that personal information present and correctihiiioau.nxr",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "31ea5ce8-42a6-478f-b90a-38ceada5caf6",
-            "Description": "Verify 'TextContent' 'Contains' 'Michael Michael' on 'MichaelMichaelSpan'",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ContentVerificationDescriptor",
-              "__value": {
-                "CompareType": 2,
-                "SegmentType": 3,
-                "ExpectedString": "Michael Michael",
-                "UseBackupSearch": true,
-                "DataBindVariableName": null,
-                "Timeout": 30000,
-                "CheckInterval": 500,
-                "EnsureStateIsCurrent": false,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
                   }
                 },
                 "Elements": {
@@ -1675,15 +1684,15 @@
                       "Page": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                         "__value": {
-                          "Path": "",
-                          "Query": "",
-                          "BaseUrl": "https://www.profitxp.com/",
+                          "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                          "Query": "?module=Administration&action=UserManagement&parenttab=Settings",
+                          "BaseUrl": "",
                           "EquivalentUrls": [],
                           "Fragment": "",
-                          "Title": "ProfitXP",
+                          "Title": "New Binary QA - Administration - Binary Options CRM",
                           "CompareMode": 2,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "ProfitXP"
+                          "FriendlyName": "NewBinaryQA0"
                         }
                       },
                       "Frame": null,
@@ -1691,10 +1700,10 @@
                       "FindExpression": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "dQwZ/3uIStV2Yj7u87ds2J4RKTo=",
+                          "uniqueKey": "v1CVcVhPYH0YKD9g5ukx6GVScuk=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
-                          "Name": "MichaelMichaelSpan",
+                          "Name": "UserNameText",
                           "FindExpressions": [
                             {
                               "Key": 1,
@@ -1705,13 +1714,13 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "TextContent=Michael Michael"
+                                        "Clause": "id=user_name"
                                       }
                                     },
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "tagname=span"
+                                        "Clause": "tagname=input"
                                       }
                                     }
                                   ],
@@ -1721,11 +1730,11 @@
                               }
                             }
                           ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/div[1]/div[1]/a[1]/span[2]",
+                          "BackupSearchClause": "/html[1]/body[1]/div[15]/div[1]/form[1]/div[1]/div[4]/div[1]/div[1]/div[1]/input[1]",
                           "DataBindingExpressions": {}
                         }
                       },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
                       "IsIndependent": false,
                       "DomStateKey": "",
                       "TechnologyType": 1,
@@ -1733,18 +1742,20 @@
                     }
                   }
                 },
-                "StepType": 2,
+                "StepType": 4,
                 "LogMessageOnFailure": "",
                 "EditorType": "",
-                "DataBindingExpressions": {}
+                "DataBindingExpressions": {},
+                "_canEncrypt": false,
+                "_cipher": null
               }
             },
             "Enabled": true,
-            "Order": 5,
+            "Order": 10,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Verifying that personal information present and correctkx2wz3sb.edk",
+            "StepImageKey": "WebTestyfa3zvn1.f5w",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -1753,14 +1764,14 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "cadda417-35db-4cd5-bebb-606169726f3a",
-            "Description": "Click 'MyAccountSpan'",
+            "Runtime ID": "77e1e258-3cd6-4ff0-8290-e2e3cbf110f2",
+            "Description": "Click 'Email1Email'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
               "__value": {
                 "SimulateRealClick": false,
-                "UsejQuery": false,
+                "UsejQuery": true,
                 "UseBackupSearch": true,
                 "ClosesBrowser": false,
                 "AjaxTimeout": 0,
@@ -1772,7 +1783,9 @@
                 "Constraints": {
                   "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
                   "__value": {
-                    "ConstraintValues": {}
+                    "ConstraintValues": {
+                      "RunsAgainstVersion": ""
+                    }
                   }
                 },
                 "Elements": {
@@ -1784,15 +1797,15 @@
                       "Page": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                         "__value": {
-                          "Path": "",
-                          "Query": "",
-                          "BaseUrl": "https://www.profitxp.com/",
+                          "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                          "Query": "?module=Administration&action=UserManagement&parenttab=Settings",
+                          "BaseUrl": "",
                           "EquivalentUrls": [],
                           "Fragment": "",
-                          "Title": "ProfitXP",
+                          "Title": "New Binary QA - Administration - Binary Options CRM",
                           "CompareMode": 2,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "ProfitXP"
+                          "FriendlyName": "NewBinaryQA0"
                         }
                       },
                       "Frame": null,
@@ -1800,10 +1813,10 @@
                       "FindExpression": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "4GhmYh66/Df8QyFG4U/MH4s0nN0=",
+                          "uniqueKey": "k/G55/kcq2PftKiXp0wdGU+JLNg=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
-                          "Name": "MyAccountSpan",
+                          "Name": "Email1Email",
                           "FindExpressions": [
                             {
                               "Key": 1,
@@ -1814,13 +1827,13 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "tagname=span"
+                                        "Clause": "id=email1"
                                       }
                                     },
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "TextContent=My Account"
+                                        "Clause": "tagname=input"
                                       }
                                     }
                                   ],
@@ -1830,127 +1843,11 @@
                               }
                             }
                           ],
-                          "BackupSearchClause": null,
+                          "BackupSearchClause": "/html[1]/body[1]/div[15]/div[1]/form[1]/div[1]/div[4]/div[3]/div[1]/div[1]/input[1]",
                           "DataBindingExpressions": {}
                         }
                       },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": false,
-            "Order": 6,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "Verifying that personal information present and correctzoowgdsz.cpr",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "b966e7b3-132c-4ef4-b317-e1f3b1adbedc",
-            "Description": "Desktop command: LeftClick on Span",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopActionDescriptor",
-              "__value": {
-                "Focus": true,
-                "DesktopActionType": 0,
-                "OffSet": {
-                  "__type": "ArtOfTest.Common.Design.ActionPoint",
-                  "__value": "0, 0, Percentage, AbsoluteCenter"
-                },
-                "UsejQuery": false,
-                "UseBackupSearch": true,
-                "ClosesBrowser": false,
-                "AjaxTimeout": 0,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "target": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "target",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "my-account/personal-information/",
-                          "Query": "",
-                          "BaseUrl": "https://binaryalgo.com/",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Personal Information – BINARY ALGO",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "PersonalInformation0"
-                        }
-                      },
-                      "Frame": null,
-                      "FindInfo": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "cfh5WUCJjLAm56FNQraC0oHWdnI=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "Span",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "id=Top_bar"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "tagIndex=span:50"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": [
-                                    1
-                                  ]
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/div[1]/div[1]/a[1]/span[1]",
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputEmail",
                       "IsIndependent": false,
                       "DomStateKey": "",
                       "TechnologyType": 1,
@@ -1965,11 +1862,11 @@
               }
             },
             "Enabled": true,
-            "Order": 7,
+            "Order": 11,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Verifying that personal information present and correct0cva1gvc.blk",
+            "StepImageKey": "WebTestftoxx0of.gz3",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -1978,19 +1875,30 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "a67f55bd-2550-4d35-81bf-21efdd9a0870",
-            "Description": "Verify input 'FirstNameText' value 'Exact' 'Michael'.",
+            "Runtime ID": "a6678f08-7d03-4f5c-a888-e8bca319cb44",
+            "Description": "Enter text 'test@gmail.com' in 'Email1Email'",
             "CustomDescription": null,
             "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.InputValueVerificationDescriptor",
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
               "__value": {
-                "ExpectedValue": "Michael",
-                "CompareType": 0,
+                "RawText": "test@gmail.com",
+                "SimulateRealTyping": false,
+                "TypingSpeed": 50,
+                "KeyHoldTime": 100,
+                "IsPassword": false,
+                "TypingInfo": {
+                  "ElementText": "",
+                  "TypedText": "test",
+                  "CaretPosition": 0,
+                  "IsTextArea": false,
+                  "IsBackSpace": false
+                },
+                "Encrypt": false,
+                "SupportUnicode": true,
+                "UsejQuery": true,
                 "UseBackupSearch": true,
-                "DataBindVariableName": null,
-                "Timeout": 30000,
-                "CheckInterval": 500,
-                "EnsureStateIsCurrent": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
                 "Pause": 0,
                 "WaitOnElementsTimeout": 30000,
                 "UseStepWaitOnElementsTimout": false,
@@ -1999,27 +1907,29 @@
                 "Constraints": {
                   "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
                   "__value": {
-                    "ConstraintValues": {}
+                    "ConstraintValues": {
+                      "RunsAgainstVersion": ""
+                    }
                   }
                 },
                 "Elements": {
-                  "TargetKey1": {
+                  "textTarget": {
                     "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
                     "__value": {
-                      "Name": "TargetKey1",
+                      "Name": "textTarget",
                       "Region": null,
                       "Page": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                         "__value": {
-                          "Path": "my-account/personal-information/",
-                          "Query": "",
-                          "BaseUrl": "https://www.profitxp.com/",
+                          "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                          "Query": "?module=Administration&action=UserManagement&parenttab=Settings",
+                          "BaseUrl": "",
                           "EquivalentUrls": [],
                           "Fragment": "",
-                          "Title": "Personal Information – ProfitXP",
+                          "Title": "New Binary QA - Administration - Binary Options CRM",
                           "CompareMode": 2,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "PersonalInformation"
+                          "FriendlyName": "NewBinaryQA0"
                         }
                       },
                       "Frame": null,
@@ -2027,7 +1937,133 @@
                       "FindExpression": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "5kPF6SnuuGFgPmZBUM1wunuc0Uo=",
+                          "uniqueKey": "k/G55/kcq2PftKiXp0wdGU+JLNg=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "Email1Email",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=email1"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[15]/div[1]/form[1]/div[1]/div[4]/div[3]/div[1]/div[1]/input[1]",
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputEmail",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {},
+                "_canEncrypt": false,
+                "_cipher": null
+              }
+            },
+            "Enabled": true,
+            "Order": 12,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "WebTestoi1wes1i.jgr",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "20280958-a102-447d-b52e-571a716c1bdc",
+            "Description": "Enter text 'Test' in 'FirstNameText'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
+              "__value": {
+                "RawText": "Test",
+                "SimulateRealTyping": false,
+                "TypingSpeed": 50,
+                "KeyHoldTime": 100,
+                "IsPassword": false,
+                "TypingInfo": {
+                  "ElementText": "Test",
+                  "TypedText": "Test",
+                  "CaretPosition": 4,
+                  "IsTextArea": false,
+                  "IsBackSpace": false
+                },
+                "Encrypt": false,
+                "SupportUnicode": true,
+                "UsejQuery": true,
+                "UseBackupSearch": true,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {
+                      "RunsAgainstVersion": ""
+                    }
+                  }
+                },
+                "Elements": {
+                  "textTarget": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "textTarget",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                          "Query": "?module=Administration&action=UserManagement&parenttab=Settings",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "New Binary QA - Administration - Binary Options CRM",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "NewBinaryQA0"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "3XWDYWZtOuHSvXG6yJahuceb0tc=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
                           "Name": "FirstNameText",
@@ -2041,7 +2077,7 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "id=FirstName"
+                                        "Clause": "id=first_name"
                                       }
                                     },
                                     {
@@ -2057,7 +2093,7 @@
                               }
                             }
                           ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/p[1]/input[1]",
+                          "BackupSearchClause": "/html[1]/body[1]/div[15]/div[1]/form[1]/div[1]/div[4]/div[5]/div[1]/div[1]/input[1]",
                           "DataBindingExpressions": {}
                         }
                       },
@@ -2069,18 +2105,20 @@
                     }
                   }
                 },
-                "StepType": 2,
+                "StepType": 4,
                 "LogMessageOnFailure": "",
                 "EditorType": "",
-                "DataBindingExpressions": {}
+                "DataBindingExpressions": {},
+                "_canEncrypt": false,
+                "_cipher": null
               }
             },
             "Enabled": true,
-            "Order": 8,
+            "Order": 13,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Verifying that personal information present and correctzu35myjh.fv2",
+            "StepImageKey": "WebTeste1kjliqa.zfa",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -2089,19 +2127,30 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "4e4c1886-2281-4cd1-8b5e-f3231641ce21",
-            "Description": "Verify input 'LastNameText' value 'Exact' 'Michael'.",
+            "Runtime ID": "bfcd17f5-1577-4403-a803-c49f6adf95be",
+            "Description": "Enter text 'Test' in 'LastNameText'",
             "CustomDescription": null,
             "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.InputValueVerificationDescriptor",
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
               "__value": {
-                "ExpectedValue": "Michael",
-                "CompareType": 0,
+                "RawText": "Test",
+                "SimulateRealTyping": false,
+                "TypingSpeed": 50,
+                "KeyHoldTime": 100,
+                "IsPassword": false,
+                "TypingInfo": {
+                  "ElementText": "Test",
+                  "TypedText": "Test",
+                  "CaretPosition": 4,
+                  "IsTextArea": false,
+                  "IsBackSpace": false
+                },
+                "Encrypt": false,
+                "SupportUnicode": true,
+                "UsejQuery": true,
                 "UseBackupSearch": true,
-                "DataBindVariableName": null,
-                "Timeout": 30000,
-                "CheckInterval": 500,
-                "EnsureStateIsCurrent": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
                 "Pause": 0,
                 "WaitOnElementsTimeout": 30000,
                 "UseStepWaitOnElementsTimout": false,
@@ -2110,27 +2159,29 @@
                 "Constraints": {
                   "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
                   "__value": {
-                    "ConstraintValues": {}
+                    "ConstraintValues": {
+                      "RunsAgainstVersion": ""
+                    }
                   }
                 },
                 "Elements": {
-                  "TargetKey1": {
+                  "textTarget": {
                     "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
                     "__value": {
-                      "Name": "TargetKey1",
+                      "Name": "textTarget",
                       "Region": null,
                       "Page": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                         "__value": {
-                          "Path": "my-account/personal-information/",
-                          "Query": "",
-                          "BaseUrl": "https://www.profitxp.com/",
+                          "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                          "Query": "?module=Administration&action=UserManagement&parenttab=Settings",
+                          "BaseUrl": "",
                           "EquivalentUrls": [],
                           "Fragment": "",
-                          "Title": "Personal Information – ProfitXP",
+                          "Title": "New Binary QA - Administration - Binary Options CRM",
                           "CompareMode": 2,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "PersonalInformation"
+                          "FriendlyName": "NewBinaryQA0"
                         }
                       },
                       "Frame": null,
@@ -2138,7 +2189,7 @@
                       "FindExpression": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "w+NsH5KGOg8o+v0hXkVM09PMfCs=",
+                          "uniqueKey": "olIJsOpkfIy+x0PYGI5sFwsF9TQ=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
                           "Name": "LastNameText",
@@ -2152,7 +2203,7 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "id=LastName"
+                                        "Clause": "id=last_name"
                                       }
                                     },
                                     {
@@ -2168,7 +2219,7 @@
                               }
                             }
                           ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/p[2]/input[1]",
+                          "BackupSearchClause": "/html[1]/body[1]/div[15]/div[1]/form[1]/div[1]/div[4]/div[6]/div[1]/div[1]/input[1]",
                           "DataBindingExpressions": {}
                         }
                       },
@@ -2180,18 +2231,20 @@
                     }
                   }
                 },
-                "StepType": 2,
+                "StepType": 4,
                 "LogMessageOnFailure": "",
                 "EditorType": "",
-                "DataBindingExpressions": {}
+                "DataBindingExpressions": {},
+                "_canEncrypt": false,
+                "_cipher": null
               }
             },
             "Enabled": true,
-            "Order": 9,
+            "Order": 14,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Verifying that personal information present and correctpl1ixkel.lnd",
+            "StepImageKey": "WebTeststzaym0r.npz",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -2200,22 +2253,30 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "45561430-0b6f-4309-8e7a-021ff61d4440",
-            "Description": "Verify selection 'ByText' is 'IRELAND' on 'CountryIDSelect'",
+            "Runtime ID": "d5bc4031-6383-44d8-a0e0-3498773b493c",
+            "Description": "Enter text 'q1w2e3' in 'UserPasswordPassword'",
             "CustomDescription": null,
             "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SelectVerificationDescriptor",
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
               "__value": {
-                "IndexCompareType": 0,
-                "StringCompareType": 2,
-                "SelectionType": 2,
-                "SelectionIndex": 0,
-                "SelectionValue": "IRELAND",
+                "RawText": "q1w2e3",
+                "SimulateRealTyping": false,
+                "TypingSpeed": 50,
+                "KeyHoldTime": 100,
+                "IsPassword": false,
+                "TypingInfo": {
+                  "ElementText": "q1w2e3",
+                  "TypedText": "q1w2e3",
+                  "CaretPosition": 6,
+                  "IsTextArea": false,
+                  "IsBackSpace": false
+                },
+                "Encrypt": false,
+                "SupportUnicode": true,
+                "UsejQuery": true,
                 "UseBackupSearch": true,
-                "DataBindVariableName": null,
-                "Timeout": 30000,
-                "CheckInterval": 500,
-                "EnsureStateIsCurrent": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
                 "Pause": 0,
                 "WaitOnElementsTimeout": 30000,
                 "UseStepWaitOnElementsTimout": false,
@@ -2224,138 +2285,29 @@
                 "Constraints": {
                   "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
                   "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "selectElement": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "selectElement",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "my-account/personal-information/",
-                          "Query": "",
-                          "BaseUrl": "https://www.profitxp.com/",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Personal Information – ProfitXP",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "PersonalInformation"
-                        }
-                      },
-                      "Frame": null,
-                      "FindInfo": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "/AooyKbv8edk44xEjQOfT8EGvSU=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "CountryIDSelect",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "id=CountryID"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "tagname=select"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": []
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/p[5]/select[1]",
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSelect",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
+                    "ConstraintValues": {
+                      "RunsAgainstVersion": ""
                     }
                   }
                 },
-                "StepType": 2,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": true,
-            "Order": 10,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "Verifying that personal information present and correcth05cmrlb.tle",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "a6e8ad90-7e78-4f04-a32c-b0b5ccac7df5",
-            "Description": "Verify input 'EmailEmail' value 'Exact' 'MichaelQApanda+1@gmail.com'.",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.InputValueVerificationDescriptor",
-              "__value": {
-                "ExpectedValue": "MichaelQApanda+1@gmail.com",
-                "CompareType": 0,
-                "UseBackupSearch": true,
-                "DataBindVariableName": null,
-                "Timeout": 30000,
-                "CheckInterval": 500,
-                "EnsureStateIsCurrent": false,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
                 "Elements": {
-                  "TargetKey1": {
+                  "textTarget": {
                     "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
                     "__value": {
-                      "Name": "TargetKey1",
+                      "Name": "textTarget",
                       "Region": null,
                       "Page": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                         "__value": {
-                          "Path": "my-account/personal-information/",
-                          "Query": "",
-                          "BaseUrl": "https://www.profitxp.com/",
+                          "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                          "Query": "?module=Administration&action=UserManagement&parenttab=Settings",
+                          "BaseUrl": "",
                           "EquivalentUrls": [],
                           "Fragment": "",
-                          "Title": "Personal Information – ProfitXP",
+                          "Title": "New Binary QA - Administration - Binary Options CRM",
                           "CompareMode": 2,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "PersonalInformation"
+                          "FriendlyName": "NewBinaryQA0"
                         }
                       },
                       "Frame": null,
@@ -2363,10 +2315,10 @@
                       "FindExpression": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "U7TeT/g5XYWvLaCFpKNUeP1xliY=",
+                          "uniqueKey": "kxEi07MmJb1YI3ryR7gQIVmj9uI=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
-                          "Name": "EmailEmail",
+                          "Name": "UserPasswordPassword",
                           "FindExpressions": [
                             {
                               "Key": 1,
@@ -2377,7 +2329,7 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "id=Email"
+                                        "Clause": "id=user_password"
                                       }
                                     },
                                     {
@@ -2393,11 +2345,11 @@
                               }
                             }
                           ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/p[8]/input[1]",
+                          "BackupSearchClause": "/html[1]/body[1]/div[15]/div[1]/form[1]/div[1]/div[4]/div[2]/div[1]/div[1]/input[1]",
                           "DataBindingExpressions": {}
                         }
                       },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputEmail",
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputPassword",
                       "IsIndependent": false,
                       "DomStateKey": "",
                       "TechnologyType": 1,
@@ -2405,18 +2357,146 @@
                     }
                   }
                 },
-                "StepType": 2,
+                "StepType": 4,
                 "LogMessageOnFailure": "",
                 "EditorType": "",
-                "DataBindingExpressions": {}
+                "DataBindingExpressions": {},
+                "_canEncrypt": true,
+                "_cipher": null
               }
             },
             "Enabled": true,
-            "Order": 11,
+            "Order": 15,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Verifying that personal information present and correctqhea2y41.3sz",
+            "StepImageKey": "WebTestqeb4ees0.e2c",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "59054bff-cb09-4188-9e05-b82a86adfb37",
+            "Description": "Enter text 'q1w2e3' in 'ConfirmPasswordPassword'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
+              "__value": {
+                "RawText": "q1w2e3",
+                "SimulateRealTyping": false,
+                "TypingSpeed": 50,
+                "KeyHoldTime": 100,
+                "IsPassword": false,
+                "TypingInfo": {
+                  "ElementText": "q1w2e3",
+                  "TypedText": "q1w2e3",
+                  "CaretPosition": 6,
+                  "IsTextArea": false,
+                  "IsBackSpace": false
+                },
+                "Encrypt": false,
+                "SupportUnicode": true,
+                "UsejQuery": true,
+                "UseBackupSearch": true,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {
+                      "RunsAgainstVersion": ""
+                    }
+                  }
+                },
+                "Elements": {
+                  "textTarget": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "textTarget",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "http://binaryqa.ptscrm.com/test/index.php",
+                          "Query": "?module=Administration&action=UserManagement&parenttab=Settings",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "New Binary QA - Administration - Binary Options CRM",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "NewBinaryQA0"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "OSmj8+CnL55D36HYYtT6mNjnQIc=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "ConfirmPasswordPassword",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=confirm_password"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[15]/div[1]/form[1]/div[1]/div[4]/div[4]/div[1]/div[1]/input[1]",
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputPassword",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {},
+                "_canEncrypt": true,
+                "_cipher": null
+              }
+            },
+            "Enabled": true,
+            "Order": 16,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "WebTestrnspdd5b.wo3",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -2438,7 +2518,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "BO - Web Site\\Verifying that personal information present and correct.resx",
+    "ResourceFilePath": "CRM\\WebTest.resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -2468,13 +2548,13 @@
     "QcTestVersionStamp": 0,
     "TestLinks": [],
     "Description": "",
-    "Name": "Verifying that personal information present and correct",
+    "Name": "WebTest",
     "Owner": "",
-    "Path": "BO - Web Site\\Verifying that personal information present and correct.tstest",
+    "Path": "CRM\\WebTest.tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "65eea67f-6d4e-4513-9a6b-f9155ad6e39e",
-    "Id": "65eea67f-6d4e-4513-9a6b-f9155ad6e39e",
+    "UniqueId": "10d0335b-4811-4fbc-ba7b-0e78e7f73d88",
+    "Id": "10d0335b-4811-4fbc-ba7b-0e78e7f73d88",
     "ProjectId": "f64a64db-19cf-4629-aecf-fb7a07075dcb",
     "Version": 200
   }

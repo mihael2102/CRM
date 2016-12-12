@@ -122,13 +122,13 @@
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
             "Runtime ID": "d605241e-3d85-471b-97ca-68bd0eb7e140",
-            "Description": "Navigate to : '/sprint' - DataDriven: [$(link)][$(link)][$(link)]",
+            "Description": "Navigate to : '/' - DataDriven: [$(link)][$(link)][$(link)]",
             "CustomDescription": "Navigate to ",
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.NavigateToActionDescriptor",
               "__value": {
                 "UseDecodedUrl": true,
-                "NavigateURL": "/sprint",
+                "NavigateURL": "/",
                 "BaseUrl": "mtxplus.ptscrm.com",
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,
@@ -1831,7 +1831,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "a7b6b0e3-9edc-4644-b90d-3108e2ead695",
+            "Runtime ID": "1052fd7e-81e1-4f2f-9d05-3fde5b06986c",
             "Description": "IF (Wait for Exists 'IntroducingLink')",
             "CustomDescription": null,
             "Step": {

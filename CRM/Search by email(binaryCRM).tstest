@@ -128,7 +128,7 @@
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.NavigateToActionDescriptor",
               "__value": {
                 "UseDecodedUrl": true,
-                "NavigateURL": "/sprint",
+                "NavigateURL": "/",
                 "BaseUrl": "http://mtxplus.ptscrm.com",
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,
@@ -1353,7 +1353,7 @@
                       "FindExpression": {
                         "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
                         "__value": {
-                          "uniqueKey": "JPC6MP9KoyM1ciutk0Hei0d3j34=",
+                          "uniqueKey": "oP42S410+GCC7mBC/+xBXyjEpXc=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
                           "Name": "MichaelQApandaLink",
@@ -1367,12 +1367,6 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "tagname=a"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
                                         "Clause": "TextContent=^MichaelQApanda+"
                                       }
                                     }
@@ -1383,7 +1377,7 @@
                               }
                             }
                           ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[16]/form[1]/div[2]/table[1]/tbody[1]/tr[4]/td[8]/a[1]",
+                          "BackupSearchClause": "/html[1]/body[1]/table[3]/tbody[1]/tr[1]/td[2]/div[4]/form[1]/div[2]/table[1]/tbody[1]/tr[4]/td[7]/span[1]/div[1]",
                           "DataBindingExpressions": {}
                         }
                       },

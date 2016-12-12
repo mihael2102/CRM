@@ -1,0 +1,206 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.Execution.TestList",
+  "__value": {
+    "TestListId": "c5e019c4-997d-4adc-8d9e-4168b008d40c",
+    "Id": "c5e019c4-997d-4adc-8d9e-4168b008d40c",
+    "TestListName": "Algo-Site",
+    "CreationDate": "2016-12-12T12:03:25",
+    "OwnerName": null,
+    "Settings": {
+      "__type": "ArtOfTest.WebAii.Core.Settings",
+      "__value": {
+        "Web": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WebSettings",
+          "__value": {
+            "IsProfilingExecution": false,
+            "ExecutingBrowsers": [],
+            "UseMultiBrowserExecution": false,
+            "RecycleBrowser": false,
+            "AspNetDevServerPort": -1,
+            "LocalWebServer": 0,
+            "EnableUILessRequestViewing": false,
+            "WebAppPhysicalPath": "",
+            "DefaultBrowser": 7,
+            "EnableScriptLogging": false,
+            "BaseUrl": "https://binaryalgo.com/",
+            "KillBrowserProcessOnClose": false,
+            "UseHttpProxy": false,
+            "EnableSilverlight": false,
+            "VerboseHttpProxy": false,
+            "SilverlightConnectTimeout": 60000,
+            "SilverlightApplicationPath": null
+          }
+        },
+        "Wpf": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WpfSettings",
+          "__value": {
+            "DefaultApplicationPath": null
+          }
+        },
+        "CreateLogFile": true,
+        "LogLocation": "C:\\WebAiiLog\\",
+        "QueryEventLogErrorsOnExit": false,
+        "LogAnnotations": false,
+        "SimulatedMouseMoveSpeed": 0.3,
+        "WaitCheckInterval": 500,
+        "ElementWaitTimeout": 15000,
+        "ExecuteCommandTimeout": 20000,
+        "ExecutionDelay": 0,
+        "UnexpectedDialogAction": 2,
+        "AnnotateExecution": false,
+        "AnnotationMode": 0,
+        "XMultiMgr": true,
+        "ClientReadyTimeout": 60000,
+        "DisableDialogMonitoring": false
+      }
+    },
+    "Tests": [
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "3fb12680-71ad-4a9b-8327-6ef8ec207010",
+          "Path": "BO - Web Site\\Buttons 'Login' and 'SignUp' are present(BO).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "c77f11f7-400d-4bf4-a0d1-e591a230c273",
+          "Path": "BO - Web Site\\Copy option enebled.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "dec36de8-36a8-4294-b132-690ada1d4a9d",
+          "Path": "BO - Web Site\\If user is able to change time zone.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "833debba-a5e7-47a6-8020-271795c195db",
+          "Path": "BO - Web Site\\Insufficient funds popup if user doesn't have any money.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "2e953233-2eff-410e-a164-d65c2f2116b7",
+          "Path": "BO - Web Site\\Live Chat - sending sms is available.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "f3ebaaf8-77b9-4101-b80e-93b13dc375a4",
+          "Path": "BO - Web Site\\Live Chat exists.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "fe5ab934-593d-46c9-85b0-bdffe6c3c19e",
+          "Path": "BO - Web Site\\Log out.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "ddf9c354-e8c7-4b7c-81dc-a97bf39641a5",
+          "Path": "BO - Web Site\\Login with valid credentials.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "6f3ad119-81b8-4006-9bd4-4089ca67f2ae",
+          "Path": "BO - Web Site\\Long Term is present in the High-Low tab (Trading Platform).tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "a233b3c8-4627-4b68-a75f-4f263250fb92",
+          "Path": "BO - Web Site\\Option to start trading is present.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "76d2588f-320b-4be0-8d56-2b4c47dcbea6",
+          "Path": "BO - Web Site\\Redirecting to Social Trading page if user clicks on Follow option.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "76456e14-39ba-4c67-8a40-03e7c5b897f6",
+          "Path": "BO - Web Site\\Redirecting user to Trading Platform after login.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "c39fc4fc-2ac9-4a9e-b70e-a7aa80e98b14",
+          "Path": "BO - Web Site\\System redirects to Deposit page from the insufficient funds popup.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "0e1e5dc6-07d8-49e1-b129-6ca0656b7ddf",
+          "Path": "BO - Web Site\\System redirects to the corresponding page from each menu item.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "dfb9331d-f2e3-41f6-addc-94693e53b7f1",
+          "Path": "BO - Web Site\\Verify that correct local time is displayed.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "3af69db0-c261-48e8-b17f-7d126c3de49d",
+          "Path": "BO - Web Site\\Verify that menu is present.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "65eea67f-6d4e-4513-9a6b-f9155ad6e39e",
+          "Path": "BO - Web Site\\Verifying that personal information present and correct.tstest",
+          "PathType": 0
+        }
+      }
+    ],
+    "Filter": {
+      "__type": "ArtOfTest.WebAii.Design.Execution.Filter",
+      "__value": {
+        "Keys": [],
+        "Comparisons": [],
+        "Values": []
+      }
+    },
+    "ListType": 0,
+    "ProjectId": "f64a64db-19cf-4629-aecf-fb7a07075dcb"
+  }
+}
