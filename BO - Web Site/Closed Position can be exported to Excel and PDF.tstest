@@ -27,7 +27,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "26bc4a77-ed1c-409e-8e18-397dbc068369",
+            "Runtime ID": "c539e644-87a7-422f-8ac3-52581f47da05",
             "Description": "Clear Browser Cache",
             "CustomDescription": null,
             "Step": {
@@ -63,7 +63,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "User is able to tradeoosfgabc.31p",
+            "StepImageKey": "Closed Position can be exported to Excel and PDF2v0o0utz.s2x",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -72,7 +72,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "2e3e5dab-2973-4cb4-9341-61af5abcbe27",
+            "Runtime ID": "92686eb3-661d-468d-ac29-c7e7d8157a72",
             "Description": "Navigate to : '/'",
             "CustomDescription": null,
             "Step": {
@@ -108,7 +108,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "User is able to tradeh2gobhpr.5f2",
+            "StepImageKey": "Closed Position can be exported to Excel and PDF4npfcbil.psl",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -117,7 +117,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "8f9948c9-f183-4a5c-b7b8-057f0818a0ef",
+            "Runtime ID": "0e22b2e8-7bbb-408d-9f4b-2d5c1a76f3ff",
             "Description": "IF (Wait for Exists 'LoginLink')",
             "CustomDescription": null,
             "Step": {
@@ -227,7 +227,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "da75f3a2-f2ce-46a3-9c33-54eb9d4692dc",
+                              "Runtime ID": "a681dc8b-4573-4803-8375-8ab7bb28096a",
                               "Description": "Click 'LoginLink'",
                               "CustomDescription": null,
                               "Step": {
@@ -338,7 +338,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "e813f233-ff55-47a4-98f1-77276702d124",
+                              "Runtime ID": "69fc765f-3aac-42bd-87e9-f6094d00ff5c",
                               "Description": "Enter text 'MichaelQApanda+1@gmail.com' in 'PfLoginEmailEmail'",
                               "CustomDescription": null,
                               "Step": {
@@ -462,7 +462,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "61689271-4727-4172-b472-e44ac6aa7457",
+                              "Runtime ID": "89b0fad1-1a6a-4b6a-bb84-709d526f0817",
                               "Description": "Enter text 'q1w2e3' in 'PfLoginPassPassword'",
                               "CustomDescription": null,
                               "Step": {
@@ -586,7 +586,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "1018df41-b8ce-423b-aed2-62f6bc395312",
+                              "Runtime ID": "50e4c9a0-6423-4be4-bcb8-d067c5465721",
                               "Description": "Click 'LoginSubmitSubmit'",
                               "CustomDescription": null,
                               "Step": {
@@ -710,7 +710,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "2f70acb6-f1c6-4515-ba86-33167278afb9",
+                              "Runtime ID": "5493c234-7bae-4ddb-885a-c79d82c6f3cc",
                               "Description": "Enter text 'MichaelQApanda+1@gmail.com' in 'UsernameText'",
                               "CustomDescription": null,
                               "Step": {
@@ -830,7 +830,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "26e2c60a-0e5a-41e1-b7de-3d7cba255d5a",
+                              "Runtime ID": "3221a6cb-e454-4b2a-8d59-f0e546d18a1c",
                               "Description": "Enter text 'q1w2e3' in 'UserpassPassword'",
                               "CustomDescription": null,
                               "Step": {
@@ -950,7 +950,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "d4b966e8-8963-4bd1-8fcf-9dd7780e7be9",
+                              "Runtime ID": "0732d63c-0cef-4b51-b7e8-f92add6a0561",
                               "Description": "Click 'SendSubmit'",
                               "CustomDescription": null,
                               "Step": {
@@ -1061,7 +1061,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "d617939f-b55b-4e1b-a08f-92a3edbdab58",
+                              "Runtime ID": "e258f53f-8684-43f1-ac58-3ecd07edd21b",
                               "Description": "Enter text 'MichaelQApanda+1@gmail.com' in 'PfLoginEmailEmail'",
                               "CustomDescription": null,
                               "Step": {
@@ -1185,7 +1185,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "a86d862d-f09c-4537-af7d-2d66f9befff8",
+                              "Runtime ID": "fdc5fff2-eb07-4018-be2f-71aeb3100e45",
                               "Description": "Enter text 'q1w2e3' in 'PfLoginPassPassword'",
                               "CustomDescription": null,
                               "Step": {
@@ -1309,7 +1309,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "9c97acea-620c-4d5c-ab4d-139318551ab0",
+                              "Runtime ID": "ca1ec378-2608-457b-b20c-236eddf6dad6",
                               "Description": "Click 'LoginSubmitSubmit'",
                               "CustomDescription": null,
                               "Step": {
@@ -1516,7 +1516,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "User is able to tradeeds5eoo0.ji4",
+            "StepImageKey": "Closed Position can be exported to Excel and PDF5fvpidvg.prc",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -1525,7 +1525,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "f1d13b99-c079-43b9-91d5-6aebfbd2b1a9",
+            "Runtime ID": "d3d794bf-9e0b-4599-aba1-5110cf53a300",
             "Description": "Verify element 'LogoutLink' 'is' visible.",
             "CustomDescription": null,
             "Step": {
@@ -1632,7 +1632,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "User is able to trade1n51hsu2.gsp",
+            "StepImageKey": "Closed Position can be exported to Excel and PDFxdiukzxi.wmq",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -1641,7 +1641,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "fe1b8056-5d1c-4871-ac26-bb84eba969dd",
+            "Runtime ID": "58e84345-4431-4d53-a39c-40df09ffd899",
             "Description": "IF (Wait for Exists 'HighSpan')",
             "CustomDescription": null,
             "Step": {
@@ -1765,7 +1765,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "3fa51a49-8914-423d-aa84-907a0f35c221",
+                              "Runtime ID": "3af7db56-9074-4d6b-8d59-7c245a78a519",
                               "Description": "Desktop command: LeftClick on TradeLink",
                               "CustomDescription": null,
                               "Step": {
@@ -1881,7 +1881,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "ed0bd634-0ec5-4b7a-a5a2-9788ea55160d",
+                              "Runtime ID": "97f0b071-07ba-43b9-afe2-3f7c68758e6b",
                               "Description": "Click 'TradingSpan'",
                               "CustomDescription": null,
                               "Step": {
@@ -1996,7 +1996,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "e5d2f7a4-a1d4-4ec5-a29d-5c7ae92e19d0",
+                              "Runtime ID": "784de23c-b5a8-44db-9146-4924bbf9ab94",
                               "Description": "Click 'TradingSpan0'",
                               "CustomDescription": null,
                               "Step": {
@@ -2105,7 +2105,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "1a0996d6-8e08-41dd-9fbb-282cb9917744",
+                              "Runtime ID": "b597a0e5-1dc3-401d-88c6-64a7f77d57fb",
                               "Description": "Verify 'TextContent' 'Contains' 'Trade' on 'TradeLink'",
                               "CustomDescription": null,
                               "Step": {
@@ -2217,7 +2217,7 @@
                           {
                             "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
                             "__value": {
-                              "Runtime ID": "4bf415d7-84f1-4bdc-83d7-c8fb6d1c0f51",
+                              "Runtime ID": "9b7d76ee-2c76-4bee-9181-a5b6e7ed5e32",
                               "Description": "Desktop command: LeftClick on TradeLink",
                               "CustomDescription": null,
                               "Step": {
@@ -2429,7 +2429,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "User is able to tradeauxaebrw.jw5",
+            "StepImageKey": "Closed Position can be exported to Excel and PDFebgowhsv.ct5",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -2438,233 +2438,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "0e5c00b5-3655-4044-b836-7a80463a6bab",
-            "Description": "Click 'HighSpan'",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
-              "__value": {
-                "SimulateRealClick": false,
-                "UsejQuery": false,
-                "UseBackupSearch": true,
-                "ClosesBrowser": false,
-                "AjaxTimeout": 0,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "target": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "target",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "",
-                          "Query": "",
-                          "BaseUrl": "https://wynnfinance.com/",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Wynn Finance | Home Page",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "WynnFinanceHomePage"
-                        }
-                      },
-                      "Frame": null,
-                      "FindInfo": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "IAFDshoP0tSIxDslAIkbE5OkdMU=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "HighSpan",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "id=asset_EURUSD"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "TagIndex=span:12"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": [
-                                    1
-                                  ]
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": null,
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": false,
-            "Order": 6,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "User is able to tradeixxhxp5y.3md",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "0445a3e6-9a9b-489d-9850-f9aace61834a",
-            "Description": "Click 'High'",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
-              "__value": {
-                "SimulateRealClick": false,
-                "UsejQuery": false,
-                "UseBackupSearch": true,
-                "ClosesBrowser": false,
-                "AjaxTimeout": 0,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "target": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "target",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "/trade/",
-                          "Query": "",
-                          "BaseUrl": "https://binaryalgo.com",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Trade – BINARY ALGO",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "TradeBINARYALGO"
-                        }
-                      },
-                      "Frame": null,
-                      "FindInfo": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "C1owC89FhUCIgBA69Al/ycV+Ieo=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "High",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "TagName=div"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "InnerText=High"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "class=arrowUp loopAnimation"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": []
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]",
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": false,
-            "Order": 7,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "User is able to tradeeyxemtxr.xp5",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "d816efd7-16cd-4cac-9ff8-dead9d07fb7b",
+            "Runtime ID": "ef38bec5-1d06-47a5-8b1a-12d73402ef4a",
             "Description": "Click 'Div10'",
             "CustomDescription": null,
             "Step": {
@@ -2772,11 +2546,11 @@
               }
             },
             "Enabled": true,
-            "Order": 8,
+            "Order": 6,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "User is able to tradei2skqcuk.hfu",
+            "StepImageKey": "Closed Position can be exported to Excel and PDFtmiqmrdr.pla",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -2785,7 +2559,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "284e76ee-26cc-4d78-ab0a-1ecf448d7656",
+            "Runtime ID": "e6c1071f-a12f-48c3-8879-6ca592fb9c2e",
             "Description": "Click 'InvestDiv'",
             "CustomDescription": null,
             "Step": {
@@ -2798,7 +2572,7 @@
                 "AjaxTimeout": 0,
                 "Pause": 0,
                 "WaitOnElementsTimeout": 30000,
-                "UseStepWaitOnElementsTimout": false,
+                "UseStepWaitOnElementsTimout": true,
                 "WaitOnElements": true,
                 "RunsAgainstVersion": "",
                 "Constraints": {
@@ -2881,11 +2655,11 @@
               }
             },
             "Enabled": true,
-            "Order": 9,
+            "Order": 7,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "User is able to tradebzqlivtg.iy3",
+            "StepImageKey": "Closed Position can be exported to Excel and PDFibvnfl0t.qiy",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -2894,8 +2668,8 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "f0d719d6-b33b-4e2f-908a-7e08e3a604f2",
-            "Description": "Click 'OK4Div'",
+            "Runtime ID": "1559da3e-bb83-428d-b1b6-11f4862dd5e9",
+            "Description": "Click 'ClosedTradesSpan'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
@@ -2939,12 +2713,12 @@
                       "Frame": null,
                       "FindInfo": null,
                       "FindExpression": {
-                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "nC2YIjDqtCFK81j4deRZQWZEHtI=",
+                          "uniqueKey": "fGxuKcebufwXfOkWFveYp50SyrY=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
-                          "Name": "OK4Div",
+                          "Name": "ClosedTradesSpan",
                           "FindExpressions": [
                             {
                               "Key": 1,
@@ -2955,249 +2729,18 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "tagname=div"
+                                        "Clause": "tagname=span"
                                       }
                                     },
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "TextContent=^OK"
+                                        "Clause": "TextContent=Closed Trades"
                                       }
                                     }
                                   ],
                                   "Constraints": [],
                                   "ChainStops": []
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": null,
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": true,
-            "Order": 10,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "User is able to tradea4nghzqf.sce",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "9152f75e-f11e-40c7-b275-d079aa7df255",
-            "Description": "Extract 'TextContent' on 'x141826GMT2Div' into DataBindVariable $(time)",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ContentVerificationDescriptor",
-              "__value": {
-                "CompareType": 2,
-                "SegmentType": 3,
-                "ExpectedString": "14:18:26 GMT +2",
-                "UseBackupSearch": true,
-                "DataBindVariableName": "time",
-                "Timeout": 30000,
-                "CheckInterval": 500,
-                "EnsureStateIsCurrent": false,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "textTarget": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "textTarget",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "/",
-                          "Query": "",
-                          "BaseUrl": "https://binaryalgo.com",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "BINARY ALGO",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "BINARYALGO"
-                        }
-                      },
-                      "Frame": null,
-                      "FindInfo": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "eBHYFxpv7Bfv44PD13E/zgJeEAU=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "x141826GMT2Div",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "id=inner_wrapper"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "class=time"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "TextContent=~GMT"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": [
-                                    1
-                                  ]
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 16,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": true,
-            "Order": 11,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "User is able to tradeeidywmqc.4lw",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "b358c67a-c09e-44f4-9088-1e1d4cc08ed9",
-            "Description": "Click 'OpenTradesSpan'",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
-              "__value": {
-                "SimulateRealClick": false,
-                "UsejQuery": false,
-                "UseBackupSearch": true,
-                "ClosesBrowser": false,
-                "AjaxTimeout": 0,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "target": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "target",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "/trade/",
-                          "Query": "",
-                          "BaseUrl": "https://binaryalgo.com",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Trade – BINARY ALGO",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "TradeBINARYALGO"
-                        }
-                      },
-                      "Frame": null,
-                      "FindInfo": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "0oidmTr8cngecLid0AToWARwGl8=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "OpenTradesSpan",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "id=tab-1"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "TagIndex=span:0"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": [
-                                    1
-                                  ]
                                 }
                               }
                             }
@@ -3221,11 +2764,11 @@
               }
             },
             "Enabled": true,
-            "Order": 12,
+            "Order": 8,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "User is able to tradehrcqnduu.3va",
+            "StepImageKey": "Closed Position can be exported to Excel and PDFgd01c5y0.qg3",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -3234,8 +2777,8 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "9ff3b20d-9da8-4407-86a6-387fdc336f8d",
-            "Description": "Click 'UnorderedList'",
+            "Runtime ID": "6e68cce8-3960-4e39-9e0f-0b36b67231b0",
+            "Description": "Click '1Link'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
@@ -3265,26 +2808,26 @@
                       "Page": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                         "__value": {
-                          "Path": "/trade/",
+                          "Path": "/my-account/closed-trades/",
                           "Query": "",
                           "BaseUrl": "https://binaryalgo.com",
                           "EquivalentUrls": [],
                           "Fragment": "",
-                          "Title": "Trade – BINARY ALGO",
+                          "Title": "Closed Trades – BINARY ALGO",
                           "CompareMode": 2,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "TradeBINARYALGO"
+                          "FriendlyName": "ClosedTradesBINARYALGO"
                         }
                       },
                       "Frame": null,
                       "FindInfo": null,
                       "FindExpression": {
-                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "BU7V3G4E38bzKKL2x+sqp+TY5OA=",
+                          "uniqueKey": "JEgEIllQFBwbTb8YgWV0pBInBR0=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
-                          "Name": "UnorderedList",
+                          "Name": "1Link",
                           "FindExpressions": [
                             {
                               "Key": 1,
@@ -3295,29 +2838,27 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "id=bnmain"
+                                        "Clause": "tagname=a"
                                       }
                                     },
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "class=openTradesDetails tradeStatusUp borderUpColor"
+                                        "Clause": "TextContent=1"
                                       }
                                     }
                                   ],
                                   "Constraints": [],
-                                  "ChainStops": [
-                                    1
-                                  ]
+                                  "ChainStops": []
                                 }
                               }
                             }
                           ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]",
+                          "BackupSearchClause": null,
                           "DataBindingExpressions": {}
                         }
                       },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlControl",
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
                       "IsIndependent": false,
                       "DomStateKey": "",
                       "TechnologyType": 1,
@@ -3332,11 +2873,11 @@
               }
             },
             "Enabled": true,
-            "Order": 13,
+            "Order": 9,
             "Id": "",
             "StepState": 0,
-            "ContinueOnFailure": true,
-            "StepImageKey": "User is able to tradedqfe03op.szu",
+            "ContinueOnFailure": false,
+            "StepImageKey": "Closed Position can be exported to Excel and PDF4tup0ke2.zk1",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -3345,20 +2886,17 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "1125ab86-9f22-411f-8011-8b923616abb4",
-            "Description": "Verify 'TextContent' 'StartsWith' '' on 'x1512140903Div' - DataDriven: [$(time)]",
+            "Runtime ID": "741942a5-6d12-4b36-9818-083acac6d2e1",
+            "Description": "Click '18Link'",
             "CustomDescription": null,
             "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ContentVerificationDescriptor",
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
               "__value": {
-                "CompareType": 4,
-                "SegmentType": 3,
-                "ExpectedString": "",
+                "SimulateRealClick": false,
+                "UsejQuery": false,
                 "UseBackupSearch": true,
-                "DataBindVariableName": "time_of_trade",
-                "Timeout": 30000,
-                "CheckInterval": 500,
-                "EnsureStateIsCurrent": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
                 "Pause": 0,
                 "WaitOnElementsTimeout": 30000,
                 "UseStepWaitOnElementsTimout": false,
@@ -3371,34 +2909,34 @@
                   }
                 },
                 "Elements": {
-                  "textTarget": {
+                  "target": {
                     "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
                     "__value": {
-                      "Name": "textTarget",
+                      "Name": "target",
                       "Region": null,
                       "Page": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
                         "__value": {
-                          "Path": "/trade/",
+                          "Path": "/my-account/closed-trades/",
                           "Query": "",
                           "BaseUrl": "https://binaryalgo.com",
                           "EquivalentUrls": [],
                           "Fragment": "",
-                          "Title": "Trade – BINARY ALGO",
+                          "Title": "Closed Trades – BINARY ALGO",
                           "CompareMode": 2,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "TradeBINARYALGO"
+                          "FriendlyName": "ClosedTradesBINARYALGO"
                         }
                       },
                       "Frame": null,
                       "FindInfo": null,
                       "FindExpression": {
-                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
                         "__value": {
-                          "uniqueKey": "y4UTSSz/a+NZI+RZc3trtXmuH9w=",
+                          "uniqueKey": "0x8tWJTSiWV0zMYY2OHQnYzDp1I=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
-                          "Name": "x1512140903Div",
+                          "Name": "18Link",
                           "FindExpressions": [
                             {
                               "Key": 1,
@@ -3409,19 +2947,13 @@
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "tagname=div"
+                                        "Clause": "tagname=a"
                                       }
                                     },
                                     {
                                       "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                                       "__value": {
-                                        "Clause": "class=cellData"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "data-bind=moment: creationTime, format: 'DD/MM HH:mm:ss'"
+                                        "Clause": "TextContent=18"
                                       }
                                     }
                                   ],
@@ -3431,11 +2963,11 @@
                               }
                             }
                           ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                          "BackupSearchClause": null,
                           "DataBindingExpressions": {}
                         }
                       },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
                       "IsIndependent": false,
                       "DomStateKey": "",
                       "TechnologyType": 1,
@@ -3443,20 +2975,236 @@
                     }
                   }
                 },
-                "StepType": 2,
+                "StepType": 4,
                 "LogMessageOnFailure": "",
                 "EditorType": "",
-                "DataBindingExpressions": {
-                  "ExpectedString": "$(time)"
-                }
+                "DataBindingExpressions": {}
               }
             },
             "Enabled": true,
-            "Order": 14,
+            "Order": 10,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "User is able to tradesjspcnhw.ff3",
+            "StepImageKey": "Closed Position can be exported to Excel and PDFf0d2tvmh.mud",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "498a1b77-419e-4726-a43f-a333a86cfdd6",
+            "Description": "Click 'ToPDFBUTTONTag'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": false,
+                "UsejQuery": false,
+                "UseBackupSearch": true,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "/my-account/closed-trades/",
+                          "Query": "",
+                          "BaseUrl": "https://binaryalgo.com",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Closed Trades – BINARY ALGO",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "ClosedTradesBINARYALGO"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "EwcyBTN6QFkVyJnfVqOdHY99Y5g=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "ToPDFBUTTONTag",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=button"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "TextContent=To PDF"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": null,
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlButton",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 11,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Closed Position can be exported to Excel and PDFzl43x1ib.4xr",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "27f2b219-420e-4143-bcae-36bd6620f1e7",
+            "Description": "Click 'ToCSVBUTTONTag'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": false,
+                "UsejQuery": false,
+                "UseBackupSearch": true,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "/my-account/closed-trades/",
+                          "Query": "",
+                          "BaseUrl": "https://binaryalgo.com",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Closed Trades – BINARY ALGO",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "ClosedTradesBINARYALGO"
+                        }
+                      },
+                      "Frame": null,
+                      "FindInfo": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "mLZCCFfIxUrmVNVsdobKFA5c8PU=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "ToCSVBUTTONTag",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=button"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "TextContent=To CSV"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": null,
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlButton",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 12,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Closed Position can be exported to Excel and PDF2nzz1cf1.vkc",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -3487,142 +3235,12 @@
           "Frame": null,
           "FindInfo": null,
           "FindExpression": {
-            "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+            "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
             "__value": {
-              "uniqueKey": "p8kWATVtgRifTrfS/fz6CpAyylg=",
+              "uniqueKey": "SGWtAQpetZurM5+aUyE0ZjFnkao=",
               "NodeKind": 4,
               "TechnologyType": 1,
-              "Name": "HighSpan",
-              "FindExpressions": [
-                {
-                  "Key": 1,
-                  "Value": {
-                    "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                    "__value": {
-                      "Clauses": [
-                        {
-                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                          "__value": {
-                            "Clause": "TagName=span"
-                          }
-                        },
-                        {
-                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                          "__value": {
-                            "Clause": "TextContent=High"
-                          }
-                        }
-                      ],
-                      "Constraints": [],
-                      "ChainStops": []
-                    }
-                  }
-                }
-              ],
-              "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]",
-              "DataBindingExpressions": {}
-            }
-          },
-          "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
-          "IsIndependent": true,
-          "DomStateKey": "",
-          "TechnologyType": 1,
-          "Version": 200
-        }
-      },
-      {
-        "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-        "__value": {
-          "Name": "$$Independent$$",
-          "Region": null,
-          "Page": {
-            "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-            "__value": {
-              "Path": "/trade/",
-              "Query": "",
-              "BaseUrl": "https://binaryalgo.com",
-              "EquivalentUrls": [],
-              "Fragment": "",
-              "Title": "Trade – BINARY ALGO",
-              "CompareMode": 2,
-              "AlwaysUseTitleInCompare": false,
-              "FriendlyName": "TradeBINARYALGO"
-            }
-          },
-          "Frame": null,
-          "FindInfo": null,
-          "FindExpression": {
-            "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
-            "__value": {
-              "uniqueKey": "l/uoDyU5hJ8PR/I1HLuKnZOF5lk=",
-              "NodeKind": 4,
-              "TechnologyType": 1,
-              "Name": "Div0",
-              "FindExpressions": [
-                {
-                  "Key": 1,
-                  "Value": {
-                    "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                    "__value": {
-                      "Clauses": [
-                        {
-                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                          "__value": {
-                            "Clause": "TagName=div"
-                          }
-                        },
-                        {
-                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                          "__value": {
-                            "Clause": "InnerText=High"
-                          }
-                        }
-                      ],
-                      "Constraints": [],
-                      "ChainStops": []
-                    }
-                  }
-                }
-              ],
-              "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]",
-              "DataBindingExpressions": {}
-            }
-          },
-          "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
-          "IsIndependent": true,
-          "DomStateKey": "",
-          "TechnologyType": 1,
-          "Version": 200
-        }
-      },
-      {
-        "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-        "__value": {
-          "Name": "$$Independent$$",
-          "Region": null,
-          "Page": {
-            "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-            "__value": {
-              "Path": "/trade/",
-              "Query": "",
-              "BaseUrl": "https://binaryalgo.com",
-              "EquivalentUrls": [],
-              "Fragment": "",
-              "Title": "Trade – BINARY ALGO",
-              "CompareMode": 2,
-              "AlwaysUseTitleInCompare": false,
-              "FriendlyName": "TradeBINARYALGO"
-            }
-          },
-          "Frame": null,
-          "FindInfo": null,
-          "FindExpression": {
-            "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
-            "__value": {
-              "uniqueKey": "bYjyYBdti2k7uPvysWv5GCwT4Qs=",
-              "NodeKind": 4,
-              "TechnologyType": 1,
-              "Name": "Div1",
+              "Name": "Div",
               "FindExpressions": [
                 {
                   "Key": 1,
@@ -3639,25 +3257,7 @@
                         {
                           "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                           "__value": {
-                            "Clause": "TagName=div"
-                          }
-                        },
-                        {
-                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                          "__value": {
-                            "Clause": "tagIndex=^div:15"
-                          }
-                        },
-                        {
-                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                          "__value": {
-                            "Clause": "InnerText=High"
-                          }
-                        },
-                        {
-                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                          "__value": {
-                            "Clause": "class=arrowUp active"
+                            "Clause": "tagIndex=div:18"
                           }
                         }
                       ],
@@ -3669,7 +3269,7 @@
                   }
                 }
               ],
-              "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]",
+              "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]",
               "DataBindingExpressions": {}
             }
           },
@@ -3702,12 +3302,12 @@
           "Frame": null,
           "FindInfo": null,
           "FindExpression": {
-            "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+            "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
             "__value": {
-              "uniqueKey": "0pl/YJwgbr4b8hmvQoKmPV91wL4=",
+              "uniqueKey": "C1owC89FhUCIgBA69Al/ycV+Ieo=",
               "NodeKind": 4,
               "TechnologyType": 1,
-              "Name": "UnorderedList0",
+              "Name": "High",
               "FindExpressions": [
                 {
                   "Key": 1,
@@ -3718,29 +3318,33 @@
                         {
                           "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                           "__value": {
-                            "Clause": "id=bnmain"
+                            "Clause": "TagName=div"
                           }
                         },
                         {
                           "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
                           "__value": {
-                            "Clause": "tagIndex=ul:18"
+                            "Clause": "InnerText=High"
+                          }
+                        },
+                        {
+                          "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                          "__value": {
+                            "Clause": "class=arrowUp loopAnimation"
                           }
                         }
                       ],
                       "Constraints": [],
-                      "ChainStops": [
-                        1
-                      ]
+                      "ChainStops": []
                     }
                   }
                 }
               ],
-              "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]",
+              "BackupSearchClause": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]",
               "DataBindingExpressions": {}
             }
           },
-          "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlControl",
+          "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
           "IsIndependent": true,
           "DomStateKey": "",
           "TechnologyType": 1,
@@ -3761,7 +3365,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "BO - Web Site\\User is able to trade.resx",
+    "ResourceFilePath": "BO - Web Site\\Closed Position can be exported to Excel and PDF.resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -3791,13 +3395,13 @@
     "QcTestVersionStamp": 0,
     "TestLinks": [],
     "Description": "",
-    "Name": "User is able to trade",
+    "Name": "Closed Position can be exported to Excel and PDF",
     "Owner": "",
-    "Path": "BO - Web Site\\User is able to trade.tstest",
+    "Path": "BO - Web Site\\Closed Position can be exported to Excel and PDF.tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "545a9936-23d7-4a7f-8ecf-b43dde46248b",
-    "Id": "545a9936-23d7-4a7f-8ecf-b43dde46248b",
+    "UniqueId": "c0fb084e-6697-4711-bea9-a06edf265a8a",
+    "Id": "c0fb084e-6697-4711-bea9-a06edf265a8a",
     "ProjectId": "f64a64db-19cf-4629-aecf-fb7a07075dcb",
     "Version": 200
   }
