@@ -7251,7 +7251,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "BO - Web Site\\User can update Personal Info. Data are updated in CRM too.resx",
+    "ResourceFilePath": "CRM\\User can update Personal Info. Data are updated in CRM too.resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -7292,11 +7292,11 @@
     "Description": "",
     "Name": "User can update Personal Info. Data are updated in CRM too",
     "Owner": "",
-    "Path": "BO - Web Site\\User can update Personal Info. Data are updated in CRM too.tstest",
+    "Path": "CRM\\User can update Personal Info. Data are updated in CRM too.tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "90da5627-4ee8-4443-86ec-8648793e406d",
-    "Id": "90da5627-4ee8-4443-86ec-8648793e406d",
+    "UniqueId": "26a7256e-c60b-4e76-9ea8-b9cab5b72671",
+    "Id": "26a7256e-c60b-4e76-9ea8-b9cab5b72671",
     "ProjectId": "f64a64db-19cf-4629-aecf-fb7a07075dcb",
     "Version": 200
   }

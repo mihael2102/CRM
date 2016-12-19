@@ -150,7 +150,7 @@
       }
     },
     "UnitTypeTypeGeneration": 1,
-    "RecorderBaseUrl": "https://binaryalgo.com",
+    "RecorderBaseUrl": "http://binaryalgo.ptscrm.com/",
     "IsStoryBoardCapturingEnabled": true,
     "SimulateRealClickByDefault": false,
     "SimulateRealTypingByDefault": false,

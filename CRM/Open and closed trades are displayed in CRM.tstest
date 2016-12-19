@@ -4938,7 +4938,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "BO - Web Site\\Open and closed trades are displayed in CRM.resx",
+    "ResourceFilePath": "CRM\\Open and closed trades are displayed in CRM.resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -4970,11 +4970,11 @@
     "Description": "",
     "Name": "Open and closed trades are displayed in CRM",
     "Owner": "",
-    "Path": "BO - Web Site\\Open and closed trades are displayed in CRM.tstest",
+    "Path": "CRM\\Open and closed trades are displayed in CRM.tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "d28df43a-0a03-427f-8b1f-307eff7756af",
-    "Id": "d28df43a-0a03-427f-8b1f-307eff7756af",
+    "UniqueId": "4662844a-e603-4df7-afe5-252f9bbb2abe",
+    "Id": "4662844a-e603-4df7-afe5-252f9bbb2abe",
     "ProjectId": "f64a64db-19cf-4629-aecf-fb7a07075dcb",
     "Version": 200
   }
